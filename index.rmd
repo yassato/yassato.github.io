@@ -58,7 +58,7 @@ ORCID: [0000-0002-6466-723X](http://orcid.org/0000-0002-6466-723X)
 ### Publications  
 
 #### Preprint   
-1. Stockenhuber R, Akiyama A, Tissot N, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Milosavljevic S, Widmer A, Ulm R, Shimizu KK. (2021) The _UV RESISTANCE LOCUS 8_-mediated UV-B response is required alongside _CRYPTOCHROME1_ for plant survival under sunlight in the field. **_bioRxiv_** https://doi.org/10.1101/2021.12.08.471623.
+1. Stockenhuber R, Akiyama R, Tissot N, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Milosavljevic S, Widmer A, Ulm R, Shimizu KK. (2021) The _UV RESISTANCE LOCUS 8_-mediated UV-B response is required alongside _CRYPTOCHROME1_ for plant survival under sunlight in the field. **_bioRxiv_** https://doi.org/10.1101/2021.12.08.471623.
 
 #### Peer-reviewed   
 1. Takimoto H^\*^, **Sato Y**^\*^, Nagano AJ, Shimizu KK, Kanagawa A. (2021) Using a two-stage convolutional neural network to rapidly identify tiny herbivorous beetles in the field. **_Ecological Informatics_** 66:101466 ^\*^Equal contribution. <https://doi.org/10.1016/j.ecoinf.2021.101466>
