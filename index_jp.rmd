@@ -41,13 +41,13 @@ E-mail: yasuhiro.sato(あっと)uzh.ch; yassato36c(あっと)outlook.com; sato.y
 - 2017年10月-現在まで　龍谷大学　食と農の総合研究所　客員研究員（受入：[永野惇](http://ps.agr.ryukoku.ac.jp/naganolab/)准教授）  
 - 2017年7月-現在まで　チューリッヒ大学[URPP GCBプログラム](https://www.gcb.uzh.ch/en/aboutus/people.html)　連携メンバー  
 - 2017年10月-2021年3月　[科学技術振興機構　さきがけ専任研究者](https://www.jst.go.jp/kisoken/presto/project/1112074/1112074_26.html) (受入機関：龍谷大学)  
-- 2016年4月-現在まで　京都大学生態学研究センター　協力研究員  
+- 2016年4月-2020年3月　京都大学生態学研究センター　協力研究員  
 - 2016年4月-2017年9月　日本学術振興会　特別研究員PD (受入: [永野惇](http://ps.agr.ryukoku.ac.jp/naganolab/)講師\)  
 - 2015年4月-2016年3月　日本学術振興会　特別研究員DC2  
 - 2013年6月-2014年3月　京都大学生態学研究センターRA  
 
 ### 教育歴
-- 2021年9月-2021年10月　BIO373: Next Generation Sequencing for Evolutionary Functional Genomics, University of Zurich, Switzerland  
+- 2021年9月-現在まで　BIO373: Next Generation Sequencing for Evolutionary Functional Genomics, University of Zurich, Switzerland  
 - 2019年4月-2019年5月　龍谷大学農学部　非常勤講師『遺伝の考え方』(分担5回)  
 - 2018年7月-2018年8月　International Biology Undergraduate Summer School (BUSS) 2018, University of Zurich, Switzerland  
 - 2017年7月-2017年8月　BIO378: Research Practical in Evolutionary Biology and Systematics, University of Zurich, Switzerland  
@@ -65,7 +65,7 @@ E-mail: yasuhiro.sato(あっと)uzh.ch; yassato36c(あっと)outlook.com; sato.y
 
 1. **Sato Y**^\*^, Takeda K^\*^, Nagano AJ. (2021) Neighbor QTL: an interval mapping method for quantitative trait loci underlying plant neighborhood effects. **_G3; Genes|Genomes|Genetics_** 11(2):jkab017 ^\*^Equal contribution <https://doi.org/10.1093/g3journal/jkab017> [[R package]](https://CRAN.R-project.org/package=rNeighborQTL)  
 
-1. Shimizu-Inatsugi R, Milosavljevic  S, Shimizu KK, Schaepman-Strub G, Tanoi K, **Sato Y.** (2021) Metal accumulation and its effect on leaf herbivory in an allopolyploid species _Arabidopsis kamchatica_ inherited from a diploid hyperaccumulator _A. halleri_. **_Plant Species Biology_** 36(2):208–217. <https://doi.org/10.1111/1442-1984.12304>
+1. Shimizu-Inatsugi R, Milosavljevic S, Shimizu KK, Schaepman-Strub G, Tanoi K, **Sato Y.** (2021) Metal accumulation and its effect on leaf herbivory in an allopolyploid species _Arabidopsis kamchatica_ inherited from a diploid hyperaccumulator _A. halleri_. **_Plant Species Biology_** 36(2):208–217. <https://doi.org/10.1111/1442-1984.12304>
 
 1. **Sato Y**, Tezuka A, Kashima M, Deguchi A, Shimizu-Inatsugi R, Yamazaki M, Shimizu KK, Nagano AJ. (2019) Transcriptional variation in glucosinolate biosynthetic genes and inducible responses to aphid herbivory on field-grown _Arabidopsis thaliana_. **_Frontiers in Genetics_** 10:787 <https://doi.org/10.3389/fgene.2019.00787>
 
