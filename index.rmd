@@ -48,10 +48,10 @@ ORCID: [0000-0002-6466-723X](http://orcid.org/0000-0002-6466-723X)
 - 2013 - 2014: Research assistant of Center for Ecological Research, Kyoto University, Japan
 
 ### Teaching experience
-- 2021.09 - Present: BIO373. Next Generation Sequencing for Evolutionary Functional Genomics, University of Zurich, Switzerland  
-- 2019.04 - 2019.05: External Lecturer of Basic Genetics, Faculty of Agriculture, Ryukoku University, Japan
-- 2018.07 - 2018.08: International Biology Undergraduate Summer School (BUSS) 2018, University of Zurich, Switzerland
-- 2017.07 - 2017.08: BIO378: Research Practical in Evolutionary Biology and Systematics, University of Zurich, Switzerland
+- 2021.09 - Present: BIO373. Next Generation Sequencing for Evolutionary Functional Genomics, University of Zurich, Switzerland (Block course coordinator)  
+- 2019.04 - 2019.05: External Lecturer of Basic Genetics, Faculty of Agriculture, Ryukoku University, Japan (Co-instructor)  
+- 2018.07 - 2018.08: International Biology Undergraduate Summer School (BUSS) 2018, University of Zurich, Switzerland (Co-supervisor)  
+- 2017.07 - 2017.08: BIO378: Research Practical in Evolutionary Biology and Systematics, University of Zurich, Switzerland (Co-supervisor)  
 - 2013.09 - 2015.01: External Teaching Assistant of Basic Programming, Faculty of Science and Technology, Ryukoku University, Japan
 
 ### Publications  
@@ -109,7 +109,7 @@ ORCID: [0000-0002-6466-723X](http://orcid.org/0000-0002-6466-723X)
 1. JSPS Grants-in-Aid for Young Scientists (2020-2023, 3,200,000JPY as Principal Investigator)
 1. JST Precursory Research for Embryonic Science and Technology (PRESTO) (2017-2021, 40,000,000JPY as Principal Investigator)
 1. JSPS Research Fellowships for Young Scientists (PD) (2016-2017, 2,700,000JPY)
-1. JSPS Research Fellowships for Young Scientists (DC2) (2015-2016,  1,200,000JPY)
+1. JSPS Research Fellowships for Young Scientists (DC2) (2015-2016, 1,200,000JPY)
 1. JASSO Scholarship (2011-2015, 4,000,000JPY)  
 
 ### Panels and boards
