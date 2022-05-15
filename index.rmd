@@ -28,7 +28,7 @@ ORCID: [0000-0002-6466-723X](http://orcid.org/0000-0002-6466-723X)
 [ResearchGate](https://www.researchgate.net/profile/Yasuhiro_Sato3); [Publons](https://publons.com/researcher/450213/yasuhiro-sato)  
 
 ### Research interests
-1. Quantitative genetics of plant neighborhood effects (Sato et al. 2021 Heredity, G3, and ongoing)  
+1. Quantitative genetics of plant neighborhood effects on herbivory (Sato et al. 2021 Heredity, G3, and ongoing)  
 2. Evolutionary ecology of plant-herbivore interaction (Sato & Kudoh 2017 Am. Nat.; Sato, Ito & Kudoh 2017 Funct. Ecol.)  
 **Keywords: Ecological genetics, Plant-insect interaction, Herbivory**  
 
@@ -40,12 +40,12 @@ ORCID: [0000-0002-6466-723X](http://orcid.org/0000-0002-6466-723X)
 ### Research position
 - 2021.04 - Present: Oberassistent (Senior research and teaching assistant), Department of Evolutionary Biology and Environmental Studies, University of Zurich, Switzerland ([Evolutionary and Ecological Genomics Group](https://www.ieu.uzh.ch/en/research/evolbiol/ecogenomics.html)\)  
 - 2017.10 - Present: Guest researcher of Research Institute for Food and Agriculture, Ryukoku University, Japan  
-- 2017 - 2021: Fixed-term group leader of [Precursory Research for Embryonic Science and Technology](https://www.jst.go.jp/kisoken/presto/en/project/1112074/1112074_26.html) (PRESTO) project of Japan Science and Technology Agency (JST), Japan
-- 2017 - Present: Affiliated member of [University Research Priority Program Global Change and Biodiversity](https://www.gcb.uzh.ch/en/aboutus/people.html) (URPP GCB), University of Zurich, Switzerland   
-- 2016 - 2020: Affiliated scientist of Center for Ecological Research, Kyoto University
-- 2016 - 2017: Independent Postdoctoral Fellowship of Japan Society for the Promotion of Science (JSPS), Japan (advisor: Assoc. Prof. [Atsushi J. Nagano](https://researchmap.jp/anagano/?lang=english)\)
-- 2015 - 2016: Research Fellowship for PhD students (DC2), JSPS, Japan
-- 2013 - 2014: Research assistant of Center for Ecological Research, Kyoto University, Japan
+- 2017.10 - 2021.03: Fixed-term group leader of [Precursory Research for Embryonic Science and Technology](https://www.jst.go.jp/kisoken/presto/en/project/1112074/1112074_26.html) (PRESTO) project of Japan Science and Technology Agency (JST), Japan
+- 2017.08 - Present: Affiliated member of [University Research Priority Program Global Change and Biodiversity](https://www.gcb.uzh.ch/en/aboutus/people.html) (URPP GCB), University of Zurich, Switzerland   
+- 2016.04 - 2020.03: Affiliated scientist of Center for Ecological Research, Kyoto University
+- 2016.04 - 2017.09: Independent Postdoctoral Fellowship of Japan Society for the Promotion of Science (JSPS), Japan (advisor: Assoc. Prof. [Atsushi J. Nagano](https://researchmap.jp/anagano/?lang=english)\)
+- 2015.04 - 2016.03: Research Fellowship for PhD students (DC2), JSPS, Japan
+- 2013.06 - 2014.03: Research assistant of Center for Ecological Research, Kyoto University, Japan
 
 ### Teaching experience
 - 2021.09 - Present: BIO373. Next Generation Sequencing for Evolutionary Functional Genomics, University of Zurich, Switzerland (Block course coordinator)  
