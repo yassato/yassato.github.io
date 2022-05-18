@@ -49,6 +49,7 @@ ORCID: [0000-0002-6466-723X](http://orcid.org/0000-0002-6466-723X)
 
 ### Teaching experience
 - 2021.09 - Present: BIO373. Next Generation Sequencing for Evolutionary Functional Genomics, University of Zurich, Switzerland (Block course coordinator)  
+- 2022.05: BIO334: Practical Bioinformatics (Co-instructor)  
 - 2019.04 - 2019.05: External Lecturer of Basic Genetics, Faculty of Agriculture, Ryukoku University, Japan (Co-instructor)  
 - 2018.07 - 2018.08: International Biology Undergraduate Summer School (BUSS) 2018, University of Zurich, Switzerland (Co-supervisor)  
 - 2017.07 - 2017.08: BIO378: Research Practical in Evolutionary Biology and Systematics, University of Zurich, Switzerland (Co-supervisor)  
