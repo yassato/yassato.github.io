@@ -126,6 +126,8 @@ E-mail: yasuhiro.sato(あっと)uzh.ch; yassato36c(あっと)outlook.com; sato.y
 
 **国際学会・シンポジウム発表**  
 
+1.	**Sato Y**, Nagano AJ, Shimizu KK.「Genomics of within-species mixed planting against insect herbivores」. In: Symposium MON3-b “From the species to the individual: investigating plant diversity on the scale that matters most”. 『World Biodiversity Forum 2022』, June 26-July 1, 2022, Davos, Switzerland [reviewed talk]  
+
 1.	Kuzuhara H, Takimoto H, **Sato Y**, Kanagawa A.「Insect pest detection and identification method based on deep learning for realizing a pest control system」. The SICE 2020 Annual Conference, September 23-26, 2020. Chiang Mai, Thailand [reviewed talk, changed into online meeting]
 
 1.	**Sato Y**, Shimizu-Inatsugi R, Yamazaki M, Nagano AJ, Shimizu KK.「Field GWAS of neighbor effects and its potential application to targeted polycultures in anti-herbivore defense」.『URPP Global Change and Biodiversity Conference』, P15, Monte Verita, Ascona, Switzerland (June-July 2019) [non-reviewed poster]
