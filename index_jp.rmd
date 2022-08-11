@@ -26,8 +26,10 @@ E-mail: yasuhiro.sato(あっと)uzh.ch; yassato36c(あっと)outlook.com; sato.y
 研究者情報: ORCID:[0000-0002-6466-723X](http://orcid.org/0000-0002-6466-723X); [researchmap](https://researchmap.jp/yassatojpn/?lang=japanese); [Google scholar citations](http://scholar.google.co.jp/citations?user=HbrGYr8AAAAJ&hl=jp)  
 
 ### 研究内容
-- 植食者に対する植物の防御応答  
-- 生態学・進化生物学・遺伝学におけるデータ解析  
+- 生物間相互作用をめぐる量的生態遺伝学
+- 植食者に対する植物の防御応答
+- 生態学・進化生物学・遺伝学におけるデータ解析
+
 専門分野: 基礎生物学、生態・環境、動植物間相互作用  
 
 ### 学歴
@@ -48,7 +50,7 @@ E-mail: yasuhiro.sato(あっと)uzh.ch; yassato36c(あっと)outlook.com; sato.y
 
 ### 教育歴
 - 2021年9月-現在まで　BIO373. Next Generation Sequencing for Evolutionary Functional Genomics, University of Zurich, Switzerland (Block course coordinator)  
-- 2022.05: BIO334. Practical Bioinformatics (Co-instructor)  
+- 2022.05: BIO334. Practical Bioinformatics, University of Zurich, Switzerland (Co-instructor)  
 - 2019年4月-2019年5月　龍谷大学農学部　非常勤講師『遺伝の考え方』(分担5回)  
 - 2018年7月-2018年8月　International Biology Undergraduate Summer School (BUSS) 2018, University of Zurich, Switzerland (Co-supervisor)  
 - 2017年7月-2017年8月　BIO378. Research Practical in Evolutionary Biology and Systematics, University of Zurich, Switzerland (Co-supervisor)  
