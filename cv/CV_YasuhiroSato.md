@@ -46,10 +46,10 @@ April 2015–March 2016. Research Fellow of the Japan Society for the Promotion 
 ## Supervision of junior researchers
 | **Name** | **Degree** | **Program** | **Role** | **Output** |
 | --- | --- | --- | --- | --- |
-| Chongmeng Xu |	PhD student |	URPP GCB of Univ. of Zurich	| Co-supervisor with PI | *None* |
+| Chongmeng Xu |	PhD student |	URPP GCB of Univ. of Zurich	| Co-supervisor with PI | Sato et al. (2022) bioRxiv |
 | Elina Jansone | Undergraduate | Lab rotation of Univ. of Zurich | Main supervisor | *None* |
 | Kazuya Takeda	| Master of Science |	PRESTO project of JST	| Daily supervisor as an employer	| Sato, Takeda & Nagano (2021) G3 |
-| Silvija Milosavljevic	| Undergraduate | BUSS program at Univ. of Zurich | Co-supervisor with PI |	Shimizu-Inatsugi et al. (2021) Plant Spec Biol |
+| Silvija Milosavljevic	| Undergraduate | BUSS program at Univ. of Zurich | Co-supervisor with PI |	Shimizu-Inatsugi et al. (2021) Plant Spec. Biol. |
 | Dimitri Anderfuhren	| Undergraduate | BIO378 program of Univ. of Zurich	| Co-supervisor with PI | *None* |  
 
 ## Teaching experience
@@ -145,7 +145,7 @@ Keywords: Plant Molecular Biology, Developmental Biology
 
 # Achievements
 
-*^\dagger$^Equal contribution; \*Correspondence*  
+*$^\dagger$Equal contribution; \*Correspondence*  
 
 ## Peer-reviewed articles
 1. Takimoto H$^\dagger$\*, **Sato Y**$^\dagger$, Nagano AJ, Shimizu KK, Kanagawa A. (2021) Using a two-stage convolutional neural network to rapidly identify tiny herbivorous beetles in the field. **_Ecological Informatics_** 66:101466 <https://doi.org/10.1016/j.ecoinf.2021.101466>
@@ -187,7 +187,7 @@ Keywords: Plant Molecular Biology, Developmental Biology
 *And the other source codes for published research, personal utilities, and teaching materials are available at the GitHub, <https://github.com/yassato>*
 
 ## Contributions to international conferences
-1. **Sato Y**, Takahashi Y, Xu C, Shimizu KK. Detecting frequency-dependent selection using a genetic marker regression of fitness components. In: S24 'Progress and Prospects in Adaptation Genomics', **_The 2022 Congress of the European Society for Evolutionary Biology_**, Prague, Czech Republic (a talk accepted and scheduled between 14-19 August 2022)
+1. **Sato Y**, Takahashi Y, Xu C, Shimizu KK. Detecting frequency-dependent selection using a genetic marker regression of fitness components. In: S24 'Progress and Prospects in Adaptation Genomics'. **_The 2022 Congress of the European Society for Evolutionary Biology_**, Prague, Czech Republic (a talk accepted and scheduled between 14-19 August 2022)
 1. **Sato Y**, Nagano AJ, Shimizu KK. Genomics of within-species mixed planting against insect herbivores. In: MON3-b 'From the species to the individual: investigating plant diversity on the scale that matters most' (organised by Drs. P. Villa and M.C. Schuman). **_World Biodiversity Forum 2022_**, Davos, Switzerland. (29 June 2022, reviewed talk). <https://www.worldbiodiversityforum.org/>
 1. Kuzuhara H, Takimoto H, **Sato Y**, Kanagawa A. Insect pest detection and identification method based on deep learning for realizing a pest control system. **_The Society of Instrument and Control Engineers (SICE) Annual Conference 2020_**. Chiang Mai, Thailand [changed into an online meeting due to COVID-19] (25 September 2020, talk) 
 1. **Sato Y**, Shimizu-Inatsugi R, Yamazaki M, Nagano AJ, Shimizu KK. Field GWAS of neighbor effects and its potential application to targeted polycultures in anti-herbivore defense. **_URPP Global Change and Biodiversity Conference_**, P15, Monte Verita, Ascona, Switzerland (June-July 2019, poster).
@@ -212,6 +212,7 @@ Keywords: Plant Molecular Biology, Developmental Biology
 4. External seminar at the Department of Evolutionary Biology and Environmental Studies, University of Zurich, Switzerland (9 August 2018): ‘Neighbor effects enhance anti-herbivore defense in *Arabidopsis*’ by **Sato Y**. (host: University Research Priority Program of Global Change and Biodiversity).
 
 ## Preprint
+1. **Sato Y**\*, Takahashi Y, Xu C, Shimizu KK\*. (2022) Detecting frequency-dependent selection through the effects of genotype similarity on fitness components. **_bioRxiv_** <https://doi.org/10.1101/2022.08.10.502782> 
 1. Stockenhuber R, Akiyama R, Tissot N, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Milosavljevic S, Widmer A, Ulm R, Shimizu KK\*. (2021) The *UV RESISTANCE LOCUS 8*-mediated UV-B response is required alongside *CRYPTOCHROME1* for plant survival under sunlight in the field. **_bioRxiv_** <https://doi.org/10.1101/2021.12.08.471623> 
 
 ## Manuscript in preparation

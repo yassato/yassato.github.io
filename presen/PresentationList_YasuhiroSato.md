@@ -8,7 +8,7 @@ output:
 
 ## 国際学会・シンポジウム発表 (International presentation)
 
-1. **Sato Y**, Takahashi Y, Xu C, Shimizu KK. Detecting frequency-dependent selection using a genetic marker regression of fitness components. In: S24 'Progress and Prospects in Adaptation Genomics', **_The 2022 Congress of the European Society for Evolutionary Biology_**, Prague, Czech Republic (a talk accepted and scheduled between 14-19 August 2022)
+1. **Sato Y**, Takahashi Y, Xu C, Shimizu KK. Detecting frequency-dependent selection using a genetic marker regression of fitness components. In: S24 'Progress and Prospects in Adaptation Genomics'. **_The 2022 Congress of the European Society for Evolutionary Biology_**, Prague, Czech Republic (a talk accepted and scheduled on 18 August 2022)
 1. **Sato Y**, Nagano AJ, Shimizu KK. Genomics of within-species mixed planting against insect herbivores. In: Symposium MON3-b “From the species to the individual: investigating plant diversity on the scale that matters most”. **_World Biodiversity Forum 2022_**, June 26-July 1 2022, Davos, Switzerland [reviewed talk]
 1. Kuzuhara H, Takimoto H, **Sato Y**, Kanagawa A. Insect pest detection and identification method based on deep learning for realizing a pest control system. **_The SICE 2020 Annual Conference_**, September 23-26, 2020. Chiang Mai, Thailand [reviewed talk, changed into online meeting]
 1. **Sato Y**, Shimizu-Inatsugi R, Yamazaki M, Nagano AJ, Shimizu KK. Field GWAS of neighbor effects and its potential application to targeted polycultures in anti-herbivore defense. **_URPP Global Change and Biodiversity Conference_**, P15, June-July 2019, Monte Verita, Ascona, Switzerland [non-reviewed poster]
