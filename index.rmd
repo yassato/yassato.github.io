@@ -29,7 +29,7 @@ See [Twitter@yassatojpn](https://twitter.com/search?q=%40yassatojpn&src=recent_s
 
 ## **Quantitative Ecological Genetics of Species Interaction**
 
-I am interested in how genetic variation shapes, and is shaped by, species interactions. To analyze quantitative genetic variation in complex ecological traits, my research adopts cutting-edge tools from computational biology and functional genomics. Currently I am working on plant-herbivore interactions, but other projects involving species interaction are also welcome.  
+I am interested in how genetic variation shapes, and is shaped by, species interactions. To analyze quantitative genetic variation in complex ecological traits, my research adopt cutting-edge tools from computational biology and functional genomics. Currently I am working on plant-herbivore interactions, but other projects involving species interaction are also welcome.  
 **Keywords: Ecological genetics, Plant-insect interaction, Herbivory**  
 
 ### Recent projects
@@ -45,7 +45,7 @@ Plant neighborhood effects are not always attributable to a single trait or gene
 ![Field experiment using *Arabidopsis thaliana* accessions. Modified from Sato et al. (2021) Heredity](./photo/AraGWAS_JPNplot.jpg){width=50%}
   
 #### **3. Data analysis in ecology, evolution, and genetics**  
-To untangle complex ecological interactions, my research often employs statistical tools. This experience enables me to not only develop new methods (Sato et al. 2022 bioRxiv) but also collaborate with other research areas (e.g., Nakadai et al. 2018 Oecologia; Sato et al. 2019b Frontiers in Genetics; Shimizu-Inatsugi et al. 2021 Plant Species Biology; Takimoto & Sato et al. 2021 Ecological Informatics). Data from plant ecology and genomics are especially welcome to collaborate.  
+To untangle complex ecological interactions, my research often employ statistical tools. This experience enables me to not only develop new methods (Sato et al. 2022 bioRxiv) but also collaborate with other research areas (e.g., Nakadai et al. 2018 Oecologia; Shimizu-Inatsugi et al. 2021 Plant Species Biology; Takimoto & Sato et al. 2021 Ecological Informatics). Data from plant ecology and genomics are especially welcome to collaborate.  
   
   
 
@@ -58,7 +58,7 @@ To untangle complex ecological interactions, my research often employs statistic
 
 1. Stockenhuber R, Akiyama R, Tissot N, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Milosavljevic S, Widmer A, Ulm R, Shimizu KK\*. (2021) The *UV RESISTANCE LOCUS 8*-mediated UV-B response is required alongside *CRYPTOCHROME1* for plant survival under sunlight in the field. **_bioRxiv_** <https://doi.org/10.1101/2021.12.08.471623>  
 
-## Peer-reviewed articles
+### Peer-reviewed articles
 1. Takimoto H$^\dagger$\*, **Sato Y**$^\dagger$, Nagano AJ, Shimizu KK, Kanagawa A. (2021) Using a two-stage convolutional neural network to rapidly identify tiny herbivorous beetles in the field. **_Ecological Informatics_** 66:101466 <https://doi.org/10.1016/j.ecoinf.2021.101466>  
 
 1. **Sato Y**, Yamamoto E, Shimizu KK\*, Nagano AJ\*. (2021) Neighbor GWAS: incorporating neighbor genotypic identity into genome-wide association studies of field herbivory. **_Heredity_** 126(4):597–614. <https://doi.org/10.1038/s41437-020-00401-w>  
@@ -139,6 +139,15 @@ To untangle complex ecological interactions, my research often employs statistic
 
 *PDF version available [here](./cv/CV_YasuhiroSato.pdf)*
 
+## Yasuhiro Sato  
+During my childhood, I collected nymphal shells of Japanese cicadas over ten years (Sato & Sato 2015). This early experience brought me to the field of ecology later in my life.
+  
+I obtained my bachelor, master, and doctoral degree at Kyoto University, Japan. I did my undergraduate study in 2011 at the Laboratory of Insect Ecology, and then completed PhD in 2016 at the Laboratory of Plant Molecular Ecology (Kudoh Group) of the Center for Ecological Research. This experience on entomology and botany made me interested in plant-insect interactions. 
+  
+After PhD degree, I experienced two postdoctoral positions at Ryukoku University, Japan, as an independent postdoctoral fellow of Japan Society for the Promotion of Science (JSPS) (from 2016 to 2017) and as a junior group leader of Precursory Research for Embryonic Science and Technology (PRESTO) program of the Japan Science and Technology Agency (JST) (from 2017 to 2021). I was hosted by the Laboratory of Information Biology (Nagano Group) for five years, through which I acquired my skills on plant bioinformatics and functional genomics.
+  
+During the first postdoc position, I started my collaboration with Ecological and Evolutionary Genomics Group (Shimizu Laboratory) at the University of Zurich, Switzerland, as an affiliated member of University Research Priority Program of Global Change and Biodiversity (URPP GCB). After the completion of JST PRESTO program in Japan, I have moved to Switzerland and officially joined the Department of Evolutionary Biology and Environmental Studies of the University of Zurich as a senior research and teaching assistant (since 2021).
+  
 ### Education
 - 23 March 2016. PhD in Science, Center for Ecological Research, Graduate School of Science, Kyoto University, Japan (supervisor: Prof. Dr. [Hiroshi Kudoh](http://www.ecology.kyoto-u.ac.jp/~kudoh/en/index.html)\) [PhD defended on 28 January 2016]
 - 25 March 2013. MSc in Science, Center for Ecological Research, Graduate School of Science, Kyoto University, Japan (supervisor: Prof. Dr. [Hiroshi Kudoh](http://www.ecology.kyoto-u.ac.jp/~kudoh/en/index.html)\)
