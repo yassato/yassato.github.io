@@ -145,17 +145,17 @@ Keywords: Plant Molecular Biology, Developmental Biology
 
 # Achievements
 
-*$^\dagger$Equal contribution; \*Correspondence*  
+*^†^Equal contribution; \*Correspondence*  
 
 ## Peer-reviewed articles
-1. Takimoto H$^\dagger$\*, **Sato Y**$^\dagger$, Nagano AJ, Shimizu KK, Kanagawa A. (2021) Using a two-stage convolutional neural network to rapidly identify tiny herbivorous beetles in the field. **_Ecological Informatics_** 66:101466 <https://doi.org/10.1016/j.ecoinf.2021.101466>
+1. Takimoto H^†^\*, **Sato Y**^†^, Nagano AJ, Shimizu KK, Kanagawa A. (2021) Using a two-stage convolutional neural network to rapidly identify tiny herbivorous beetles in the field. **_Ecological Informatics_** 66:101466 <https://doi.org/10.1016/j.ecoinf.2021.101466>
 1. **Sato Y**, Yamamoto E, Shimizu KK\*, Nagano AJ\*. (2021) Neighbor GWAS: incorporating neighbor genotypic identity into genome-wide association studies of field herbivory. **_Heredity_** 126(4):597–614. <https://doi.org/10.1038/s41437-020-00401-w>
-1. **Sato Y**$^\dagger$\*, Takeda K$^\dagger$, Nagano AJ\*. (2021) Neighbor QTL: an interval mapping method for quantitative trait loci underlying plant neighborhood effects. **_G3; Genes|Genomes|Genetics_** 11(2):jkab017. <https://doi.org/10.1093/g3journal/jkab017>
+1. **Sato Y**^†^\*, Takeda K^†^, Nagano AJ\*. (2021) Neighbor QTL: an interval mapping method for quantitative trait loci underlying plant neighborhood effects. **_G3; Genes|Genomes|Genetics_** 11(2):jkab017. <https://doi.org/10.1093/g3journal/jkab017>
 1. Shimizu-Inatsugi R\*, Milosavljevic S, Shimizu KK, Schaepman-Strub G, Tanoi K, **Sato Y.** (2021) Metal accumulation and its effect on leaf herbivory in an allopolyploid species _Arabidopsis kamchatica_ inherited from a diploid hyperaccumulator _A. halleri_. **_Plant Species Biology_** 36(2):208–217. <https://doi.org/10.1111/1442-1984.12304>
 1. **Sato Y**, Tezuka A, Kashima M, Deguchi A, Shimizu-Inatsugi R, Yamazaki M, Shimizu KK\*, Nagano AJ\*. (2019) Transcriptional variation in glucosinolate biosynthetic genes and inducible responses to aphid herbivory on field-grown _Arabidopsis thaliana_. **_Frontiers in Genetics_** 10:787. <https://doi.org/10.3389/fgene.2019.00787>
 1. **Sato Y**, Shimizu-Inatsugi R, Yamazaki M, Shimizu KK\*, Nagano AJ\*. (2019) Plant trichomes and a single gene _GLABRA1_ contribute to insect community composition on field-grown _Arabidopsis thaliana_. **_BMC Plant Biology_** 19:163. <https://doi.org/10.1186/s12870-019-1705-2>
-1. Nakadai R$^\dagger$\*, Hashimoto K$^\dagger$, Iwasaki T, **Sato Y.** (2018) Geographical co-occurrence of butterfly species: the importance of niche filtering by host plant species. **_Oecologia_** 186(4):995–1005. <https://doi.org/10.1007/s00442-018-4062-1>
-1. **Sato Y**$^\dagger$\*, Ito K$^\dagger$, Kudoh H. (2017) Optimal foraging by herbivores maintains polymorphism in defence in a natural plant population. **_Functional Ecology_** 31(12):2233-2243. <https://doi.org/10.1111/1365-2435.12937>
+1. Nakadai R^†^\*, Hashimoto K^†^, Iwasaki T, **Sato Y.** (2018) Geographical co-occurrence of butterfly species: the importance of niche filtering by host plant species. **_Oecologia_** 186(4):995–1005. <https://doi.org/10.1007/s00442-018-4062-1>
+1. **Sato Y**^†^\*, Ito K^†^, Kudoh H. (2017) Optimal foraging by herbivores maintains polymorphism in defence in a natural plant population. **_Functional Ecology_** 31(12):2233-2243. <https://doi.org/10.1111/1365-2435.12937>
 1. **Sato Y**\*, Kudoh H. (2017) Herbivore-mediated interaction promotes the maintenance of trichome dimorphism through negative frequency-dependent selection. **_The American Naturalist_** 190(3):E67-E77. <https://doi.org/10.1086/692603> 
 1. **Sato Y**\*, Kudoh H. (2017) Fine-scale frequency differentiation along a herbivory gradient in the trichome dimorphism of a wild _Arabidopsis_. **_Ecology and Evolution_** 7(7):2133-2141. <https://doi.org/10.1002/ece3.2830>
 1. **Sato Y**\*, Kudoh H. (2016) Presence of substitute diets alters plant resistance to specialist and generalist herbivores: a meta-analysis. **_Ecosphere_** 7(11):e01446 <https://doi.org/10.1002/ecs2.1446>
