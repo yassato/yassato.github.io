@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Updated on 8 August 2022"
+date: "Updated on 19 August 2022"
 output:
   word_document: default
   html_document: default
@@ -187,7 +187,7 @@ Keywords: Plant Molecular Biology, Developmental Biology
 *And the other source codes for published research, personal utilities, and teaching materials are available at the GitHub, <https://github.com/yassato>*
 
 ## Contributions to international conferences
-1. **Sato Y**, Takahashi Y, Xu C, Shimizu KK. Detecting frequency-dependent selection using a genetic marker regression of fitness components. In: S24 'Progress and Prospects in Adaptation Genomics'. **_The 2022 Congress of the European Society for Evolutionary Biology_**, Prague, Czech Republic (a talk accepted and scheduled between 14-19 August 2022)
+1. **Sato Y**, Takahashi Y, Xu C, Shimizu KK. Detecting frequency-dependent selection using a genetic marker regression of fitness components. In: S24 'Progress and Prospects in Adaptation Genomics'. **_The 2022 Congress of the European Society for Evolutionary Biology_**, Prague, Czech Republic (18 August 2022, reviewed talk)
 1. **Sato Y**, Nagano AJ, Shimizu KK. Genomics of within-species mixed planting against insect herbivores. In: MON3-b 'From the species to the individual: investigating plant diversity on the scale that matters most' (organised by Drs. P. Villa and M.C. Schuman). **_World Biodiversity Forum 2022_**, Davos, Switzerland. (29 June 2022, reviewed talk). <https://www.worldbiodiversityforum.org/>
 1. Kuzuhara H, Takimoto H, **Sato Y**, Kanagawa A. Insect pest detection and identification method based on deep learning for realizing a pest control system. **_The Society of Instrument and Control Engineers (SICE) Annual Conference 2020_**. Chiang Mai, Thailand [changed into an online meeting due to COVID-19] (25 September 2020, talk) 
 1. **Sato Y**, Shimizu-Inatsugi R, Yamazaki M, Nagano AJ, Shimizu KK. Field GWAS of neighbor effects and its potential application to targeted polycultures in anti-herbivore defense. **_URPP Global Change and Biodiversity Conference_**, P15, Monte Verita, Ascona, Switzerland (June-July 2019, poster).

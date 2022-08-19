@@ -1,29 +1,24 @@
 ---
-title: Yasuhiro Sato
-output: rmdformats::material
+title: 佐藤 安弘（サトウ ヤスヒロ）
+output: rmdformats::robobook
 ---
 
 # ホーム
 
 [[英語]](index.html) [[日本語]](index_jp.html)  
 
-## **佐藤 安弘（サトウ ヤスヒロ）**  
-
-### 現在の連絡先
+## 現在の連絡先
 Department of Evolutionary Biology and Environmental Studies, University of Zurich  
 Winterthurerstrasse 190, 8057 Zurich, Switzerland  
 Tel: +41-44-635-4986; Office: Y13-J-68 ([Kentaro K. Shimizu Group](https://www.ieu.uzh.ch/en/research/evolbiol/ecogenomics.html))  
 E-mail: yasuhiro.sato(あっと)uzh.ch; yassato36c(あっと)outlook.com; sato.yasuhiro.36c(あっと)kyoto-u.jp  
 研究者情報: ORCID:[0000-0002-6466-723X](http://orcid.org/0000-0002-6466-723X); [researchmap](https://researchmap.jp/yassatojpn/?lang=japanese); [Google scholar citations](http://scholar.google.co.jp/citations?user=HbrGYr8AAAAJ&hl=jp)  
 
----
+**＊日本語の履歴書と業績一覧は[researchmap](https://researchmap.jp/yassatojpn/?lang=japanese)でも更新しています。**  
 
-**＊日本語の履歴書と業績一覧は[researchmap](https://researchmap.jp/yassatojpn/?lang=japanese)でも更新しています。**
   
 ---
   
-  
-<p align="center"><sup>(c) 2013- Yasuhiro Sato, All rights reserved.</sup></p>  
 
 
 # 研究
@@ -35,9 +30,12 @@ E-mail: yasuhiro.sato(あっと)uzh.ch; yassato36c(あっと)outlook.com; sato.y
 専門分野：基礎生物学、生態・環境、動植物間相互作用  
 
 
+---
+
+
 # 業績
 
-### 論文業績
+## 論文業績
 
 #### 査読なし  
 1. **Sato Y**, Takahashi Y, Xu C, Shimizu KK. (2022) Detecting frequency-dependent selection through the effects of genotype similarity on fitness components. **_bioRxiv_** <https://doi.org/10.1101/2022.08.10.502782>  
@@ -89,7 +87,7 @@ E-mail: yasuhiro.sato(あっと)uzh.ch; yassato36c(あっと)outlook.com; sato.y
 
 ### 国際学会・シンポジウム発表
 
-1. **Sato Y**, Takahashi Y, Xu C, Shimizu KK. Detecting frequency-dependent selection using a genetic marker regression of fitness components. In: S24 'Progress and Prospects in Adaptation Genomics'. **_The 2022 Congress of the European Society for Evolutionary Biology_**, Prague, Czech Republic (a talk accepted and scheduled on 18 August 2022)
+1. **Sato Y**, Takahashi Y, Xu C, Shimizu KK. Detecting frequency-dependent selection using a genetic marker regression of fitness components. In: S24 'Progress and Prospects in Adaptation Genomics'. **_The 2022 Congress of the European Society for Evolutionary Biology_**, Prague, Czech Republic (18 August 2022, reviewed talk)
 
 1. **Sato Y**, Nagano AJ, Shimizu KK. Genomics of within-species mixed planting against insect herbivores. In: Symposium MON3-b “From the species to the individual: investigating plant diversity on the scale that matters most”. **_World Biodiversity Forum 2022_**, June 26-July 1 2022, Davos, Switzerland [reviewed talk]
 
@@ -204,20 +202,24 @@ E-mail: yasuhiro.sato(あっと)uzh.ch; yassato36c(あっと)outlook.com; sato.y
 1. 第52回種生物学シンポジウム. 食べられないために守る術ー植物の多様な対被食者防御戦略ー. コメンテータ. 滋賀（オンライン）2020年12月（企画者：坂田ゆず助教・角田智詞博士）
 
 1. 進化群集生態学シンポジウム2018. ディスカッション・パネリスト. 京都、2018年9月 (企画者：門脇浩明博士・三木健教授)
+  
+  
+  
+---
 
 
 # 略歴
 
-### 学歴
+## 学歴
 - 2016年　京都大学理学研究科　生物科学専攻植物学系　生態科学II　博士後期課程修了　博士(理学)  
 - 2013年　京都大学理学研究科　生物科学専攻植物学系　生態科学II　修士課程修了  
 - 2011年　京都大学農学部　資源生物科学科卒  
 - 2007年　三重県立桑名高等学校　普通科卒  
 
-### 学位論文
+## 学位論文
 - 2016年　Associational anti-herbivore defense in the trichome dimorphism of *Arabidopsis halleri* subsp. *gemmifera* (Brassicaceae) (ハクサンハタザオ（アブラナ科）のトライコームによる被食防御における連合効果). 京都大学, 理博第4196号,  指導：[工藤洋](http://www.ecology.kyoto-u.ac.jp/~kudoh/)教授.
 
-### 研究歴・職歴
+## 研究歴・職歴
 - 2021年4月-現在まで　チューリッヒ大学　進化生物学・環境学研究所　上級助手（[清水研究室]((https://www.ieu.uzh.ch/en/research/evolbiol/ecogenomics.html))）  
 - 2017年10月-現在まで　龍谷大学　食と農の総合研究所　客員研究員（受入：[永野惇](http://ps.agr.ryukoku.ac.jp/naganolab/)准教授）  
 - 2017年7月-現在まで　チューリッヒ大学[URPP GCBプログラム](https://www.gcb.uzh.ch/en/aboutus/people.html)　連携メンバー  
@@ -227,7 +229,7 @@ E-mail: yasuhiro.sato(あっと)uzh.ch; yassato36c(あっと)outlook.com; sato.y
 - 2015年4月-2016年3月　日本学術振興会　特別研究員DC2  
 - 2013年6月-2014年3月　京都大学生態学研究センターRA  
 
-### 教育歴
+## 教育歴
 - 2021年9月-現在まで　BIO373. Next Generation Sequencing for Evolutionary Functional Genomics, University of Zurich, Switzerland (Block course coordinator, Co-instructor)  
 - 2022.05: BIO334. Practical Bioinformatics (Co-instructor)  
 - 2019年4月-2019年5月　龍谷大学農学部　非常勤講師『遺伝の考え方』(分担5回)  
@@ -235,20 +237,22 @@ E-mail: yasuhiro.sato(あっと)uzh.ch; yassato36c(あっと)outlook.com; sato.y
 - 2017年7月-2017年8月　BIO378. Research Practical in Evolutionary Biology and Systematics, University of Zurich, Switzerland (Co-supervisor)  
 - 2013年9月-2015年1月　龍谷大学理工学部　学外ティーチングアシスタント『計算機基礎実習』(半期×2年)  
 
-### 獲得研究費
+## 獲得研究費
 1. 2020-2023年　日本学術振興会　科学研究費助成事業　若手研究（研究代表者として総額3200千円見込み）
 1. 2017-2021年　科学技術振興機構　さきがけ「フィールド植物制御」領域（研究代表者として総額40000千円）  
 1. 2016-2017年　日本学術振興会　特別研究員奨励費PD（研究代表者として総額2700千円）  
 1. 2015-2016年　日本学術振興会　特別研究員奨励費DC2（研究代表者として総額1200千円）  
 
-### 賞罰
+## 賞罰
 - 2018年　井上科学振興財団　第34回　井上研究奨励賞  
 - 2016年　種生物学会　第10回　片岡奨励賞  
 - 2016年　日本学術振興会　第6回　育志賞  
 - 2013-2015年　日本学生支援機構第一種奨学金　特に優れた業績による返還免除 （博士課程貸与分・全額免除）  
 - 2011-2013年　日本学生支援機構第一種奨学金　特に優れた業績による返還免除 （修士課程貸与分・半額免除）  
 
-### 委員歴・学術貢献活動
+## 学術貢献活動
+
+### 委員歴
 - 2019年1月-現在まで　種生物学会　[和文誌編集委員](http://www.speciesbiology.org/board/index.html)  
 - 2019年9月-2021年12月　Reviewing Editor of *Journal of Evolutionary Biology*    
 - 2020年12月　[第52回種生物学シンポジウム実行委員](https://sites.google.com/view/sssb2020shiga)  
@@ -256,4 +260,9 @@ E-mail: yasuhiro.sato(あっと)uzh.ch; yassato36c(あっと)outlook.com; sato.y
 
 ### 学術誌等における査読 
 - [Publons](https://publons.com/researcher/450213/yasuhiro-sato)を参照.  
+  
+  
+---
+<p align="center"><sup>(c) 2013- Yasuhiro Sato, All rights reserved.</sup></p>  
+
 

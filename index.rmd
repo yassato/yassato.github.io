@@ -1,15 +1,13 @@
 ---
-title: Yasuhiro Sato
-output: rmdformats::material
+title: Yasuhiro (Yasu) Sato
+output: rmdformats::robobook
 ---
 
 # Home
 
 [[English]](index.html) [[Japanese]](index_jp.html)  
 
-## **Yasuhiro (Yasu) Sato**  
-
-### Current address
+## Current address
 Department of Evolutionary Biology and Environmental Studies, University of Zurich  
 Winterthurerstrasse 190, 8057 Zurich, Switzerland  
 Tel: +41-44-635-4986; Office: Y13-J-68 ([Evolutionary and Ecological Genomics Group](https://www.ieu.uzh.ch/en/research/evolbiol/ecogenomics.html))  
@@ -22,17 +20,16 @@ ORCID: [0000-0002-6466-723X](http://orcid.org/0000-0002-6466-723X)
 See [Twitter@yassatojpn](https://twitter.com/search?q=%40yassatojpn&src=recent_search_click)
   
   
-<p align="center"><sup>(c) 2013- Yasuhiro Sato, All rights reserved.</sup></p>  
-
+  
+---
 
 # Research
 
-## **Quantitative Ecological Genetics of Species Interaction**
-
+### **Quantitative Ecological Genetics of Species Interaction**  
 I am interested in how genetic variation shapes, and is shaped by, species interactions. To analyze quantitative genetic variation in complex ecological traits, my research adopt cutting-edge tools from computational biology and functional genomics. Currently I am working on plant-herbivore interactions, but other projects involving species interaction are also welcome.  
 **Keywords: Ecological genetics, Plant-insect interaction, Herbivory**  
 
-### Recent projects
+## Recent projects
 
 #### **1. Plant neighborhood effects and the maintenance of polymorphism**  
 Herbivory risk depends on neighboring plants as well as plants’ own traits. Such neighbor effects can exert frequency-dependent selection on plant defense when they occur among plant genotypes within a species (reviewed by Sato 2018 Plant Species Biology). My PhD study showed that the feeding preference of a leaf beetle mediated negative frequency-dependent selection on the *GLABRA1*-based trichome dimorphism of *Arabidopsis halleri* (Sato & Kudoh 2017 The American Naturalist; Sato et al. 2017 Functional Ecology).
@@ -48,17 +45,19 @@ Plant neighborhood effects are not always attributable to a single trait or gene
 To untangle complex ecological interactions, my research often employ statistical tools. This experience enables me to not only develop new methods (Sato et al. 2022 bioRxiv) but also collaborate with other research areas (e.g., Nakadai et al. 2018 Oecologia; Shimizu-Inatsugi et al. 2021 Plant Species Biology; Takimoto & Sato et al. 2021 Ecological Informatics). Data from plant ecology and genomics are especially welcome to collaborate.  
   
   
+  
+---
 
 # Achievements
 
 *$^\dagger$Equal contribution; \*Correspondence*  
 
-### Preprint
+## Preprint
 1. **Sato Y**\*, Takahashi Y, Xu C, Shimizu KK\*. (2022) Detecting frequency-dependent selection through the effects of genotype similarity on fitness components. **_bioRxiv_** <https://doi.org/10.1101/2022.08.10.502782>  
 
 1. Stockenhuber R, Akiyama R, Tissot N, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Milosavljevic S, Widmer A, Ulm R, Shimizu KK\*. (2021) The *UV RESISTANCE LOCUS 8*-mediated UV-B response is required alongside *CRYPTOCHROME1* for plant survival under sunlight in the field. **_bioRxiv_** <https://doi.org/10.1101/2021.12.08.471623>  
 
-### Peer-reviewed articles
+## Peer-reviewed articles
 1. Takimoto H$^\dagger$\*, **Sato Y**$^\dagger$, Nagano AJ, Shimizu KK, Kanagawa A. (2021) Using a two-stage convolutional neural network to rapidly identify tiny herbivorous beetles in the field. **_Ecological Informatics_** 66:101466 <https://doi.org/10.1016/j.ecoinf.2021.101466>  
 
 1. **Sato Y**, Yamamoto E, Shimizu KK\*, Nagano AJ\*. (2021) Neighbor GWAS: incorporating neighbor genotypic identity into genome-wide association studies of field herbivory. **_Heredity_** 126(4):597–614. <https://doi.org/10.1038/s41437-020-00401-w>  
@@ -96,22 +95,22 @@ To untangle complex ecological interactions, my research often employ statistica
 1. **Sato Y**\*, Takakura KI, Nishida S, Nishida T. (2013) Dominant occurrence of cleistogamous flowers of _Lamium amplexicaule_ in relation to the nearby presence of an alien congener _L. purpureum_. **_ISRN Ecology_** Article ID:476862. <http://dx.doi.org/10.1155/2013/476862>  
 
 
-### Peer-reviewed monographs/reviews
+## Peer-reviewed monographs/reviews
 1. **Sato Y\*.** (2018) Associational effects and the maintenance of polymorphism in plant defense against herbivores: review and evidence. **_Plant Species Biology_** 33(2):91-108. <https://doi.org/10.1111/1442-1984.12201> [[postprint]](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/234646?locale=en)  
 
 1. Sakata Y\*, **Sato Y.** (2017) Evolutionary ecology of plant defense: integrating different spatial scales within and among species (in Japanese). **_Japanese Journal of Ecology_** 67(3):287-306. <https://doi.org/10.18960/seitai.67.3_287>  
   
-### Peer-reviewed conference proceedings
+## Peer-reviewed conference proceedings
 1.	Kuzuhara H, Takimoto H, **Sato Y**, Kanagawa A. (2020) Insect pest detection and identification method based on deep learning for realizing a pest control system. **_Proceedings of the Society of Instrument and Control Engineers (SICE) 2020 Annual Conference 2020_**. pp. 709–714. <https://doi.org/10.23919/SICE48898.2020.9240458>  
   
-### Computer programs
+## Computer programs
 1. **Sato Y**\*, Yamamoto E, Shimizu KK, Nagano AJ. (2021) ‘rNeighborGWAS’. R package available at the Comprehensive R Archive Network (CRAN), <https://cran.r-project.org/package=rNeighborGWAS>  
 
 1. **Sato Y**\*, Takeda K, Nagano AJ. (2021) ‘rNeighborQTL’. R package available at CRAN, <https://cran.r-project.org/package=rNeighborQTL>  
   
 
-### Conference contributions    
-1. **Sato Y**, Takahashi Y, Xu C, Shimizu KK. Detecting frequency-dependent selection using a genetic marker regression of fitness components. In: S24 'Progress and Prospects in Adaptation Genomics'. **_The 2022 Congress of the European Society for Evolutionary Biology_**, Prague, Czech Republic (a talk accepted and scheduled on 18 August 2022)
+## Conference contributions    
+1. **Sato Y**, Takahashi Y, Xu C, Shimizu KK. Detecting frequency-dependent selection using a genetic marker regression of fitness components. In: S24 'Progress and Prospects in Adaptation Genomics'. **_The 2022 Congress of the European Society for Evolutionary Biology_**, Prague, Czech Republic (18 August 2022, reviewed talk)
 
 1. **Sato Y**, Nagano AJ, Shimizu KK. Genomics of within-species mixed planting against insect herbivores. In: MON3-b 'From the species to the individual: investigating plant diversity on the scale that matters most' (organised by Drs. P. Villa and M.C. Schuman). **_World Biodiversity Forum 2022_**, Davos, Switzerland. (29 June 2022, reviewed talk). <https://www.worldbiodiversityforum.org/>
 
@@ -134,12 +133,15 @@ To untangle complex ecological interactions, my research often employ statistica
 1. **Sato Y**, Kawagoe T, Kudoh H. A test for frequency-dependent herbivory on two trichome morphs of *Arabidopsis halleri*. **_The 5th EAFES International Congress_**, P2-147A, Otsu, Japan (March 2012, poster).  
 
 *And the other 35 contributions to academic conferences in Japanese (4 invited talks, 10 talks and 21 posters)*
+  
+  
+---
 
 # CV
 
 *PDF version available [here](./cv/CV_YasuhiroSato.pdf)*
 
-## Yasuhiro Sato  
+### Yasuhiro Sato  
 During my childhood, I collected nymphal shells of Japanese cicadas over ten years (Sato & Sato 2015). This early experience brought me to the field of ecology later in my life.
   
 I obtained my bachelor, master, and doctoral degree at Kyoto University, Japan. I did my undergraduate study in 2011 at the Laboratory of Insect Ecology, and then completed PhD in 2016 at the Laboratory of Plant Molecular Ecology (Kudoh Group) of the Center for Ecological Research. This experience on entomology and botany made me interested in plant-insect interactions. 
@@ -148,12 +150,12 @@ After PhD degree, I experienced two postdoctoral positions at Ryukoku University
   
 During the first postdoc position, I started my collaboration with Ecological and Evolutionary Genomics Group (Shimizu Laboratory) at the University of Zurich, Switzerland, as an affiliated member of University Research Priority Program of Global Change and Biodiversity (URPP GCB). After the completion of JST PRESTO program in Japan, I have moved to Switzerland and officially joined the Department of Evolutionary Biology and Environmental Studies of the University of Zurich as a senior research and teaching assistant (since 2021).
   
-### Education
+## Education
 - 23 March 2016. PhD in Science, Center for Ecological Research, Graduate School of Science, Kyoto University, Japan (supervisor: Prof. Dr. [Hiroshi Kudoh](http://www.ecology.kyoto-u.ac.jp/~kudoh/en/index.html)\) [PhD defended on 28 January 2016]
 - 25 March 2013. MSc in Science, Center for Ecological Research, Graduate School of Science, Kyoto University, Japan (supervisor: Prof. Dr. [Hiroshi Kudoh](http://www.ecology.kyoto-u.ac.jp/~kudoh/en/index.html)\)
 - 24 March 2011. BSc in Agriculture, Laboratory of Insect Ecology, Faculty of Agriculture, Kyoto University, Japan (supervisor: Assistant Prof. Dr. Takayoshi Nishida)
 
-### Research position
+## Research position
 - 2021.04 - Present: Oberassistent (Senior research and teaching assistant), Department of Evolutionary Biology and Environmental Studies, University of Zurich, Switzerland ([Evolutionary and Ecological Genomics Group](https://www.ieu.uzh.ch/en/research/evolbiol/ecogenomics.html)\)  
 - 2017.10 - Present: Guest researcher of Research Institute for Food and Agriculture, Ryukoku University, Japan  
 - 2017.08 - Present: Affiliated member of [University Research Priority Program Global Change and Biodiversity](https://www.gcb.uzh.ch/en/aboutus/people.html) (URPP GCB), University of Zurich, Switzerland   
@@ -163,7 +165,7 @@ During the first postdoc position, I started my collaboration with Ecological an
 - 2015.04 - 2016.03: Research Fellowship for PhD students (DC2), JSPS, Japan
 - 2013.06 - 2014.03: Research assistant of Center for Ecological Research, Kyoto University, Japan
 
-### Teaching experience
+## Teaching experience
 - 2021.09 - Present: BIO373. Next Generation Sequencing for Evolutionary Functional Genomics, University of Zurich, Switzerland (Block course coordinator, Co-instructor)  
 - 2022.05: BIO334. Practical Bioinformatics, University of Zurich, Switzerland (Co-instructor)  
 - 2019.04 - 2019.05: External Lecturer of Basic Genetics, Faculty of Agriculture, Ryukoku University, Japan (Co-instructor)  
@@ -171,28 +173,33 @@ During the first postdoc position, I started my collaboration with Ecological an
 - 2017.07 - 2017.08: BIO378. Research Practical in Evolutionary Biology and Systematics, University of Zurich, Switzerland (Co-supervisor)  
 - 2013.09 - 2015.01: External Teaching Assistant of Basic Programming, Faculty of Science and Technology, Ryukoku University, Japan
 
-### Awards
+## Awards
 1. Inoue Research Award for Young Scientists, Inoue Foundation for Science (2018)
 1. Kataoka Award, The Society for the Study of Species Biology (2016)
 1. [Ikushi Prize, Japan Society for the Promotion of Science](https://www.jsps.go.jp/english/e-ikushi-prize/awards_fy2015_01.html) (2016)
 
-### Grants
+## Grants
 1. JSPS Grants-in-Aid for Young Scientists (2020-2023, 3,200,000JPY as Principal Investigator)
 1. JST Precursory Research for Embryonic Science and Technology (PRESTO) (2017-2021, 40,000,000JPY as Principal Investigator)
 1. JSPS Research Fellowships for Young Scientists (PD) (2016-2017, 2,700,000JPY)
 1. JSPS Research Fellowships for Young Scientists (DC2) (2015-2016,  1,200,000JPY)
 1. JASSO Scholarship (2011-2015, 4,000,000JPY)  
 
-### Panels and boards
+## Panels and boards
 - 2019.01 - Present: Editorial board member of the Society for the Study of Species Biology, Japan  
 - 2019.09 - 2021.12: Reviewing editor of *Journal of Evolutionary Biology*  
 
-### Affiliated academic societies
+## Affiliated academic societies
 - 2010 - Present: Society for the Study of Species Biology  
 - 2012 - Present: Ecological Society of Japan  
 - 2017 - Present: Japanese Society of Plant Physiologists  
 - 2017 - Permanent: American Society of Naturalists  
 - 2020 - Present: European Society for Evolutionary Biology  
 
-### Reviewer activity 
+## Reviewer activity 
 - _see [Publons](https://publons.com/researcher/450213/yasuhiro-sato) personal page._  
+  
+  
+---
+<p align="center"><sup>(c) 2013- Yasuhiro Sato, All rights reserved.</sup></p>  
+
