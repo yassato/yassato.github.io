@@ -34,12 +34,12 @@ I am interested in how genetic variation shapes, and is shaped by, species inter
 #### **1. Plant neighborhood effects and the maintenance of polymorphism**  
 Herbivory risk depends on neighboring plants as well as plants’ own traits. Such neighbor effects can exert frequency-dependent selection on plant defense when they occur among plant genotypes within a species (reviewed by Sato 2018 Plant Species Biology). My PhD study showed that the feeding preference of a leaf beetle mediated negative frequency-dependent selection on the *GLABRA1*-based trichome dimorphism of *Arabidopsis halleri* (Sato & Kudoh 2017 The American Naturalist; Sato et al. 2017 Functional Ecology).
 
-![Hairy *Arabidopsis halleri* (left) and larval *Phaedon brassicae* (right) from [Plant Species Biology Vol.33(2)](https://esj-journals.onlinelibrary.wiley.com/toc/14421984/2018/33/2)](./photo/psbi12186-toc-0001-m_coverphoto.jpg){width=40%}
+![Hairy *Arabidopsis halleri* (left) and larval *Phaedon brassicae* (right) from [Plant Species Biology Vol.33(2)](https://esj-journals.onlinelibrary.wiley.com/toc/14421984/2018/33/2)](./photo/psbi12186-toc-0001-m_coverphoto.jpg){width=50%}
 
 #### **2. Quantitative genetics of plant neighborhood effects on herbivory**  
 Plant neighborhood effects are not always attributable to a single trait or gene. To dissect the genetic architecture of neighbor effects, I have developed new methods, named "Neighbor GWAS" (Sato et al. 2021 Heredity) and "Neighbor QTL" (Sato et al. 2021 G3). These new methods are being applied to quantitative trait variation in insect herbivory and communities on *Arabidopsis thaliana* accessions.
 
-![Field experiment using *Arabidopsis thaliana* accessions. Modified from Sato et al. (2021) Heredity](./photo/AraGWAS_JPNplot.jpg){width=50%}
+![Field experiment using *Arabidopsis thaliana* accessions. Modified from Sato et al. (2021) Heredity](./photo/AraGWAS_JPNplot.jpg){width=75%}
   
 #### **3. Data analysis in ecology, evolution, and genetics**  
 To untangle complex ecological interactions, my research often employ statistical tools. This experience enables me to not only develop new methods (Sato et al. 2022 bioRxiv) but also collaborate with other research areas (e.g., Nakadai et al. 2018 Oecologia; Shimizu-Inatsugi et al. 2021 Plant Species Biology; Takimoto & Sato et al. 2021 Ecological Informatics). Data from plant ecology and genomics are especially welcome to collaborate.  

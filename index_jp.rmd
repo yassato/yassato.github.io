@@ -37,77 +37,77 @@ E-mail: yasuhiro.sato(あっと)uzh.ch; yassato36c(あっと)outlook.com; sato.y
 
 ## 論文業績
 
-#### 査読なし  
-1. **Sato Y**, Takahashi Y, Xu C, Shimizu KK. (2022) Detecting frequency-dependent selection through the effects of genotype similarity on fitness components. **_bioRxiv_** <https://doi.org/10.1101/2022.08.10.502782>  
+*^†^共筆頭著者; \*連絡著者*  
 
-1. Stockenhuber R, Akiyama R, Tissot N, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Milosavljevic S, Widmer A, Ulm R, Shimizu KK. (2021) The _UV RESISTANCE LOCUS 8_-mediated UV-B response is required alongside _CRYPTOCHROME1_ for plant survival under sunlight in the field. **_bioRxiv_** <https://doi.org/10.1101/2021.12.08.471623>
+#### 査読なし  
+1. **Sato Y**\*, Takahashi Y, Xu C, Shimizu KK\*. (2022) Detecting frequency-dependent selection through the effects of genotype similarity on fitness components. **_bioRxiv_** <https://doi.org/10.1101/2022.08.10.502782>  
+
+1. Stockenhuber R, Akiyama R, Tissot N, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Milosavljevic S, Widmer A, Ulm R, Shimizu KK\*. (2021) The *UV RESISTANCE LOCUS 8*-mediated UV-B response is required alongside *CRYPTOCHROME1* for plant survival under sunlight in the field. **_bioRxiv_** <https://doi.org/10.1101/2021.12.08.471623>  
 
 #### 査読あり 
-1. Takimoto H^\*^, **Sato Y**^\*^, Nagano AJ, Shimizu KK, Kanagawa A. (2021) Using a two-stage convolutional neural network to rapidly identify tiny herbivorous beetles in the field. **_Ecological Informatics_** 66:101466 ^\*^Equal contribution <https://doi.org/10.1016/j.ecoinf.2021.101466>
+1. Takimoto H^†^\*, **Sato Y**^†^, Nagano AJ, Shimizu KK, Kanagawa A. (2021) Using a two-stage convolutional neural network to rapidly identify tiny herbivorous beetles in the field. **_Ecological Informatics_** 66:101466 <https://doi.org/10.1016/j.ecoinf.2021.101466>  
 
-1. **Sato Y**, Yamamoto E, Shimizu KK, Nagano AJ. (2021) Neighbor GWAS: incorporating neighbor genotypic identity into genome-wide association studies of field herbivory. **_Heredity_** 126(4):597–614. <https://doi.org/10.1038/s41437-020-00401-w> [[R package]](https://CRAN.R-project.org/package=rNeighborGWAS)  
+1. **Sato Y**, Yamamoto E, Shimizu KK\*, Nagano AJ\*. (2021) Neighbor GWAS: incorporating neighbor genotypic identity into genome-wide association studies of field herbivory. **_Heredity_** 126(4):597–614. <https://doi.org/10.1038/s41437-020-00401-w>  
 
-1. **Sato Y**^\*^, Takeda K^\*^, Nagano AJ. (2021) Neighbor QTL: an interval mapping method for quantitative trait loci underlying plant neighborhood effects. **_G3; Genes|Genomes|Genetics_** 11(2):jkab017 ^\*^Equal contribution <https://doi.org/10.1093/g3journal/jkab017> [[R package]](https://CRAN.R-project.org/package=rNeighborQTL)  
+1. **Sato Y**^†^\*, Takeda K^†^, Nagano AJ\*. (2021) Neighbor QTL: an interval mapping method for quantitative trait loci underlying plant neighborhood effects. **_G3; Genes|Genomes|Genetics_** 11(2):jkab017. <https://doi.org/10.1093/g3journal/jkab017>  
 
-1. Shimizu-Inatsugi R, Milosavljevic S, Shimizu KK, Schaepman-Strub G, Tanoi K, **Sato Y.** (2021) Metal accumulation and its effect on leaf herbivory in an allopolyploid species _Arabidopsis kamchatica_ inherited from a diploid hyperaccumulator _A. halleri_. **_Plant Species Biology_** 36(2):208–217. <https://doi.org/10.1111/1442-1984.12304>
+1. Shimizu-Inatsugi R\*, Milosavljevic S, Shimizu KK, Schaepman-Strub G, Tanoi K, **Sato Y.** (2021) Metal accumulation and its effect on leaf herbivory in an allopolyploid species _Arabidopsis kamchatica_ inherited from a diploid hyperaccumulator _A. halleri_. **_Plant Species Biology_** 36(2):208–217. <https://doi.org/10.1111/1442-1984.12304>  
 
-1. **Sato Y**, Tezuka A, Kashima M, Deguchi A, Shimizu-Inatsugi R, Yamazaki M, Shimizu KK, Nagano AJ. (2019) Transcriptional variation in glucosinolate biosynthetic genes and inducible responses to aphid herbivory on field-grown _Arabidopsis thaliana_. **_Frontiers in Genetics_** 10:787 <https://doi.org/10.3389/fgene.2019.00787>
+1. **Sato Y**, Tezuka A, Kashima M, Deguchi A, Shimizu-Inatsugi R, Yamazaki M, Shimizu KK\*, Nagano AJ\*. (2019) Transcriptional variation in glucosinolate biosynthetic genes and inducible responses to aphid herbivory on field-grown _Arabidopsis thaliana_. **_Frontiers in Genetics_** 10:787. <https://doi.org/10.3389/fgene.2019.00787>  
 
-1. **Sato Y**, Shimizu-Inatsugi R, Yamazaki M, Shimizu KK, Nagano AJ. (2019) Plant trichomes and a single gene _GLABRA1_ contribute to insect community composition on field-grown _Arabidopsis thaliana_. **_BMC Plant Biology_** 19:163 <https://doi.org/10.1186/s12870-019-1705-2>
+1. **Sato Y**, Shimizu-Inatsugi R, Yamazaki M, Shimizu KK\*, Nagano AJ\*. (2019) Plant trichomes and a single gene _GLABRA1_ contribute to insect community composition on field-grown _Arabidopsis thaliana_. **_BMC Plant Biology_** 19:163. <https://doi.org/10.1186/s12870-019-1705-2>  
 
-1. **Sato Y.** (2018) Associational effects and the maintenance of polymorphism in plant defense against herbivores: review and evidence. **_Plant Species Biology_** 33(2):91-108. <https://doi.org/10.1111/1442-1984.12201> [[postprint]](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/234646?locale=en)
+1. Nakadai R^†^\*, Hashimoto K^†^, Iwasaki T, **Sato Y.** (2018) Geographical co-occurrence of butterfly species: the importance of niche filtering by host plant species. **_Oecologia_** 186(4):995–1005. <https://doi.org/10.1007/s00442-018-4062-1>  
 
-1. Nakadai R^\*^, Hashimoto K^\*^, Iwasaki T, **Sato Y.** (2018) Geographical co-occurrence of butterfly species: the importance of niche filtering by host plant species. **_Oecologia_** 186(4):995–1005. ^\*^Equal contribution <https://doi.org/10.1007/s00442-018-4062-1>
+1. 坂田ゆず\*・**佐藤安弘**. (2017) 植物防御の進化生態学：種内と種間の異なる空間的階層を統合して. **日本生態学会誌** 67(3):287-306. <https://doi.org/10.18960/seitai.67.3_287>
 
-1. 坂田ゆず・**佐藤安弘**. (2017) 植物防御の進化生態学：種内と種間の異なる空間的階層を統合して. **日本生態学会誌** 67(3):287-306. <https://doi.org/10.18960/seitai.67.3_287>
+1. **Sato Y**^†^\*, Ito K^†^, Kudoh H. (2017) Optimal foraging by herbivores maintains polymorphism in defence in a natural plant population. **_Functional Ecology_** 31(12):2233-2243. <https://doi.org/10.1111/1365-2435.12937> [[postprint]](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/228143?locale=en)  
 
-1. **Sato Y**^\*^, Ito K^\*^, Kudoh H. (2017) Optimal foraging by herbivores maintains polymorphism in defence in a natural plant population. **_Functional Ecology_** 31(12):2233-2243. ^\*^Equal contribution <https://doi.org/10.1111/1365-2435.12937> [[postprint]](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/228143?locale=en)
+1. **Sato Y**\*, Kudoh H. (2017) Herbivore-mediated interaction promotes the maintenance of trichome dimorphism through negative frequency-dependent selection. **_The American Naturalist_** 190(3):E67-E77. <https://doi.org/10.1086/692603> [[PDF]](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/226924?locale=en)  
 
-1. **Sato Y**, Kudoh H. (2017) Herbivore-mediated interaction promotes the maintenance of trichome dimorphism through negative frequency-dependent selection. **_The American Naturalist_** 190(3):E67-E77. <https://doi.org/10.1086/692603> [[PDF]](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/226924?locale=en)
+1. **Sato Y**\*, Kudoh H. (2017) Fine-scale frequency differentiation along a herbivory gradient in the trichome dimorphism of a wild _Arabidopsis_. **_Ecology and Evolution_** 7(7):2133-2141. <https://doi.org/10.1002/ece3.2830>  
 
-1. **Sato Y**, Kudoh H. (2017) Fine-scale frequency differentiation along a herbivory gradient in the trichome dimorphism of a wild _Arabidopsis_. **_Ecology and Evolution_** 7(7):2133-2141. <https://doi.org/10.1002/ece3.2830>
+1. **Sato Y**\*, Kudoh H. (2016) Presence of substitute diets alters plant resistance to specialist and generalist herbivores: a meta-analysis. **_Ecosphere_** 7(11):e01446 <https://doi.org/10.1002/ecs2.1446>  
 
-1. **Sato Y**, Kudoh H. (2016) Presence of substitute diets alters plant resistance to specialist and generalist herbivores: a meta-analysis. **_Ecosphere_** 7(11):e01446 <https://doi.org/10.1002/ecs2.1446>
+1. **Sato Y**\*, Kudoh H. (2016) Associational effects against a leaf beetle mediate a minority advantage in defense and growth between hairy and glabrous plants. **_Evolutionary Ecology_** 30(1):137-154. <https://doi.org/10.1007/s10682-015-9809-0> [[postprint]](http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/201635?locale=en)  
 
-1. **Sato Y**, Kudoh H. (2016) Associational effects against a leaf beetle mediate a minority advantage in defense and growth between hairy and glabrous plants. **_Evolutionary Ecology_** 30(1):137-154. <https://doi.org/10.1007/s10682-015-9809-0> [[postprint]](http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/201635?locale=en)
+1. **Sato Y**\*, Sato S. (2015) Spring temperature predicts the long-term molting phenology of two cicadas, _Cryptotympana facialis_ and _Graptopsaltria nigrofuscata_ (Hemiptera: Cicadidae). **_Annals of the Entomological Society of America_** 108(4):494-500. <https://doi.org/10.1093/aesa/sav036> [[postprint]](http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/201636?locale=en)  
 
-1. **Sato Y**, Sato S. (2015) Spring temperature predicts the long-term molting phenology of two cicadas, _Cryptotympana facialis_ and _Graptopsaltria nigrofuscata_ (Hemiptera: Cicadidae). **_Annals of the Entomological Society of America_** 108(4):494-500. <https://doi.org/10.1093/aesa/sav036> [[postprint]](http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/201636?locale=en)
+1. **Sato Y**\*, Kudoh H. (2015) Tests of associational defence provided by hairy plants for glabrous plants of _Arabidopsis halleri_ subsp. _gemmifera_ against insect herbivores. **_Ecological Entomology_** 40(3):269-279. <https://doi.org/10.1111/een.12179> [[postprint]](http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/201637?locale=en)  
 
-1. **Sato Y**, Kudoh H. (2015) Tests of associational defence provided by hairy plants for glabrous plants of _Arabidopsis halleri_ subsp. _gemmifera_ against insect herbivores. **_Ecological Entomology_** 40(3):269-279. <https://doi.org/10.1111/een.12179> [[postprint]](http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/201637?locale=en)
+1. **Sato Y**, Kudoh H\*. (2014) Fine-scale genetic differentiation of a temperate herb: relevance of local environments and demographic change. **_AoB PLANTS_** 6:plu070. <https://doi.org/10.1093/aobpla/plu070>  
 
-1. **Sato Y**, Kudoh H. (2014) Fine-scale genetic differentiation of a temperate herb: relevance of local environments and demographic change. **_AoB PLANTS_** 6:plu070. <https://doi.org/10.1093/aobpla/plu070>
+1. **Sato Y**\*, Kawagoe T, Sawada Y, Hirai MY, Kudoh H. (2014) Frequency-dependent herbivory by a leaf beetle, _Phaedon brassicae_, on hairy and glabrous plants of _Arabidopsis halleri_ subsp. _gemmifera_. **_Evolutionary Ecology_** 28(3):545-559. <https://doi.org/10.1007/s10682-013-9686-3> [[postprint]](http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/179616?locale=en)  
 
-1. **Sato Y**, Kawagoe T, Sawada Y, Hirai MY, Kudoh H. (2014) Frequency-dependent herbivory by a leaf beetle, _Phaedon brassicae_, on hairy and glabrous plants of _Arabidopsis halleri_ subsp. _gemmifera_. **_Evolutionary Ecology_** 28(3):545-559. <https://doi.org/10.1007/s10682-013-9686-3> [[postprint]](http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/179616?locale=en)
+1. **Sato Y**\*, Kudoh H. (2013) Relative strength of phenotypic selection on the height and number of flowering-stalks in the rosette annual _Cardamine hirsuta_ (Brassicaceae). **_Journal of Ecology and Environment_** 36(3):151-158. <https://doi.org/10.5141/ecoenv.2013.151>  
 
-1. **Sato Y**, Kudoh H. (2013) Relative strength of phenotypic selection on the height and number of flowering-stalks in the rosette annual _Cardamine hirsuta_ (Brassicaceae). **_Journal of Ecology and Environment_** 36(3):151-158. <https://doi.org/10.5141/ecoenv.2013.151>
-
-1. **Sato Y**, Takakura KI, Nishida S, Nishida T. (2013) Dominant occurrence of cleistogamous flowers of _Lamium amplexicaule_ in relation to the nearby presence of an alien congener _L. purpureum_. **_ISRN Ecology_** Article ID:476862. <http://dx.doi.org/10.1155/2013/476862>  
-
+1. **Sato Y**\*, Takakura KI, Nishida S, Nishida T. (2013) Dominant occurrence of cleistogamous flowers of _Lamium amplexicaule_ in relation to the nearby presence of an alien congener _L. purpureum_. **_ISRN Ecology_** Article ID:476862. <http://dx.doi.org/10.1155/2013/476862>  
+  
 ## 学会・シンポジウム発表
 
 ### 国際学会・シンポジウム発表
 
 1. **Sato Y**, Takahashi Y, Xu C, Shimizu KK. Detecting frequency-dependent selection using a genetic marker regression of fitness components. In: S24 'Progress and Prospects in Adaptation Genomics'. **_The 2022 Congress of the European Society for Evolutionary Biology_**, Prague, Czech Republic (18 August 2022, reviewed talk)
 
-1. **Sato Y**, Nagano AJ, Shimizu KK. Genomics of within-species mixed planting against insect herbivores. In: Symposium MON3-b “From the species to the individual: investigating plant diversity on the scale that matters most”. **_World Biodiversity Forum 2022_**, June 26-July 1 2022, Davos, Switzerland [reviewed talk]
+1. **Sato Y**, Nagano AJ, Shimizu KK. Genomics of within-species mixed planting against insect herbivores. In: MON3-b 'From the species to the individual: investigating plant diversity on the scale that matters most' (organised by Drs. P. Villa and M.C. Schuman). **_World Biodiversity Forum 2022_**, Davos, Switzerland. (29 June 2022, reviewed talk). <https://www.worldbiodiversityforum.org/>
 
-1. Kuzuhara H, Takimoto H, **Sato Y**, Kanagawa A. Insect pest detection and identification method based on deep learning for realizing a pest control system. **_The SICE 2020 Annual Conference_**, September 23-26, 2020. Chiang Mai, Thailand [reviewed talk, changed into online meeting]
+1. Kuzuhara H, Takimoto H, **Sato Y**, Kanagawa A. Insect pest detection and identification method based on deep learning for realizing a pest control system. **_The Society of Instrument and Control Engineers (SICE) Annual Conference 2020_**. Chiang Mai, Thailand [changed into an online meeting due to COVID-19] (25 September 2020, talk) 
 
-1. **Sato Y**, Shimizu-Inatsugi R, Yamazaki M, Nagano AJ, Shimizu KK. Field GWAS of neighbor effects and its potential application to targeted polycultures in anti-herbivore defense. **_URPP Global Change and Biodiversity Conference_**, P15, June-July 2019, Monte Verita, Ascona, Switzerland [non-reviewed poster]
+1. **Sato Y**, Shimizu-Inatsugi R, Yamazaki M, Nagano AJ, Shimizu KK. Field GWAS of neighbor effects and its potential application to targeted polycultures in anti-herbivore defense. **_URPP Global Change and Biodiversity Conference_**, P15, Monte Verita, Ascona, Switzerland (June-July 2019, poster).
 
-1. **Sato Y**. Using personal legacy data to reveal the molting phenology of Japanese cicadas.**_The 8th EAFES International Congress_**, In: S19 "Ongoing cicada research in East Asia" (organized by Prof. J. Yikweon), April 2018, Nagoya, Japan [invited talk]
+1. **Sato Y**. Using personal legacy data to reveal the molting phenology of Japanese cicadas. In: S19 'Ongoing Cicada Research in East Asia' (organised by Prof. J. Yikweon), **_The 8th EAFES International Congress_**, Nagoya, Japan (April 2018, invited talk).
 
-1. **Sato Y**, Ito K, Kudoh H. Associational effects and the maintenance of trichome dimorphism in a wild *Arabidopsis*.**_The 2017 Congress of the European Society for Evolutionary Biology_**, S32-P08, 24 August 2017, Groningen, Netherland [reviewed poster]
+1. **Sato Y**, Ito K, Kudoh H. Associational effects and the maintenance of trichome dimorphism in a wild *Arabidopsis*. **_The 2017 Congress of the European Society for Evolutionary Biology_**, S32-P08, Groningen, Netherlands (August 2017, poster).
 
-1. **Sato Y**, Ito K. Modeling the effects of optimal foraging herbivores on the maintenance of trichome dimorphism in a wild *Arabidopsis population*.**_URPP Global Change and Biodiversity Conference_**, P28, August-September 2016, Monte Verita, Ascona, Switzerland [non-reviewed poster]
+1. **Sato Y**, Ito K. Modeling the effects of optimal foraging herbivores on the maintenance of trichome dimorphism in a wild *Arabidopsis* population. **_URPP Global Change and Biodiversity Conference_**, P28, Monte Verita, Ascona, Switzerland (August-September 2016, poster).
 
-1. **Sato Y**, Kudoh H. Associational antiherbivore defense promotes the coexistence of hairy and glabrous plants. **_100th Annual Meeting of Ecological Society of America_**, PS30-98, August 2015, Baltimore, MD, USA [reviewed poster]
+1. **Sato Y**, Kudoh H. Associational antiherbivore defense promotes the coexistence of hairy and glabrous plants. **_The 100th Annual Meeting of the Ecological Society of America_**, PS30-98, Baltimore, MD, USA (August 2015, poster).
 
-1. **Sato Y**, Kudoh H. Associational anti-herbivore defence and the maintenance of hairy and glabrous plants in *Arabidopsis halleri* subsp. *gemmifera*. **_Bristol-Kyoto Plant Sciences Workshop_**, P-14, September 2014, Bristol, UK [non-reviewed poster]
+1. **Sato Y**, Kudoh H. Associational anti-herbivore defence and the maintenance of hairy and glabrous plants in *Arabidopsis halleri* subsp. *gemmifera*. **_Bristol-Kyoto Plant Sciences Workshop_**, P-14, Bristol, UK (September 2014, poster).
 
-1. **Sato Y**, Kudoh H. Factors responsible for plant resistance to a shared herbivore: a meta-analysis of herbivore responses between choice and no-choice conditions.**_International Symposium for "Biodiversity & Evolution" project of Excellent Graduate Schools_**, P-03, December 2013, Kyoto, Japan [non-reviewed poster]
+1. **Sato Y**, Kudoh H. Factors responsible for plant resistance to a shared herbivore: a meta-analysis of herbivore responses between choice and no-choice conditions. **_International Symposium for "Biodiversity & Evolution" project of Excellent Graduate Schools_**, P-03, Kyoto, Japan (December 2013, poster).
 
-1. **Sato Y**, Kawagoe T, Kudoh H. A test for frequency-dependent herbivory on two trichome morphs of *Arabidopsis halleri* . **_The 5th EAFES International Congress_**, P2-147A, March 2012, Otsu, Japan [non-reviewed poster]
+1. **Sato Y**, Kawagoe T, Kudoh H. A test for frequency-dependent herbivory on two trichome morphs of *Arabidopsis halleri*. **_The 5th EAFES International Congress_**, P2-147A, Otsu, Japan (March 2012, poster).  
 
 ### 国内学会・シンポジウム発表
 
