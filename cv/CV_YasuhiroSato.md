@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Updated on 19 August 2022"
+date: "Updated on 9 September 2022"
 output:
   word_document: default
   html_document: default
@@ -23,7 +23,7 @@ Office: Y13-J-68 (Evolutionary and Ecological Genomics Group)
 E-mail: yasuhiro.sato@uzh.ch (work); yassato36c@outlook.com (personal)  
 ORCID: 0000-0002-6466-723X  
 Google scholar citations: https://scholar.google.co.jp/citations?user=HbrGYr8AAAAJ&hl=en  
-Personal webpage: https://yassato.github.io/  
+Personal website: https://yassato.github.io/  
 
 ## Education
 - 23 March 2016. PhD in Science, Center for Ecological Research, Graduate School of Science, Kyoto University, Japan (supervisor: Prof. Dr. Hiroshi Kudoh) [PhD defended on 28 January 2016]
@@ -38,10 +38,10 @@ April 2015–March 2016. Research Fellow of the Japan Society for the Promotion 
 - June 2013–March 2014. Research Assistant at the Center for Ecological Research, Kyoto University, Japan
 
 ## Approved funding and fellowships
-1. April 2020–March 2023. ‘Theoretical consideration of plant biodiversity effects driven by inter-genotypic interactions’, Grant-in-aid for Young Scientists, Japan Society for the Promotion of Science (JSPS), Japan (direct cost 3,200,000 JPY + indirect cost 960,000 JPY = ca. 30,861 EUR as a single lead applicant)
-1. October 2017–March 2021. ‘Large-scale omics approach towards a pest control by mixed planting’, PRESTO project, Japan Science and Technology Agency (JST) (direct cost 40,000,000 JPY + indirect cost 12,000,000 JPY = ca. 385,757 EUR + group leader’s own salary as a single lead applicant) <https://www.jst.go.jp/kisoken/presto/en/project/1112074/1112074_26.html>
-1. April 2016–September 2017. ‘Genome-wide association study and prediction of pest communities on natural accessions of the model plant species’, Research Fellowships for Young Scientists (for postdoctoral research), Japan Society for the Promotion of Science (JSPS) (direct cost 2,700,000 JPY + indirect cost 810,000 JPY = ca. 26,039 EUR + fellow’s own salary as a single lead applicant)
-1. April 2015–March 2016. ‘A test of the mechanism maintaining plant defense polymorphism in a wild *Arabidopsis*’, Research Fellowships for Young Scientists (for PhD students), Japan Society for the Promotion of Science (JSPS) (direct cost 1,200,000 JPY + indirect cost 360,000 JPY = ca. 11,573 EUR + fellow’s own salary as a single lead applicant)
+1. April 2020–March 2023. ‘Theoretical consideration of plant biodiversity effects driven by inter-genotypic interactions’, Grant-in-aid for Early-career Scientists, Japan Society for the Promotion of Science (JSPS), Japan (a single lead applicant; direct cost 3,200,000 JPY + indirect cost 960,000 JPY = 35,049 EUR upon the currency rate of the starting date)
+1. October 2017–March 2021. ‘Large-scale omics approach towards a pest control by mixed planting’, PRESTO project, Japan Science and Technology Agency (JST) (a single lead applicant; direct cost 40,000,000 JPY + indirect cost 12,000,000 JPY = 391,418 EUR upon the currency rate of the starting date + group leader’s own salary) <https://www.jst.go.jp/kisoken/presto/en/project/1112074/1112074_26.html>
+1. April 2016–September 2017. ‘Genome-wide association study and prediction of pest communities on natural accessions of the model plant species’, Research Fellowships for Postdoctoral Researcher, Japan Society for the Promotion of Science (JSPS) (a single lead applicant; direct cost 2,700,000 JPY + indirect cost 810,000 JPY = 27,449 EUR upon the currency rate of the starting date + fellow’s own salary)
+1. April 2015–March 2016. ‘A test of the mechanism maintaining plant defense polymorphism in a wild *Arabidopsis*’, Research Fellowships for PhD Students, Japan Society for the Promotion of Science (JSPS) (a single lead applicant; direct cost 1,200,000 JPY + indirect cost 360,000 JPY = 12,101 EUR upon the currency rate of the starting date + fellow’s own salary)
 
 ## Supervision of junior researchers
 | **Name** | **Degree** | **Program** | **Role** | **Output** |
@@ -79,8 +79,8 @@ April 2015–March 2016. Research Fellow of the Japan Society for the Promotion 
 1. March 2015. Sakata Y and **Sato Y**. Overview of evolutionary ecology of plant-herbivore interactions (in Japanese). Workshop 12: The 62nd Annual Meeting of the Ecological Society of Japan, Kagoshima, Japan
  
 ## Prizes and awards
-1. February 2018. Inoue Research Award for Young Scientists, Inoue Foundation for Science, Japan
-1. December 2016. Kataoka Award for Young Researchers, The Society for the Study of Species Biology, Japan
+1. February 2018. Inoue Research Award for Early-career Scientists, Inoue Foundation for Science, Japan
+1. December 2016. Kataoka Award for Early-career Researchers, The Society for the Study of Species Biology, Japan
 1. March 2016. Ikushi Prize for Outstanding PhD Students, Japan Society for the Promotion of Science (JSPS), Japan
 1. April 2011–March 2015. Refund Exemption for Excellent Students, JASSO Scholarship, Japan
 

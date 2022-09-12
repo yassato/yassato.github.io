@@ -3,7 +3,7 @@ title: Yasuhiro (Yasu) Sato
 output: rmdformats::robobook
 ---
 
-# Home
+# Contact
 
 [[English]](index.html) [[Japanese]](index_jp.html)  
 
@@ -26,7 +26,7 @@ See [Twitter@yassatojpn](https://twitter.com/search?q=%40yassatojpn&src=recent_s
 # Research
 
 ### **Quantitative Ecological Genetics of Species Interaction**  
-I am interested in how genetic variation shapes, and is shaped by, species interactions. To analyze quantitative genetic variation in complex ecological traits, my research adopt cutting-edge tools from computational biology and functional genomics. Currently I am working on plant-herbivore interactions, but other projects involving species interaction are also welcome.  
+I am interested in how genetic variation shapes, and is shaped by, species interactions. To analyze quantitative genetic variation in complex ecological traits, my research adopts cutting-edge tools from computational biology and functional genomics. Currently I am working on plant-herbivore interactions, but other projects involving species interaction are also welcome.  
 **Keywords: Ecological genetics, Plant-insect interaction, Herbivory**  
 
 ## Recent projects
@@ -137,9 +137,9 @@ To untangle complex ecological interactions, my research often employ statistica
   
 ---
 
-# CV
+# About me
 
-*PDF version available [here](./cv/CV_YasuhiroSato.pdf)*
+*PDF version of my CV is available [here](./cv/CV_YasuhiroSato.pdf)*
 
 ### Yasuhiro Sato  
 During my childhood, I collected nymphal shells of Japanese cicadas over ten years (Sato & Sato 2015). This early experience brought me to the field of ecology later in my life.
@@ -174,15 +174,15 @@ During the first postdoc position, I started my collaboration with Ecological an
 - 2013.09 - 2015.01: External Teaching Assistant of Basic Programming, Faculty of Science and Technology, Ryukoku University, Japan
 
 ## Awards
-1. Inoue Research Award for Young Scientists, Inoue Foundation for Science (2018)
+1. Inoue Research Award for Early-career Scientists, Inoue Foundation for Science (2018)
 1. Kataoka Award, The Society for the Study of Species Biology (2016)
 1. [Ikushi Prize, Japan Society for the Promotion of Science](https://www.jsps.go.jp/english/e-ikushi-prize/awards_fy2015_01.html) (2016)
 
 ## Grants
-1. JSPS Grants-in-Aid for Young Scientists (2020-2023, 3,200,000JPY as Principal Investigator)
+1. JSPS Grants-in-Aid for Early-career Scientists (2020-2023, 3,200,000JPY as Principal Investigator)
 1. JST Precursory Research for Embryonic Science and Technology (PRESTO) (2017-2021, 40,000,000JPY as Principal Investigator)
-1. JSPS Research Fellowships for Young Scientists (PD) (2016-2017, 2,700,000JPY)
-1. JSPS Research Fellowships for Young Scientists (DC2) (2015-2016,  1,200,000JPY)
+1. JSPS Research Fellowships for Early-career Scientists (PD) (2016-2017, 2,700,000JPY)
+1. JSPS Research Fellowships for Early-career Scientists (DC2) (2015-2016,  1,200,000JPY)
 1. JASSO Scholarship (2011-2015, 4,000,000JPY)  
 
 ## Panels and boards

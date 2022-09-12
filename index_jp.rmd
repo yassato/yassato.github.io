@@ -3,7 +3,7 @@ title: 佐藤 安弘（サトウ ヤスヒロ）
 output: rmdformats::robobook
 ---
 
-# ホーム
+# 連絡先
 
 [[英語]](index.html) [[日本語]](index_jp.html)  
 
