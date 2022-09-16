@@ -230,7 +230,7 @@ E-mail: yasuhiro.sato(あっと)uzh.ch; yassato36c(あっと)outlook.com; sato.y
 - 2013年6月-2014年3月　京都大学生態学研究センターRA  
 
 ## 教育歴
-- 2021年9月-現在まで　BIO373. Next Generation Sequencing for Evolutionary Functional Genomics, University of Zurich, Switzerland (Block course coordinator, Co-instructor)  
+- 2021年9月-現在まで　BIO373. Next Generation Sequencing for Evolutionary Functional Genomics, University of Zurich, Switzerland (Block course management, Co-instructor)  
 - 2022.05: BIO334. Practical Bioinformatics (Co-instructor)  
 - 2019年4月-2019年5月　龍谷大学農学部　非常勤講師『遺伝の考え方』(分担5回)  
 - 2018年7月-2018年8月　International Biology Undergraduate Summer School (BUSS) 2018, University of Zurich, Switzerland (Co-supervisor)  

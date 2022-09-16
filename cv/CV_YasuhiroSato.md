@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Updated on 9 September 2022"
+date: "Updated on 16 September 2022"
 output:
   word_document: default
   html_document: default
@@ -53,7 +53,7 @@ April 2015–March 2016. Research Fellow of the Japan Society for the Promotion 
 | Dimitri Anderfuhren	| Undergraduate | BIO378 program of Univ. of Zurich	| Co-supervisor with PI | *None* |  
 
 ## Teaching experience
-1. September 2021–Present. BIO373: Next Generation Sequencing for Evolutionary Functional Genomics, University of Zurich, Switzerland (Role: coordinator, co-instructor, and examiner; No. of participants = 15)
+1. September 2021–Present. BIO373: Next Generation Sequencing for Evolutionary Functional Genomics, University of Zurich, Switzerland (Role: course management, co-instructor, and examiner; No. of participants = 15)
 1. May 2022. BIO334: Practical Bioinformatics, University of Zurich, Switzerland (Role: co-instructor; No. of participants = ca. 25)
 1. April 2019–May 2019. External Lecturer of Basic Genetics, Faculty of Agriculture, Ryukoku University, Japan (Role: 90-min. lectures × five times for a liberal art course in Japanese; No. of participants = ca. 50)
 1. July 2018–August 2018. International Biology Undergraduate Summer School (BUSS) 2018, University of Zurich, Switzerland (Role: supervision of undergraduate student’s fieldwork and presentation; No. of participants = 1)
@@ -98,6 +98,7 @@ April 2015–March 2016. Research Fellow of the Japan Society for the Promotion 
 1. Japanese (native speaker)
 1. English (fluent)
 1. German (A1-level learner)
+1. Chinese (elementary-level learned during the liberal art course in the university)  
 
 ## References
 
@@ -175,7 +176,8 @@ Keywords: Plant Molecular Biology, Developmental Biology
 1.	Kuzuhara H, Takimoto H, **Sato Y**, Kanagawa A. (2020) Insect pest detection and identification method based on deep learning for realizing a pest control system. **_Proceedings of the Society of Instrument and Control Engineers (SICE) 2020 Annual Conference 2020_**. pp. 709–714. <https://doi.org/10.23919/SICE48898.2020.9240458> 
 
 ## Contributions to books
-1. **Sato Y.** (in press) Chapter 4. The maintenance of trichome dimorphism through associational effects: a case study of *Arabidopsis halleri* and a leaf beetle (in Japanese). In: Species Biology Series (ed. by The Society for the Study of Species Biology), Bun-ichi Sogo Shuppan, Tokyo, Japan.  
+1. **Sato Y** and Muranaka T (editors). (in press) New fields of ecology opened by omics technology: linking genes and traits to achieve a comprehensive analysis of plant life-history (in Japanese). Species Biology Series, Bun-ichi Sogo Shuppan, Tokyo, Japan. [waiting for the rest one chapter on 16 September 2022]
+1. **Sato Y.** (in press) Chapter 4. The maintenance of trichome dimorphism through associational effects: a case study of *Arabidopsis halleri* and a leaf beetle (in Japanese). In: Species Biology Series (Y. Sakata and T. Tsunoda editors), Bun-ichi Sogo Shuppan, Tokyo, Japan.  
 
 ## Patents and licenses
 *None*
