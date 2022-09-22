@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Updated on 16 September 2022"
+date: "Updated on 22 September 2022"
 output:
   word_document: default
   html_document: default
@@ -36,6 +36,12 @@ Personal website: https://yassato.github.io/
 - April 2016–September 2017. Independent Postdoctoral Fellow of the Japan Society for the Promotion of Science (JSPS) at Ryukoku University, Japan (host: Senior Lecturer Dr. Atsushi J. Nagano)
 April 2015–March 2016. Research Fellow of the Japan Society for the Promotion of Science (JSPS) for PhD students at Kyoto University, Japan (host: Prof. Dr. Hiroshi Kudoh)
 - June 2013–March 2014. Research Assistant at the Center for Ecological Research, Kyoto University, Japan
+
+## Visiting and guest position
+- October 2017–Present. Guest researcher of Research Institute for Food and Agriculture, Ryukoku University, Japan 
+- August 2017–Present. Affiliated member of University Research Priority Program for Global Change and Biodiversity (URPP GCB), University of Zurich, Switzerland <https://www.gcb.uzh.ch/en/aboutus/people.html> 
+- June 2016–September 2016. Visiting postdoctoral researcher, Evolutionary and Ecological Genomics Group (Shimizu Lab), University of Zurich, Switzerland 
+- April 2016–March 2020. Affiliated scientist of the Center for Ecological Research, Kyoto University 
 
 ## Approved funding and fellowships
 1. April 2020–March 2023. ‘Theoretical consideration of plant biodiversity effects driven by inter-genotypic interactions’, Grant-in-aid for Early-career Scientists, Japan Society for the Promotion of Science (JSPS), Japan (a single lead applicant; direct cost 3,200,000 JPY + indirect cost 960,000 JPY = 35,049 EUR upon the currency rate of the starting date)
@@ -79,9 +85,9 @@ April 2015–March 2016. Research Fellow of the Japan Society for the Promotion 
 1. March 2015. Sakata Y and **Sato Y**. Overview of evolutionary ecology of plant-herbivore interactions (in Japanese). Workshop 12: The 62nd Annual Meeting of the Ecological Society of Japan, Kagoshima, Japan
  
 ## Prizes and awards
-1. February 2018. Inoue Research Award for Early-career Scientists, Inoue Foundation for Science, Japan
-1. December 2016. Kataoka Award for Early-career Researchers, The Society for the Study of Species Biology, Japan
-1. March 2016. Ikushi Prize for Outstanding PhD Students, Japan Society for the Promotion of Science (JSPS), Japan
+1. 2 February 2018. Inoue Research Award for Early-career Scientists, Inoue Foundation for Science, Japan
+1. 3 December 2016. Kataoka Award for Early-career Researchers, The Society for the Study of Species Biology, Japan
+1. 2 March 2016. Ikushi Prize for Outstanding PhD Students, Japan Society for the Promotion of Science (JSPS), Japan <https://www.jsps.go.jp/english/e-ikushi-prize/awards_fy2015_01.html>
 1. April 2011–March 2015. Refund Exemption for Excellent Students, JASSO Scholarship, Japan
 
 ## Personal skills
