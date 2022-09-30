@@ -112,13 +112,13 @@ To untangle complex ecological interactions, my research often employ statistica
 ## Conference contributions    
 1. **Sato Y**, Takahashi Y, Xu C, Shimizu KK. Detecting frequency-dependent selection using a genetic marker regression of fitness components. In: S24 'Progress and Prospects in Adaptation Genomics'. **_The 2022 Congress of the European Society for Evolutionary Biology_**, Prague, Czech Republic (18 August 2022, reviewed talk)
 
-1. **Sato Y**, Nagano AJ, Shimizu KK. Genomics of within-species mixed planting against insect herbivores. In: MON3-b 'From the species to the individual: investigating plant diversity on the scale that matters most' (organised by Drs. P. Villa and M.C. Schuman). **_World Biodiversity Forum 2022_**, Davos, Switzerland. (29 June 2022, reviewed talk). <https://www.worldbiodiversityforum.org/>
+1. **Sato Y**, Nagano AJ, Shimizu KK. Genomics of within-species mixed planting against insect herbivores. In: MON3-b 'From the species to the individual: investigating plant diversity on the scale that matters most' (organized by Drs. P. Villa and M.C. Schuman). **_World Biodiversity Forum 2022_**, Davos, Switzerland. (29 June 2022, reviewed talk). <https://www.worldbiodiversityforum.org/>
 
 1. Kuzuhara H, Takimoto H, **Sato Y**, Kanagawa A. Insect pest detection and identification method based on deep learning for realizing a pest control system. **_The Society of Instrument and Control Engineers (SICE) Annual Conference 2020_**. Chiang Mai, Thailand [changed into an online meeting due to COVID-19] (25 September 2020, talk) 
 
 1. **Sato Y**, Shimizu-Inatsugi R, Yamazaki M, Nagano AJ, Shimizu KK. Field GWAS of neighbor effects and its potential application to targeted polycultures in anti-herbivore defense. **_URPP Global Change and Biodiversity Conference_**, P15, Monte Verita, Ascona, Switzerland (June-July 2019, poster).
 
-1. **Sato Y**. Using personal legacy data to reveal the molting phenology of Japanese cicadas. In: S19 'Ongoing Cicada Research in East Asia' (organised by Prof. J. Yikweon), **_The 8th EAFES International Congress_**, Nagoya, Japan (April 2018, invited talk).
+1. **Sato Y**. Using personal legacy data to reveal the molting phenology of Japanese cicadas. In: S19 'Ongoing Cicada Research in East Asia' (organized by Prof. J. Yikweon), **_The 8th EAFES International Congress_**, Nagoya, Japan (April 2018, invited talk).
 
 1. **Sato Y**, Ito K, Kudoh H. Associational effects and the maintenance of trichome dimorphism in a wild *Arabidopsis*. **_The 2017 Congress of the European Society for Evolutionary Biology_**, S32-P08, Groningen, Netherlands (August 2017, poster).
 

@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Updated on 22 September 2022"
+date: "Updated on 30 September 2022"
 output:
   word_document: default
   html_document: default
@@ -41,13 +41,13 @@ April 2015–March 2016. Research Fellow of the Japan Society for the Promotion 
 - October 2017–Present. Guest researcher of Research Institute for Food and Agriculture, Ryukoku University, Japan 
 - August 2017–Present. Affiliated member of University Research Priority Program for Global Change and Biodiversity (URPP GCB), University of Zurich, Switzerland <https://www.gcb.uzh.ch/en/aboutus/people.html> 
 - June 2016–September 2016. Visiting postdoctoral researcher, Evolutionary and Ecological Genomics Group (Shimizu Lab), University of Zurich, Switzerland 
-- April 2016–March 2020. Affiliated scientist of the Center for Ecological Research, Kyoto University 
+- April 2016–March 2020. Affiliated scientist of the Center for Ecological Research, Kyoto University, Japan  
 
 ## Approved funding and fellowships
-1. April 2020–March 2023. ‘Theoretical consideration of plant biodiversity effects driven by inter-genotypic interactions’, Grant-in-aid for Early-career Scientists, Japan Society for the Promotion of Science (JSPS), Japan (a single lead applicant; direct cost 3,200,000 JPY + indirect cost 960,000 JPY = 35,049 EUR upon the currency rate of the starting date)
-1. October 2017–March 2021. ‘Large-scale omics approach towards a pest control by mixed planting’, PRESTO project, Japan Science and Technology Agency (JST) (a single lead applicant; direct cost 40,000,000 JPY + indirect cost 12,000,000 JPY = 391,418 EUR upon the currency rate of the starting date + group leader’s own salary) <https://www.jst.go.jp/kisoken/presto/en/project/1112074/1112074_26.html>
-1. April 2016–September 2017. ‘Genome-wide association study and prediction of pest communities on natural accessions of the model plant species’, Research Fellowships for Postdoctoral Researcher, Japan Society for the Promotion of Science (JSPS) (a single lead applicant; direct cost 2,700,000 JPY + indirect cost 810,000 JPY = 27,449 EUR upon the currency rate of the starting date + fellow’s own salary)
-1. April 2015–March 2016. ‘A test of the mechanism maintaining plant defense polymorphism in a wild *Arabidopsis*’, Research Fellowships for PhD Students, Japan Society for the Promotion of Science (JSPS) (a single lead applicant; direct cost 1,200,000 JPY + indirect cost 360,000 JPY = 12,101 EUR upon the currency rate of the starting date + fellow’s own salary)
+1. April 2020–March 2023. ‘Theoretical consideration of plant biodiversity effects driven by inter-genotypic interactions’, Grant-in-aid for Early-career Scientists, Grant ID:20K15880, Japan Society for the Promotion of Science (JSPS), Japan (a single lead applicant; direct cost 3,200,000 JPY + indirect cost 960,000 JPY = 35,049 EUR upon the currency rate of the starting date)
+1. October 2017–March 2021. ‘Large-scale omics approach towards a pest control by mixed planting’, PRESTO project, Grant ID:JPMJPR17Q4, Japan Science and Technology Agency (JST) (a single lead applicant; direct cost 40,000,000 JPY + indirect cost 12,000,000 JPY = 391,418 EUR upon the currency rate of the starting date + group leader’s own salary) <https://www.jst.go.jp/kisoken/presto/en/project/1112074/1112074_26.html>
+1. April 2016–September 2017. ‘Genome-wide association study and prediction of pest communities on natural accessions of the model plant species’, Research Fellowships for Postdoctoral Researcher, Grant ID:16J30005, Japan Society for the Promotion of Science (JSPS) (a single lead applicant; direct cost 2,700,000 JPY + indirect cost 810,000 JPY = 27,449 EUR upon the currency rate of the starting date + fellow’s own salary)
+1. April 2015–March 2016. ‘A test of the mechanism maintaining plant defense polymorphism in a wild *Arabidopsis*’, Research Fellowships for PhD Students, Grant ID:15J00400, Japan Society for the Promotion of Science (JSPS) (a single lead applicant; direct cost 1,200,000 JPY + indirect cost 360,000 JPY = 12,101 EUR upon the currency rate of the starting date + fellow’s own salary)
 
 ## Supervision of junior researchers
 | **Name** | **Degree** | **Program** | **Role** | **Output** |
@@ -69,7 +69,7 @@ April 2015–March 2016. Research Fellow of the Japan Society for the Promotion 
 ## Panels, boards, and reviewing activities
 1. January 2019–Present. Editorial board member of the Society for the Study of Species Biology (in Japanese)
 1. April 2020–December 2021. Reviewing editor of **_Journal of Evolutionary Biology_**
-1. December 2022. Organising committee member of the 52nd symposium of the Study of Species Biology, Japan, <https://sites.google.com/view/sssb2020shiga>
+1. December 2022. Organizing committee member of the 52nd symposium of the Study of Species Biology, Japan, <https://sites.google.com/view/sssb2020shiga>
 1. November 2016. Organising committee member of 5th Japan-Taiwan Ecology Workshop, Kyoto, Japan, <https://sites.google.com/site/jtecolw5th/>
 1. Total 43 peer-review activities verified by Publons, <https://publons.com/researcher/450213/yasuhiro-sato/> (Journal of Evolutionary Biology^12; Plant Species Biology^6; Rice^4; Ecological Research^3; Entomological Science^3; Plant Biology^3; Ecology^2; Ecology and Evolution^2; Biological Journal of the Linnean Society^1; Frontiers in Plant Science^2; Frontiers in Conservation Science^1; Functional Ecology^1; Plant Cell & Environment^1; Plant-Environment Interactions^1; F1000 Research^1: recorded on 13 May 2022)
 
@@ -80,7 +80,7 @@ April 2015–March 2016. Research Fellow of the Japan Society for the Promotion 
 1. European Society for Evolutionary Biology (April 2020–Present)
 1. The Japanese Society of Plant Physiologists (January 2018–Present)
 
-## Organisation of conferences
+## Organization of conferences
 1. December 2019. **Sato Y**, Muranaka T. Cutting-edge technology of plant omics and phenotyping (in Japanese). The 51st Symposium of the Society for the Study of Species Biology, Miyazaki, Japan
 1. March 2015. Sakata Y and **Sato Y**. Overview of evolutionary ecology of plant-herbivore interactions (in Japanese). Workshop 12: The 62nd Annual Meeting of the Ecological Society of Japan, Kagoshima, Japan
  
@@ -196,10 +196,10 @@ Keywords: Plant Molecular Biology, Developmental Biology
 
 ## Contributions to international conferences
 1. **Sato Y**, Takahashi Y, Xu C, Shimizu KK. Detecting frequency-dependent selection using a genetic marker regression of fitness components. In: S24 'Progress and Prospects in Adaptation Genomics'. **_The 2022 Congress of the European Society for Evolutionary Biology_**, Prague, Czech Republic (18 August 2022, reviewed talk)
-1. **Sato Y**, Nagano AJ, Shimizu KK. Genomics of within-species mixed planting against insect herbivores. In: MON3-b 'From the species to the individual: investigating plant diversity on the scale that matters most' (organised by Drs. P. Villa and M.C. Schuman). **_World Biodiversity Forum 2022_**, Davos, Switzerland. (29 June 2022, reviewed talk). <https://www.worldbiodiversityforum.org/>
+1. **Sato Y**, Nagano AJ, Shimizu KK. Genomics of within-species mixed planting against insect herbivores. In: MON3-b 'From the species to the individual: investigating plant diversity on the scale that matters most' (organized by Drs. P. Villa and M.C. Schuman). **_World Biodiversity Forum 2022_**, Davos, Switzerland. (29 June 2022, reviewed talk). <https://www.worldbiodiversityforum.org/>
 1. Kuzuhara H, Takimoto H, **Sato Y**, Kanagawa A. Insect pest detection and identification method based on deep learning for realizing a pest control system. **_The Society of Instrument and Control Engineers (SICE) Annual Conference 2020_**. Chiang Mai, Thailand [changed into an online meeting due to COVID-19] (25 September 2020, talk) 
 1. **Sato Y**, Shimizu-Inatsugi R, Yamazaki M, Nagano AJ, Shimizu KK. Field GWAS of neighbor effects and its potential application to targeted polycultures in anti-herbivore defense. **_URPP Global Change and Biodiversity Conference_**, P15, Monte Verita, Ascona, Switzerland (June-July 2019, poster).
-1. **Sato Y**. Using personal legacy data to reveal the molting phenology of Japanese cicadas. In: S19 'Ongoing Cicada Research in East Asia' (organised by Prof. J. Yikweon), **_The 8th EAFES International Congress_**, Nagoya, Japan (April 2018, invited talk).
+1. **Sato Y**. Using personal legacy data to reveal the molting phenology of Japanese cicadas. In: S19 'Ongoing Cicada Research in East Asia' (organized by Prof. J. Yikweon), **_The 8th EAFES International Congress_**, Nagoya, Japan (April 2018, invited talk).
 1. **Sato Y**, Ito K, Kudoh H. Associational effects and the maintenance of trichome dimorphism in a wild *Arabidopsis*. **_The 2017 Congress of the European Society for Evolutionary Biology_**, S32-P08, Groningen, Netherlands (August 2017, poster).
 1. **Sato Y**, Ito K. Modeling the effects of optimal foraging herbivores on the maintenance of trichome dimorphism in a wild *Arabidopsis* population. **_URPP Global Change and Biodiversity Conference_**, P28, Monte Verita, Ascona, Switzerland (August-September 2016, poster).
 1. **Sato Y**, Kudoh H. Associational antiherbivore defense promotes the coexistence of hairy and glabrous plants. **_The 100th Annual Meeting of the Ecological Society of America_**, PS30-98, Baltimore, MD, USA (August 2015, poster).
@@ -216,7 +216,7 @@ Keywords: Plant Molecular Biology, Developmental Biology
 ## General contributions to science 
 1. Hosting arrangement of the BEEES seminar at the Department of Evolutionary Biology and Environmental Studies, University of Zurich, Switzerland (4 November 2021): ‘Plant-insect chemical communication: an information theory perspective’ by Dr. Pengjuan Zu (host: **Sato Y**)
 2. External seminar at the Gregor Mendel Institute of Molecular Plant Biology, Austria (25 June 2019): ‘Neighbor GWAS: incorporating neighbor identity into *Arabidopsis*-herbivore interaction’ by **Sato Y**. (host: Dr. Magnus Nordborg).
-3. Discussion panellist at ‘Evolutionary Community Ecology 2018 workshop’, Kyoto University, Kyoto (25 September 2018), Japan (organised by Dr. Kohmei Kadowaki and Prof. Dr. Takeshi Miki).
+3. Discussion panellist at ‘Evolutionary Community Ecology 2018 workshop’, Kyoto University, Kyoto (25 September 2018), Japan (organized by Dr. Kohmei Kadowaki and Prof. Dr. Takeshi Miki).
 4. External seminar at the Department of Evolutionary Biology and Environmental Studies, University of Zurich, Switzerland (9 August 2018): ‘Neighbor effects enhance anti-herbivore defense in *Arabidopsis*’ by **Sato Y**. (host: University Research Priority Program of Global Change and Biodiversity).
 
 ## Preprint
@@ -224,5 +224,6 @@ Keywords: Plant Molecular Biology, Developmental Biology
 1. Stockenhuber R, Akiyama R, Tissot N, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Milosavljevic S, Widmer A, Ulm R, Shimizu KK\*. (2021) The *UV RESISTANCE LOCUS 8*-mediated UV-B response is required alongside *CRYPTOCHROME1* for plant survival under sunlight in the field. **_bioRxiv_** <https://doi.org/10.1101/2021.12.08.471623> 
 
 ## Manuscript in preparation
-1. Sato et al., (in prep.) Genomics of within-species mixed planting against insect herbivores (tentative).   
+1. Shimizu-Inatsugi R, Morishima A, Mourato B, Shimizu KK, **Sato Y**. (submitted) Enhanced leaf phenotypic plasticity of a new synthetic allotetraploid _Arabidopsis kamchatica_ in natural environment. 
+1. **Sato Y** et al., (in prep.) Genomics of within-species mixed planting against insect herbivores (tentative).    
 
