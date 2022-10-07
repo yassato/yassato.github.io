@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Updated on 30 September 2022"
+date: "Updated on 7 October 2022"
 output:
   word_document: default
   html_document: default
@@ -26,15 +26,15 @@ Google scholar citations: https://scholar.google.co.jp/citations?user=HbrGYr8AAA
 Personal website: https://yassato.github.io/  
 
 ## Education
-- 23 March 2016. PhD in Science, Center for Ecological Research, Graduate School of Science, Kyoto University, Japan (supervisor: Prof. Dr. Hiroshi Kudoh) [PhD defended on 28 January 2016]
-- 25 March 2013. MSc in Science, Center for Ecological Research, Graduate School of Science, Kyoto University, Japan (supervisor: Prof. Dr. Hiroshi Kudoh)
-- 24 March 2011. BSc in Agriculture, Laboratory of Insect Ecology, Faculty of Agriculture, Kyoto University, Japan (supervisor: Assistant Prof. Dr. Takayoshi Nishida)
+- 23 March 2016. PhD in Science (Biosciences), Center for Ecological Research, Graduate School of Science, Kyoto University, Japan (supervisor: Prof. Dr. Hiroshi Kudoh) [PhD defended on 28 January 2016]
+- 25 March 2013. MSc in Science (Biosciences), Center for Ecological Research, Graduate School of Science, Kyoto University, Japan (supervisor: Prof. Dr. Hiroshi Kudoh)
+- 24 March 2011. BSc in Agriculture (Bioresource Sciences), Laboratory of Insect Ecology, Faculty of Agriculture, Kyoto University, Japan (supervisor: Assistant Prof. Dr. Takayoshi Nishida)
 
 ## Employment history
 - April 2021–Present. Oberassistent (Senior research and teaching assistant) at the Department of Evolutionary Biology and Environmental Studies, University of Zurich, Switzerland (PI: Prof. Dr. Kentaro K. Shimizu)
 - October 2017–March 2021. Independent Group Leader of Precursory Research for the Embryonic Science and Technology (PRESTO) program of the Japan Science and Technology Agency (JST) at Ryukoku University, Japan (host: Associate Prof. Dr. Atsushi J. Nagano)
 - April 2016–September 2017. Independent Postdoctoral Fellow of the Japan Society for the Promotion of Science (JSPS) at Ryukoku University, Japan (host: Senior Lecturer Dr. Atsushi J. Nagano)
-April 2015–March 2016. Research Fellow of the Japan Society for the Promotion of Science (JSPS) for PhD students at Kyoto University, Japan (host: Prof. Dr. Hiroshi Kudoh)
+- April 2015–March 2016. Research Fellow of the Japan Society for the Promotion of Science (JSPS) for PhD students at Kyoto University, Japan (host: Prof. Dr. Hiroshi Kudoh)
 - June 2013–March 2014. Research Assistant at the Center for Ecological Research, Kyoto University, Japan
 
 ## Visiting and guest position
@@ -52,7 +52,7 @@ April 2015–March 2016. Research Fellow of the Japan Society for the Promotion 
 ## Supervision of junior researchers
 | **Name** | **Degree** | **Program** | **Role** | **Output** |
 | --- | --- | --- | --- | --- |
-| Chongmeng Xu |	PhD student |	URPP GCB of Univ. of Zurich	| Co-supervisor with PI | Sato et al. (2022) bioRxiv |
+| Chongmeng Xu |	PhD student |	URPP GCB of Univ. of Zurich	| PhD committee member, Co-supervisor with PI | Sato et al. (2022) bioRxiv; Xu & Sato et al. (in prep.) |
 | Elina Jansone | Undergraduate | Lab rotation of Univ. of Zurich | Main supervisor | *None* |
 | Kazuya Takeda	| Master of Science |	PRESTO project of JST	| Daily supervisor as an employer	| Sato, Takeda & Nagano (2021) G3 |
 | Silvija Milosavljevic	| Undergraduate | BUSS program at Univ. of Zurich | Co-supervisor with PI |	Shimizu-Inatsugi et al. (2021) Plant Spec. Biol. |
@@ -60,18 +60,18 @@ April 2015–March 2016. Research Fellow of the Japan Society for the Promotion 
 
 ## Teaching experience
 1. September 2021–Present. BIO373: Next Generation Sequencing for Evolutionary Functional Genomics, University of Zurich, Switzerland (Role: course management, co-instructor, and examiner; No. of participants = 15)
-1. May 2022. BIO334: Practical Bioinformatics, University of Zurich, Switzerland (Role: co-instructor; No. of participants = ca. 25)
+1. May 2022. BIO334: Practical Bioinformatics, University of Zurich, Switzerland (Role: temporal co-instructor during a sabbatical absence of PI; No. of participants = ca. 25)
 1. April 2019–May 2019. External Lecturer of Basic Genetics, Faculty of Agriculture, Ryukoku University, Japan (Role: 90-min. lectures × five times for a liberal art course in Japanese; No. of participants = ca. 50)
 1. July 2018–August 2018. International Biology Undergraduate Summer School (BUSS) 2018, University of Zurich, Switzerland (Role: supervision of undergraduate student’s fieldwork and presentation; No. of participants = 1)
 1. July 2017–August 2017. BIO378: Research Practical in Evolutionary Biology and Systematics, University of Zurich, Switzerland (Role: supervision of undergraduate student’s fieldwork, data analysis, and report writing; No. of participants = 1)
 1. September 2013–January 2015. External Teaching Assistant of Programming Practical, Faculty of Science and Technology, Ryukoku University, Japan (Role: teaching assistant of R language; No. of participants = 5-10)
 
 ## Panels, boards, and reviewing activities
-1. January 2019–Present. Editorial board member of the Society for the Study of Species Biology (in Japanese)
+1. January 2019–Present. Editorial board member of the Society for the Study of Species Biology, Japan
 1. April 2020–December 2021. Reviewing editor of **_Journal of Evolutionary Biology_**
 1. December 2022. Organizing committee member of the 52nd symposium of the Study of Species Biology, Japan, <https://sites.google.com/view/sssb2020shiga>
 1. November 2016. Organising committee member of 5th Japan-Taiwan Ecology Workshop, Kyoto, Japan, <https://sites.google.com/site/jtecolw5th/>
-1. Total 43 peer-review activities verified by Publons, <https://publons.com/researcher/450213/yasuhiro-sato/> (Journal of Evolutionary Biology^12; Plant Species Biology^6; Rice^4; Ecological Research^3; Entomological Science^3; Plant Biology^3; Ecology^2; Ecology and Evolution^2; Biological Journal of the Linnean Society^1; Frontiers in Plant Science^2; Frontiers in Conservation Science^1; Functional Ecology^1; Plant Cell & Environment^1; Plant-Environment Interactions^1; F1000 Research^1: recorded on 13 May 2022)
+1. Total 43 peer-review activities verified by Publons, <https://publons.com/researcher/450213/yasuhiro-sato/> (Journal of Evolutionary Biology^12; Plant Species Biology^6; Rice^4; Ecological Research^3; Entomological Science^3; Plant Biology^3; Ecology^2; Ecology and Evolution^2; Biological Journal of the Linnean Society^1; Frontiers in Plant Science^2; Frontiers in Conservation Science^1; Functional Ecology^1; Plant Cell & Environment^1; Plant-Environment Interactions^1; F1000 Research^1: retrieved on 7 October 2022)
 
 ## Active memberships in scientific societies
 1. American Society of Naturalists (Permanent membership since October 2017)
@@ -129,9 +129,9 @@ Website: <https://www.ecology.kyoto-u.ac.jp/~kudoh/en/index.html>
 Keywords: Molecular Ecology, Plant Ecology, Flowering Phenology
 
 3. **Prof. Dr. Atsushi J. Nagano**  
-Position: Full professor  
+Position: Full professor (since April 2022)  
 Relationship: Postdoc host  
-Affiliation: Faculty of Agriculture, Ryukoku University, Japan  
+Affiliation: Faculty of Agriculture, Ryukoku University, Japan (adjunct with Project Professor at the Institute of Advanced Biosciences of Keio University, Japan)  
 Address: Yokotani 1-5, Seta Oe-cho, Otsu, Shiga 520-2194, Japan  
 Phone: +81 77 599 5656  
 E-mail: anagano@agr.ryukoku.ac.jp  
@@ -216,7 +216,7 @@ Keywords: Plant Molecular Biology, Developmental Biology
 ## General contributions to science 
 1. Hosting arrangement of the BEEES seminar at the Department of Evolutionary Biology and Environmental Studies, University of Zurich, Switzerland (4 November 2021): ‘Plant-insect chemical communication: an information theory perspective’ by Dr. Pengjuan Zu (host: **Sato Y**)
 2. External seminar at the Gregor Mendel Institute of Molecular Plant Biology, Austria (25 June 2019): ‘Neighbor GWAS: incorporating neighbor identity into *Arabidopsis*-herbivore interaction’ by **Sato Y**. (host: Dr. Magnus Nordborg).
-3. Discussion panellist at ‘Evolutionary Community Ecology 2018 workshop’, Kyoto University, Kyoto (25 September 2018), Japan (organized by Dr. Kohmei Kadowaki and Prof. Dr. Takeshi Miki).
+3. Discussion facilitator at ‘Evolutionary Community Ecology 2018 workshop’, Kyoto University, Kyoto (25 September 2018), Japan (organized by Dr. Kohmei Kadowaki and Prof. Dr. Takeshi Miki).
 4. External seminar at the Department of Evolutionary Biology and Environmental Studies, University of Zurich, Switzerland (9 August 2018): ‘Neighbor effects enhance anti-herbivore defense in *Arabidopsis*’ by **Sato Y**. (host: University Research Priority Program of Global Change and Biodiversity).
 
 ## Preprint
@@ -224,6 +224,7 @@ Keywords: Plant Molecular Biology, Developmental Biology
 1. Stockenhuber R, Akiyama R, Tissot N, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Milosavljevic S, Widmer A, Ulm R, Shimizu KK\*. (2021) The *UV RESISTANCE LOCUS 8*-mediated UV-B response is required alongside *CRYPTOCHROME1* for plant survival under sunlight in the field. **_bioRxiv_** <https://doi.org/10.1101/2021.12.08.471623> 
 
 ## Manuscript in preparation
-1. Shimizu-Inatsugi R, Morishima A, Mourato B, Shimizu KK, **Sato Y**. (submitted) Enhanced leaf phenotypic plasticity of a new synthetic allotetraploid _Arabidopsis kamchatica_ in natural environment. 
+1. Shimizu-Inatsugi R, Morishima A, Mourato B, Shimizu KK, **Sato Y**. (submitted) Phenotypic variation of a new synthetic allotetraploid _Arabidopsis kamchatica_ enhanced in natural environment. 
+1. Xu C^†^, **Sato Y**^†^\*, Yamazaki M, Barbour MA, Shimizu KK\*. (in prep.) Genome-wide association study highlights escape from aphids by delayed growth in _Arabidopsis thaliana_. 
 1. **Sato Y** et al., (in prep.) Genomics of within-species mixed planting against insect herbivores (tentative).    
 
