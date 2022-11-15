@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Updated on 7 October 2022"
+date: "Updated on 15 November 2022"
 output:
   word_document: default
   html_document: default
@@ -52,7 +52,7 @@ Personal website: https://yassato.github.io/
 ## Supervision of junior researchers
 | **Name** | **Degree** | **Program** | **Role** | **Output** |
 | --- | --- | --- | --- | --- |
-| Chongmeng Xu |	PhD student |	URPP GCB of Univ. of Zurich	| PhD committee member, Co-supervisor with PI | Sato et al. (2022) bioRxiv; Xu & Sato et al. (in prep.) |
+| Chongmeng Xu |	PhD student |	URPP GCB of Univ. of Zurich	| PhD committee member, Co-supervisor with PI | Xu & Sato et al. (2022) bioRxiv; Sato et al. (2022) bioRxiv |
 | Elina Jansone | Undergraduate | Lab rotation of Univ. of Zurich | Main supervisor | *None* |
 | Kazuya Takeda	| Master of Science |	PRESTO project of JST	| Daily supervisor as an employer	| Sato, Takeda & Nagano (2021) G3 |
 | Silvija Milosavljevic	| Undergraduate | BUSS program at Univ. of Zurich | Co-supervisor with PI |	Shimizu-Inatsugi et al. (2021) Plant Spec. Biol. |
@@ -71,7 +71,7 @@ Personal website: https://yassato.github.io/
 1. April 2020–December 2021. Reviewing editor of **_Journal of Evolutionary Biology_**
 1. December 2022. Organizing committee member of the 52nd symposium of the Study of Species Biology, Japan, <https://sites.google.com/view/sssb2020shiga>
 1. November 2016. Organising committee member of 5th Japan-Taiwan Ecology Workshop, Kyoto, Japan, <https://sites.google.com/site/jtecolw5th/>
-1. Total 43 peer-review activities verified by Publons, <https://publons.com/researcher/450213/yasuhiro-sato/> (Journal of Evolutionary Biology^12; Plant Species Biology^6; Rice^4; Ecological Research^3; Entomological Science^3; Plant Biology^3; Ecology^2; Ecology and Evolution^2; Biological Journal of the Linnean Society^1; Frontiers in Plant Science^2; Frontiers in Conservation Science^1; Functional Ecology^1; Plant Cell & Environment^1; Plant-Environment Interactions^1; F1000 Research^1: retrieved on 7 October 2022)
+1. Total 43 peer-review activities verified by Publons (WoS ResearcherID), <https://www.webofscience.com/wos/author/rid/N-7939-2013> (Journal of Evolutionary Biology^12; Plant Species Biology^6; Rice^4; Ecological Research^3; Entomological Science^3; Plant Biology^3; Ecology^2; Ecology and Evolution^2; Biological Journal of the Linnean Society^1; Frontiers in Plant Science^2; Frontiers in Conservation Science^1; Functional Ecology^1; Plant Cell & Environment^1; Plant-Environment Interactions^1; F1000 Research^1: retrieved on 7 October 2022)
 
 ## Active memberships in scientific societies
 1. American Society of Naturalists (Permanent membership since October 2017)
@@ -220,11 +220,12 @@ Keywords: Plant Molecular Biology, Developmental Biology
 4. External seminar at the Department of Evolutionary Biology and Environmental Studies, University of Zurich, Switzerland (9 August 2018): ‘Neighbor effects enhance anti-herbivore defense in *Arabidopsis*’ by **Sato Y**. (host: University Research Priority Program of Global Change and Biodiversity).
 
 ## Preprint
+1. Xu C^†^, **Sato Y**^†^\*, Yamazaki M, Brasser M, Barbour MA, Bascompte J, Shimizu KK\*. (2022) Genome-wide association study highlights escape from aphids by delayed growth in *Arabidopsis thaliana*. **_bioRxiv_** <https://doi.org/10.1101/2022.11.10.515564>
+
 1. **Sato Y**\*, Takahashi Y, Xu C, Shimizu KK\*. (2022) Detecting frequency-dependent selection through the effects of genotype similarity on fitness components. **_bioRxiv_** <https://doi.org/10.1101/2022.08.10.502782> 
 1. Stockenhuber R, Akiyama R, Tissot N, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Milosavljevic S, Widmer A, Ulm R, Shimizu KK\*. (2021) The *UV RESISTANCE LOCUS 8*-mediated UV-B response is required alongside *CRYPTOCHROME1* for plant survival under sunlight in the field. **_bioRxiv_** <https://doi.org/10.1101/2021.12.08.471623> 
 
 ## Manuscript in preparation
-1. Shimizu-Inatsugi R, Morishima A, Mourato B, Shimizu KK, **Sato Y**. (submitted) Phenotypic variation of a new synthetic allotetraploid _Arabidopsis kamchatica_ enhanced in natural environment. 
-1. Xu C^†^, **Sato Y**^†^\*, Yamazaki M, Barbour MA, Shimizu KK\*. (in prep.) Genome-wide association study highlights escape from aphids by delayed growth in _Arabidopsis thaliana_. 
+1. Shimizu-Inatsugi R, Morishima A, Mourato B, Shimizu KK, **Sato Y**. (in revision) Phenotypic variation of a new synthetic allotetraploid _Arabidopsis kamchatica_ enhanced in natural environment. 
 1. **Sato Y** et al., (in prep.) Genomics of within-species mixed planting against insect herbivores (tentative).    
 

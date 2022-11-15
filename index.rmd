@@ -14,7 +14,7 @@ Tel: +41-44-635-4986; Office: Y13-J-68 ([Evolutionary and Ecological Genomics Gr
 E-mail: yasuhiro.sato"at"uzh.ch; yassato36c"at"outlook.com; sato.yasuhiro.36c"at"kyoto-u.jp  
 ORCID: [0000-0002-6466-723X](http://orcid.org/0000-0002-6466-723X)  
 [Google scholar citations](http://scholar.google.co.jp/citations?user=HbrGYr8AAAAJ&hl=en);
-[ResearchGate](https://www.researchgate.net/profile/Yasuhiro_Sato3); [Publons](https://publons.com/researcher/450213/yasuhiro-sato)  
+[ResearchGate](https://www.researchgate.net/profile/Yasuhiro_Sato3); [ResearcherID](https://www.webofscience.com/wos/author/rid/N-7939-2013)  
 
 ### News
 See [Twitter@yassatojpn](https://twitter.com/search?q=%40yassatojpn&src=recent_search_click)
@@ -53,6 +53,8 @@ To untangle complex ecological interactions, my research often employ statistica
 *^†^Equal contribution; \*Correspondence*  
 
 ## Preprint
+1. Xu C^†^, **Sato Y**^†^\*, Yamazaki M, Brasser M, Barbour MA, Bascompte J, Shimizu KK\*. (2022) Genome-wide association study highlights escape from aphids by delayed growth in *Arabidopsis thaliana*. **_bioRxiv_** <https://doi.org/10.1101/2022.11.10.515564>
+
 1. **Sato Y**\*, Takahashi Y, Xu C, Shimizu KK\*. (2022) Detecting frequency-dependent selection through the effects of genotype similarity on fitness components. **_bioRxiv_** <https://doi.org/10.1101/2022.08.10.502782>  
 
 1. Stockenhuber R, Akiyama R, Tissot N, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Milosavljevic S, Widmer A, Ulm R, Shimizu KK\*. (2021) The *UV RESISTANCE LOCUS 8*-mediated UV-B response is required alongside *CRYPTOCHROME1* for plant survival under sunlight in the field. **_bioRxiv_** <https://doi.org/10.1101/2021.12.08.471623>  
@@ -148,7 +150,7 @@ I obtained my bachelor, master, and doctoral degree at Kyoto University, Japan. 
   
 After PhD degree, I experienced two postdoctoral positions at Ryukoku University, Japan, as an independent postdoctoral fellow of Japan Society for the Promotion of Science (JSPS) (from 2016 to 2017) and as a junior group leader of Precursory Research for Embryonic Science and Technology (PRESTO) program of the Japan Science and Technology Agency (JST) (from 2017 to 2021). I was hosted by the Laboratory of Information Biology (Nagano Group) for five years, through which I acquired my skills on plant bioinformatics and functional genomics.
   
-During the first postdoc position, I started my collaboration with Ecological and Evolutionary Genomics Group (Shimizu Laboratory) at the University of Zurich, Switzerland, as an affiliated member of University Research Priority Program of Global Change and Biodiversity (URPP GCB). After the completion of JST PRESTO program in Japan, I have moved to Switzerland and officially joined the Department of Evolutionary Biology and Environmental Studies of the University of Zurich as a senior research and teaching assistant (since 2021).
+During the first postdoc position, I started my collaboration with Evolutionary and Ecological Genomics Group (Shimizu Laboratory) at the University of Zurich, Switzerland, as an affiliated member of University Research Priority Program of Global Change and Biodiversity (URPP GCB). After the completion of JST PRESTO program in Japan, I have moved to Switzerland and officially joined the Department of Evolutionary Biology and Environmental Studies of the University of Zurich as a senior research and teaching assistant (since 2021).
   
 ## Education
 - 23 March 2016. PhD in Science, Center for Ecological Research, Graduate School of Science, Kyoto University, Japan (supervisor: Prof. Dr. [Hiroshi Kudoh](http://www.ecology.kyoto-u.ac.jp/~kudoh/en/index.html)\) [PhD defended on 28 January 2016]
@@ -197,7 +199,7 @@ During the first postdoc position, I started my collaboration with Ecological an
 - 2020 - Present: European Society for Evolutionary Biology  
 
 ## Reviewer activity 
-- _see [Publons](https://publons.com/researcher/450213/yasuhiro-sato) personal page._  
+- _see [ResearcherID](https://www.webofscience.com/wos/author/rid/N-7939-2013) verified via Publons_  
   
   
 ---
