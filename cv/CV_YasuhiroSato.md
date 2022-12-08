@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Updated on 15 November 2022"
+date: "Updated on 8 December 2022"
 output:
   word_document: default
   html_document: default
@@ -90,6 +90,9 @@ Personal website: https://yassato.github.io/
 1. 2 March 2016. Ikushi Prize for Outstanding PhD Students, Japan Society for the Promotion of Science (JSPS), Japan <https://www.jsps.go.jp/english/e-ikushi-prize/awards_fy2015_01.html>
 1. April 2011–March 2015. Refund Exemption for Excellent Students, JASSO Scholarship, Japan
 
+## Career breaks
+*None*  
+
 ## Personal skills
 ### Licence 
 1. Swiss driver license (no expiration date)
@@ -155,6 +158,7 @@ Keywords: Plant Molecular Biology, Developmental Biology
 *^†^Equal contribution; \*Correspondence*  
 
 ## Peer-reviewed articles
+1. Shimizu-Inatsugi R\*, Morishima A, Mourato B, Shimizu KK, **Sato Y**. (in press) Phenotypic variation of a new synthetic allotetraploid _Arabidopsis kamchatica_ enhanced in natural environment. **_Frontiers in Plant Science_** <https://doi.org/10.3389/fpls.2022.1058522>
 1. Takimoto H^†^\*, **Sato Y**^†^, Nagano AJ, Shimizu KK, Kanagawa A. (2021) Using a two-stage convolutional neural network to rapidly identify tiny herbivorous beetles in the field. **_Ecological Informatics_** 66:101466 <https://doi.org/10.1016/j.ecoinf.2021.101466>
 1. **Sato Y**, Yamamoto E, Shimizu KK\*, Nagano AJ\*. (2021) Neighbor GWAS: incorporating neighbor genotypic identity into genome-wide association studies of field herbivory. **_Heredity_** 126(4):597–614. <https://doi.org/10.1038/s41437-020-00401-w>
 1. **Sato Y**^†^\*, Takeda K^†^, Nagano AJ\*. (2021) Neighbor QTL: an interval mapping method for quantitative trait loci underlying plant neighborhood effects. **_G3; Genes|Genomes|Genetics_** 11(2):jkab017. <https://doi.org/10.1093/g3journal/jkab017>
@@ -182,8 +186,8 @@ Keywords: Plant Molecular Biology, Developmental Biology
 1.	Kuzuhara H, Takimoto H, **Sato Y**, Kanagawa A. (2020) Insect pest detection and identification method based on deep learning for realizing a pest control system. **_Proceedings of the Society of Instrument and Control Engineers (SICE) 2020 Annual Conference 2020_**. pp. 709–714. <https://doi.org/10.23919/SICE48898.2020.9240458> 
 
 ## Contributions to books
-1. **Sato Y** and Muranaka T (editors). (in press) New fields of ecology opened by omics technology: linking genes and traits to achieve a comprehensive analysis of plant life-history (in Japanese). Species Biology Series, Bun-ichi Sogo Shuppan, Tokyo, Japan. [waiting for the rest one chapter on 16 September 2022]
-1. **Sato Y.** (in press) Chapter 4. The maintenance of trichome dimorphism through associational effects: a case study of *Arabidopsis halleri* and a leaf beetle (in Japanese). In: Species Biology Series (Y. Sakata and T. Tsunoda editors), Bun-ichi Sogo Shuppan, Tokyo, Japan.  
+1. **Sato Y** and Muranaka T (eds). (in press) Trans-Scale Biology of Plants: Integrating genomics, phenomics, and ecology to unveil biodiversity (in Japanese). Species Biology Series, Bun-ichi Sogo Shuppan, Tokyo, Japan.
+1. **Sato Y.** (in press) Chapter 4. The maintenance of trichome dimorphism through associational effects: a case study of *Arabidopsis halleri* and a leaf beetle (in Japanese). In: Species Biology Series (Y. Sakata and T. Tsunoda eds), Bun-ichi Sogo Shuppan, Tokyo, Japan.  
 
 ## Patents and licenses
 *None*
@@ -195,37 +199,37 @@ Keywords: Plant Molecular Biology, Developmental Biology
 *And the other source codes for published research, personal utilities, and teaching materials are available at the GitHub, <https://github.com/yassato>*
 
 ## Contributions to international conferences
+1. **Sato Y**, Shimizu-Inatsugi R, Nagano AJ, Shimizu KK. Neighbor GWAS: incorporating neighbor genotypic identity in genome-wide association study of field-grown *Arabidopsis thaliana*. 'From place to space - Tracing the spatial dimension of plant sciences' by **_Plant Science Center Symposium 2022_**, P30, ETH Zurich, Switzerland (7 December 2022, poster)
 1. **Sato Y**, Takahashi Y, Xu C, Shimizu KK. Detecting frequency-dependent selection using a genetic marker regression of fitness components. In: S24 'Progress and Prospects in Adaptation Genomics'. **_The 2022 Congress of the European Society for Evolutionary Biology_**, Prague, Czech Republic (18 August 2022, reviewed talk)
-1. **Sato Y**, Nagano AJ, Shimizu KK. Genomics of within-species mixed planting against insect herbivores. In: MON3-b 'From the species to the individual: investigating plant diversity on the scale that matters most' (organized by Drs. P. Villa and M.C. Schuman). **_World Biodiversity Forum 2022_**, Davos, Switzerland. (29 June 2022, reviewed talk). <https://www.worldbiodiversityforum.org/>
+1. **Sato Y**, Nagano AJ, Shimizu KK. Genomics of within-species mixed planting against insect herbivores. In: MON3-b 'From the species to the individual: investigating plant diversity on the scale that matters most' (organized by Drs. P. Villa and M.C. Schuman). **_World Biodiversity Forum 2022_**, Davos, Switzerland. (29 June 2022, reviewed talk) <https://www.worldbiodiversityforum.org/>
 1. Kuzuhara H, Takimoto H, **Sato Y**, Kanagawa A. Insect pest detection and identification method based on deep learning for realizing a pest control system. **_The Society of Instrument and Control Engineers (SICE) Annual Conference 2020_**. Chiang Mai, Thailand [changed into an online meeting due to COVID-19] (25 September 2020, talk) 
-1. **Sato Y**, Shimizu-Inatsugi R, Yamazaki M, Nagano AJ, Shimizu KK. Field GWAS of neighbor effects and its potential application to targeted polycultures in anti-herbivore defense. **_URPP Global Change and Biodiversity Conference_**, P15, Monte Verita, Ascona, Switzerland (June-July 2019, poster).
-1. **Sato Y**. Using personal legacy data to reveal the molting phenology of Japanese cicadas. In: S19 'Ongoing Cicada Research in East Asia' (organized by Prof. J. Yikweon), **_The 8th EAFES International Congress_**, Nagoya, Japan (April 2018, invited talk).
-1. **Sato Y**, Ito K, Kudoh H. Associational effects and the maintenance of trichome dimorphism in a wild *Arabidopsis*. **_The 2017 Congress of the European Society for Evolutionary Biology_**, S32-P08, Groningen, Netherlands (August 2017, poster).
-1. **Sato Y**, Ito K. Modeling the effects of optimal foraging herbivores on the maintenance of trichome dimorphism in a wild *Arabidopsis* population. **_URPP Global Change and Biodiversity Conference_**, P28, Monte Verita, Ascona, Switzerland (August-September 2016, poster).
-1. **Sato Y**, Kudoh H. Associational antiherbivore defense promotes the coexistence of hairy and glabrous plants. **_The 100th Annual Meeting of the Ecological Society of America_**, PS30-98, Baltimore, MD, USA (August 2015, poster).
+1. **Sato Y**, Shimizu-Inatsugi R, Yamazaki M, Nagano AJ, Shimizu KK. Field GWAS of neighbor effects and its potential application to targeted polycultures in anti-herbivore defense. **_URPP Global Change and Biodiversity Conference_**, P15, Monte Verita, Ascona, Switzerland (June-July 2019, poster)
+1. **Sato Y**. Using personal legacy data to reveal the molting phenology of Japanese cicadas. In: S19 'Ongoing Cicada Research in East Asia' (organized by Prof. J. Yikweon), **_The 8th EAFES International Congress_**, Nagoya, Japan (April 2018, invited talk)
+1. **Sato Y**, Ito K, Kudoh H. Associational effects and the maintenance of trichome dimorphism in a wild *Arabidopsis*. **_The 2017 Congress of the European Society for Evolutionary Biology_**, S32-P08, Groningen, Netherlands (August 2017, poster)
+1. **Sato Y**, Ito K. Modeling the effects of optimal foraging herbivores on the maintenance of trichome dimorphism in a wild *Arabidopsis* population. **_URPP Global Change and Biodiversity Conference_**, P28, Monte Verita, Ascona, Switzerland (August-September 2016, poster)
+1. **Sato Y**, Kudoh H. Associational antiherbivore defense promotes the coexistence of hairy and glabrous plants. **_The 100th Annual Meeting of the Ecological Society of America_**, PS30-98, Baltimore, MD, USA (August 2015, poster)
 1. **Sato Y**, Kudoh H. Associational anti-herbivore defence and the maintenance of hairy and glabrous plants in *Arabidopsis halleri* subsp. *gemmifera*. **_Bristol-Kyoto Plant Sciences Workshop_**, P-14, Bristol, UK (September 2014, poster).
-1. **Sato Y**, Kudoh H. Factors responsible for plant resistance to a shared herbivore: a meta-analysis of herbivore responses between choice and no-choice conditions. **_International Symposium for "Biodiversity & Evolution" project of Excellent Graduate Schools_**, P-03, Kyoto, Japan (December 2013, poster).
-1. **Sato Y**, Kawagoe T, Kudoh H. A test for frequency-dependent herbivory on two trichome morphs of *Arabidopsis halleri*. **_The 5th EAFES International Congress_**, P2-147A, Otsu, Japan (March 2012, poster).  
+1. **Sato Y**, Kudoh H. Factors responsible for plant resistance to a shared herbivore: a meta-analysis of herbivore responses between choice and no-choice conditions. **_International Symposium for "Biodiversity & Evolution" project of Excellent Graduate Schools_**, P-03, Kyoto, Japan (December 2013, poster)
+1. **Sato Y**, Kawagoe T, Kudoh H. A test for frequency-dependent herbivory on two trichome morphs of *Arabidopsis halleri*. **_The 5th EAFES International Congress_**, P2-147A, Otsu, Japan (March 2012, poster)  
 
 *And the other 35 contributions to academic conferences in Japanese (4 invited talks, 10 talks and 21 posters)*
 
 ## Outreach activities
-1. **Sato Y**, Sato S. (2016) 12-years cicada monitoring. Proceedings of the Natural History Museum Mt. Fujiwara 38:1–5 (in Japanese).  
+1. **Sato Y**, Sato S. (2016) 12-years cicada monitoring. Proceedings of the Natural History Museum Mt. Fujiwara 38:1–5 (in Japanese)  
 *-> Plain-text Japanese summary of Sato and Sato (2015) Annals of the Entomological Society of America 108(4):494–500.*
 
 ## General contributions to science 
 1. Hosting arrangement of the BEEES seminar at the Department of Evolutionary Biology and Environmental Studies, University of Zurich, Switzerland (4 November 2021): ‘Plant-insect chemical communication: an information theory perspective’ by Dr. Pengjuan Zu (host: **Sato Y**)
-2. External seminar at the Gregor Mendel Institute of Molecular Plant Biology, Austria (25 June 2019): ‘Neighbor GWAS: incorporating neighbor identity into *Arabidopsis*-herbivore interaction’ by **Sato Y**. (host: Dr. Magnus Nordborg).
-3. Discussion facilitator at ‘Evolutionary Community Ecology 2018 workshop’, Kyoto University, Kyoto (25 September 2018), Japan (organized by Dr. Kohmei Kadowaki and Prof. Dr. Takeshi Miki).
-4. External seminar at the Department of Evolutionary Biology and Environmental Studies, University of Zurich, Switzerland (9 August 2018): ‘Neighbor effects enhance anti-herbivore defense in *Arabidopsis*’ by **Sato Y**. (host: University Research Priority Program of Global Change and Biodiversity).
+2. External seminar at the Gregor Mendel Institute of Molecular Plant Biology, Austria (25 June 2019): ‘Neighbor GWAS: incorporating neighbor identity into *Arabidopsis*-herbivore interaction’ by **Sato Y**. (host: Dr. Magnus Nordborg)
+3. Discussion facilitator at ‘Evolutionary Community Ecology 2018 workshop’, Kyoto University, Kyoto (25 September 2018), Japan (organized by Dr. Kohmei Kadowaki and Prof. Dr. Takeshi Miki)
+4. External seminar at the Department of Evolutionary Biology and Environmental Studies, University of Zurich, Switzerland (9 August 2018): ‘Neighbor effects enhance anti-herbivore defense in *Arabidopsis*’ by **Sato Y**. (host: University Research Priority Program of Global Change and Biodiversity)
 
 ## Preprint
 1. Xu C^†^, **Sato Y**^†^\*, Yamazaki M, Brasser M, Barbour MA, Bascompte J, Shimizu KK\*. (2022) Genome-wide association study highlights escape from aphids by delayed growth in *Arabidopsis thaliana*. **_bioRxiv_** <https://doi.org/10.1101/2022.11.10.515564>
-
-1. **Sato Y**\*, Takahashi Y, Xu C, Shimizu KK\*. (2022) Detecting frequency-dependent selection through the effects of genotype similarity on fitness components. **_bioRxiv_** <https://doi.org/10.1101/2022.08.10.502782> 
-1. Stockenhuber R, Akiyama R, Tissot N, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Milosavljevic S, Widmer A, Ulm R, Shimizu KK\*. (2021) The *UV RESISTANCE LOCUS 8*-mediated UV-B response is required alongside *CRYPTOCHROME1* for plant survival under sunlight in the field. **_bioRxiv_** <https://doi.org/10.1101/2021.12.08.471623> 
+1. **Sato Y**\*, Takahashi Y, Xu C, Shimizu KK\*. (2022) Detecting frequency-dependent selection through the effects of genotype similarity on fitness components. **_bioRxiv_** <https://doi.org/10.1101/2022.08.10.502782>
+1. Stockenhuber R, Akiyama R, Tissot N, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Milosavljevic S, Widmer A, Ulm R, Shimizu KK\*. (2021) The *UV RESISTANCE LOCUS 8*-mediated UV-B response is required alongside *CRYPTOCHROME1* for plant survival under sunlight in the field. **_bioRxiv_** <https://doi.org/10.1101/2021.12.08.471623>
 
 ## Manuscript in preparation
-1. Shimizu-Inatsugi R, Morishima A, Mourato B, Shimizu KK, **Sato Y**. (in revision) Phenotypic variation of a new synthetic allotetraploid _Arabidopsis kamchatica_ enhanced in natural environment. 
-1. **Sato Y** et al., (in prep.) Genomics of within-species mixed planting against insect herbivores (tentative).    
+1. **Sato Y** et al., (in prep.) Genomics of within-species mixed planting against insect herbivores (tentative).
+1. **Sato Y** et al., (in prep.) Neighbor eGWAS: incorporating neighbor genotypic identity into field transcriptomics (tentative).    
 
