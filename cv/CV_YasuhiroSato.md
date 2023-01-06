@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Updated on 3 January 2023"
+date: "Updated on 6 January 2023"
 output:
   word_document: default
   html_document: default
@@ -158,7 +158,7 @@ Keywords: Plant Molecular Biology, Developmental Biology
 *^†^Equal contribution; \*Correspondence*  
 
 ## Peer-reviewed articles
-1. Shimizu-Inatsugi R\*, Morishima A, Mourato B, Shimizu KK, **Sato Y**. (in press) Phenotypic variation of a new synthetic allotetraploid _Arabidopsis kamchatica_ enhanced in natural environment. **_Frontiers in Plant Science_** <https://doi.org/10.3389/fpls.2022.1058522>
+1. Shimizu-Inatsugi R\*, Morishima A, Mourato B, Shimizu KK, **Sato Y**. (2023) Phenotypic variation of a new synthetic allotetraploid _Arabidopsis kamchatica_ enhanced in natural environment. **_Frontiers in Plant Science_** <https://doi.org/10.3389/fpls.2022.1058522>
 1. Takimoto H^†^\*, **Sato Y**^†^, Nagano AJ, Shimizu KK, Kanagawa A. (2021) Using a two-stage convolutional neural network to rapidly identify tiny herbivorous beetles in the field. **_Ecological Informatics_** 66:101466 <https://doi.org/10.1016/j.ecoinf.2021.101466>
 1. **Sato Y**, Yamamoto E, Shimizu KK\*, Nagano AJ\*. (2021) Neighbor GWAS: incorporating neighbor genotypic identity into genome-wide association studies of field herbivory. **_Heredity_** 126(4):597–614. <https://doi.org/10.1038/s41437-020-00401-w>
 1. **Sato Y**^†^\*, Takeda K^†^, Nagano AJ\*. (2021) Neighbor QTL: an interval mapping method for quantitative trait loci underlying plant neighborhood effects. **_G3; Genes|Genomes|Genetics_** 11(2):jkab017. <https://doi.org/10.1093/g3journal/jkab017>
