@@ -199,7 +199,7 @@ Keywords: Plant Molecular Biology, Developmental Biology
 *And the other source codes for published research, personal utilities, and teaching materials are available at the GitHub, <https://github.com/yassato>*
 
 ## Contributions to international conferences
-1. Shimizu KK, Kudoh H. (organizers); Barbour M, Honjo M, **Sato Y** (speakers). *Arabidopsis* relatives from laboratories to natural fields. **_The 33rd International Conference on Arabidopsis Research (ICAR2033)_**, Session C22, Chiba, Japan (accepted and planned on 7 June 2023)
+1. Shimizu KK, Kudoh H. (organizers); Barbour M, Honjo M, **Sato Y** (speakers). *Arabidopsis* relatives from laboratories to natural fields. **_The 33rd International Conference on Arabidopsis Research (ICAR2023)_**, Session C22, Chiba, Japan (accepted and planned on 7 June 2023)
 1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Nagano AJ, Shimizu KK. Keystone genotype pairs increase population-level resistance to herbivory. **_SwissPLANT 2023 symposium_**, Les Diablerets, Switzerland (23 January 2023, talk)
 1. **Sato Y**, Shimizu-Inatsugi R, Nagano AJ, Shimizu KK. Neighbor GWAS: incorporating neighbor genotypic identity in genome-wide association study of field-grown *Arabidopsis thaliana*. 'From place to space - Tracing the spatial dimension of plant sciences' by **_Plant Science Center Symposium 2022_**, P30, ETH Zurich, Switzerland (7 December 2022, poster)
 1. **Sato Y**, Takahashi Y, Xu C, Shimizu KK. Detecting frequency-dependent selection using a genetic marker regression of fitness components. In: S24 'Progress and Prospects in Adaptation Genomics'. **_The 2022 Congress of the European Society for Evolutionary Biology_**, Prague, Czech Republic (18 August 2022, reviewed talk)
