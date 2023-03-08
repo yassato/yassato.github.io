@@ -1,10 +1,10 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Updated on 18 February 2023"
+date: "Updated on 8 March 2023"
 output:
-  word_document: default
-  html_document: default
   pdf_document: default
+  html_document: default
+  word_document: default
 ---
 
 ---
@@ -159,7 +159,7 @@ Keywords: Plant Molecular Biology, Developmental Biology
 
 ## Peer-reviewed articles
 1. **Sato Y**\*, Takahashi Y, Xu C, Shimizu KK\*. (2023) Detecting frequency-dependent selection through the effects of genotype similarity on fitness components. **_Evolution_** <https://doi.org/10.1093/evolut/qpad028>
-1. Shimizu-Inatsugi R\*, Morishima A, Mourato B, Shimizu KK, **Sato Y**. (2023) Phenotypic variation of a new synthetic allotetraploid _Arabidopsis kamchatica_ enhanced in natural environment. **_Frontiers in Plant Science_** <https://doi.org/10.3389/fpls.2022.1058522>
+1. Shimizu-Inatsugi R\*, Morishima A, Mourato B, Shimizu KK, **Sato Y**. (2023) Phenotypic variation of a new synthetic allotetraploid _Arabidopsis kamchatica_ enhanced in natural environment. **_Frontiers in Plant Science_** 13:1058522 <https://doi.org/10.3389/fpls.2022.1058522>
 1. Takimoto H^†^\*, **Sato Y**^†^, Nagano AJ, Shimizu KK, Kanagawa A. (2021) Using a two-stage convolutional neural network to rapidly identify tiny herbivorous beetles in the field. **_Ecological Informatics_** 66:101466 <https://doi.org/10.1016/j.ecoinf.2021.101466>
 1. **Sato Y**, Yamamoto E, Shimizu KK\*, Nagano AJ\*. (2021) Neighbor GWAS: incorporating neighbor genotypic identity into genome-wide association studies of field herbivory. **_Heredity_** 126(4):597–614. <https://doi.org/10.1038/s41437-020-00401-w>
 1. **Sato Y**^†^\*, Takeda K^†^, Nagano AJ\*. (2021) Neighbor QTL: an interval mapping method for quantitative trait loci underlying plant neighborhood effects. **_G3; Genes|Genomes|Genetics_** 11(2):jkab017. <https://doi.org/10.1093/g3journal/jkab017>
@@ -201,7 +201,8 @@ Keywords: Plant Molecular Biology, Developmental Biology
 
 ## Contributions to international conferences
 1. Shimizu KK, Kudoh H. (organizers); Barbour M, Honjo M, **Sato Y** (speakers). *Arabidopsis* relatives from laboratories to natural fields. **_The 33rd International Conference on Arabidopsis Research (ICAR2023)_**, Session C22, Chiba, Japan (accepted and planned on 7 June 2023)
-1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Nagano AJ, Shimizu KK. Keystone genotype pairs increase population-level resistance to herbivory. **_SwissPLANT 2023 symposium_**, Les Diablerets, Switzerland (23 January 2023, talk)
+1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Nagano AJ, Shimizu KK. Keystone genotype pairs increase plant resistance to herbivory. **_Gordon Research Conference: Plant-Herbivore Interaction 2023_**, Ventura, CA, USA (4 March 2023, poster)
+1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Nagano AJ, Shimizu KK. Keystone genotype pairs increase population-level resistance to herbivory. **_SwissPLANT 2023 Symposium_**, Les Diablerets, Switzerland (23 January 2023, talk)
 1. **Sato Y**, Shimizu-Inatsugi R, Nagano AJ, Shimizu KK. Neighbor GWAS: incorporating neighbor genotypic identity in genome-wide association study of field-grown *Arabidopsis thaliana*. 'From place to space - Tracing the spatial dimension of plant sciences' by **_Plant Science Center Symposium 2022_**, P30, ETH Zurich, Switzerland (7 December 2022, poster)
 1. **Sato Y**, Takahashi Y, Xu C, Shimizu KK. Detecting frequency-dependent selection using a genetic marker regression of fitness components. In: S24 'Progress and Prospects in Adaptation Genomics'. **_The 2022 Congress of the European Society for Evolutionary Biology_**, Prague, Czech Republic (18 August 2022, reviewed talk)
 1. **Sato Y**, Nagano AJ, Shimizu KK. Genomics of within-species mixed planting against insect herbivores. In: MON3-b 'From the species to the individual: investigating plant diversity on the scale that matters most' (organized by Drs. P. Villa and M.C. Schuman). **_World Biodiversity Forum 2022_**, Davos, Switzerland. (29 June 2022, reviewed talk) <https://www.worldbiodiversityforum.org/>

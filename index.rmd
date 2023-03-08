@@ -60,7 +60,7 @@ To untangle complex ecological interactions, my research often employs statistic
 ## Peer-reviewed articles
 1. **Sato Y**\*, Takahashi Y, Xu C, Shimizu KK\*. (2023) Detecting frequency-dependent selection through the effects of genotype similarity on fitness components. **_Evolution_** <https://doi.org/10.1093/evolut/qpad028> [[Vignette](https://yassato.github.io/RegressionFDS/)] 
 
-1. Shimizu-Inatsugi R\*, Morishima A, Mourato B, Shimizu KK, **Sato Y**. (2023) Phenotypic variation of a new synthetic allotetraploid _Arabidopsis kamchatica_ enhanced in natural environment. **_Frontiers in Plant Science_** <https://doi.org/10.3389/fpls.2022.1058522>  
+1. Shimizu-Inatsugi R\*, Morishima A, Mourato B, Shimizu KK, **Sato Y**. (2023) Phenotypic variation of a new synthetic allotetraploid _Arabidopsis kamchatica_ enhanced in natural environment. **_Frontiers in Plant Science_** 13:1058522 <https://doi.org/10.3389/fpls.2022.1058522>  
 
 1. Takimoto H^†^\*, **Sato Y**^†^, Nagano AJ, Shimizu KK, Kanagawa A. (2021) Using a two-stage convolutional neural network to rapidly identify tiny herbivorous beetles in the field. **_Ecological Informatics_** 66:101466 <https://doi.org/10.1016/j.ecoinf.2021.101466>  
 
@@ -113,8 +113,10 @@ To untangle complex ecological interactions, my research often employs statistic
 1. **Sato Y**\*, Takeda K, Nagano AJ. (2021) ‘rNeighborQTL’. R package available at CRAN, <https://cran.r-project.org/package=rNeighborQTL>  
   
 
-## Conference contributions    
-1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Nagano AJ, Shimizu KK. Keystone genotype pairs increase population-level resistance to herbivory. **_SwissPLANT 2023 symposium_**, Les Diablerets, Switzerland (23 January 2023, talk)
+## Conference contributions 
+1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Nagano AJ, Shimizu KK. Keystone genotype pairs increase plant resistance to herbivory. **_Gordon Research Conference: Plant-Herbivore Interaction 2023_**, Ventura, CA, USA (4 March 2023, poster)
+
+1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Nagano AJ, Shimizu KK. Keystone genotype pairs increase population-level resistance to herbivory. **_SwissPLANT 2023 Symposium_**, Les Diablerets, Switzerland (23 January 2023, talk)
 
 1. **Sato Y**, Shimizu-Inatsugi R, Nagano AJ, Shimizu KK. Neighbor GWAS: incorporating neighbor genotypic identity in genome-wide association study of field-grown *Arabidopsis thaliana*. 'From place to space - Tracing the spatial dimension of plant sciences' by **_Plant Science Center Symposium 2022_**, P30, ETH Zurich, Switzerland (7 December 2022, poster)
 
