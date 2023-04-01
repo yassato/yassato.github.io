@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Updated on 8 March 2023"
+date: "Updated on 1 April 2023"
 output:
   pdf_document: default
   html_document: default
@@ -44,6 +44,7 @@ Personal website: https://yassato.github.io/
 - April 2016–March 2020. Affiliated scientist of the Center for Ecological Research, Kyoto University, Japan  
 
 ## Approved funding and fellowships
+1. April 2023–March 2027 (accepted). ‘Joint analysis of plant-plant interactions using field GWAS and RNA-Seq’, Grant-in-aid for Early-career Scientists, Grant ID:(to be determined), Japan Society for the Promotion of Science (JSPS), Japan (a single lead applicant; direct cost 3,600,000 JPY + indirect cost 1,080,000 JPY = 32,620 EUR upon the currency rate of 10 March 2023)
 1. April 2020–March 2023. ‘Theoretical consideration of plant biodiversity effects driven by inter-genotypic interactions’, Grant-in-aid for Early-career Scientists, Grant ID:20K15880, Japan Society for the Promotion of Science (JSPS), Japan (a single lead applicant; direct cost 3,200,000 JPY + indirect cost 960,000 JPY = 35,049 EUR upon the currency rate of the starting date)
 1. October 2017–March 2021. ‘Large-scale omics approach towards a pest control by mixed planting’, PRESTO project, Grant ID:JPMJPR17Q4, Japan Science and Technology Agency (JST) (a single lead applicant; direct cost 40,000,000 JPY + indirect cost 12,000,000 JPY = 391,418 EUR upon the currency rate of the starting date + group leader’s own salary) <https://www.jst.go.jp/kisoken/presto/en/project/1112074/1112074_26.html>
 1. April 2016–September 2017. ‘Genome-wide association study and prediction of pest communities on natural accessions of the model plant species’, Research Fellowships for Postdoctoral Researcher, Grant ID:16J30005, Japan Society for the Promotion of Science (JSPS) (a single lead applicant; direct cost 2,700,000 JPY + indirect cost 810,000 JPY = 27,449 EUR upon the currency rate of the starting date + fellow’s own salary)
@@ -52,8 +53,8 @@ Personal website: https://yassato.github.io/
 ## Supervision of junior researchers
 | **Name** | **Degree** | **Program** | **Role** | **Output** |
 | --- | --- | --- | --- | --- |
-| Chongmeng Xu |	PhD student |	URPP GCB of Univ. of Zurich	| PhD committee member, Co-supervisor with PI | Xu & Sato et al. (2022) bioRxiv; Sato et al. (2022) bioRxiv |
-| Elina Jansone | Undergraduate | Lab rotation of Univ. of Zurich | Main supervisor | *None* |
+| Chongmeng Xu |	PhD student |	URPP GCB of Univ. of Zurich	| Co-supervisor (Leitung der Dissertation) | Xu & Sato et al. (2022) bioRxiv; Sato et al. (2023) Evolution |
+| Elina Jansone | Undergraduate | Lab rotation at the Univ. of Zurich | Main supervisor | *None* |
 | Kazuya Takeda	| Master of Science |	PRESTO project of JST	| Daily supervisor as an employer	| Sato, Takeda & Nagano (2021) G3 |
 | Silvija Milosavljevic	| Undergraduate | BUSS program at Univ. of Zurich | Co-supervisor with PI |	Shimizu-Inatsugi et al. (2021) Plant Spec. Biol. |
 | Dimitri Anderfuhren	| Undergraduate | BIO378 program of Univ. of Zurich	| Co-supervisor with PI | *None* |  
@@ -94,8 +95,8 @@ Personal website: https://yassato.github.io/
 *None*  
 
 ## Personal skills
-### Licence 
-1. Swiss driver license (no expiration date)
+### License 
+1. Swiss driver license (without expiration date)
 1. Japanese diver license (valid until 07 May 2023)
 
 ### Computer languages
@@ -105,9 +106,9 @@ Personal website: https://yassato.github.io/
 
 ### Natural languages
 1. Japanese (native speaker)
-1. English (fluent)
+1. English (proficient)
 1. German (A1-level learner)
-1. Chinese (elementary-level learned during the liberal art course in the university)  
+1. Chinese (basic level learned during the liberal art course in Kyoto University)  
 
 ## References
 
@@ -158,7 +159,7 @@ Keywords: Plant Molecular Biology, Developmental Biology
 *^†^Equal contribution; \*Correspondence*  
 
 ## Peer-reviewed articles
-1. **Sato Y**\*, Takahashi Y, Xu C, Shimizu KK\*. (2023) Detecting frequency-dependent selection through the effects of genotype similarity on fitness components. **_Evolution_** <https://doi.org/10.1093/evolut/qpad028>
+1. **Sato Y**\*, Takahashi Y, Xu C, Shimizu KK\*. (2023) Detecting frequency-dependent selection through the effects of genotype similarity on fitness components. **_Evolution_** 77:1145–1157. <https://doi.org/10.1093/evolut/qpad028>
 1. Shimizu-Inatsugi R\*, Morishima A, Mourato B, Shimizu KK, **Sato Y**. (2023) Phenotypic variation of a new synthetic allotetraploid _Arabidopsis kamchatica_ enhanced in natural environment. **_Frontiers in Plant Science_** 13:1058522 <https://doi.org/10.3389/fpls.2022.1058522>
 1. Takimoto H^†^\*, **Sato Y**^†^, Nagano AJ, Shimizu KK, Kanagawa A. (2021) Using a two-stage convolutional neural network to rapidly identify tiny herbivorous beetles in the field. **_Ecological Informatics_** 66:101466 <https://doi.org/10.1016/j.ecoinf.2021.101466>
 1. **Sato Y**, Yamamoto E, Shimizu KK\*, Nagano AJ\*. (2021) Neighbor GWAS: incorporating neighbor genotypic identity into genome-wide association studies of field herbivory. **_Heredity_** 126(4):597–614. <https://doi.org/10.1038/s41437-020-00401-w>

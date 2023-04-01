@@ -42,7 +42,7 @@ Plant neighborhood effects are not always attributable to a single trait or gene
 ![Field experiment using *Arabidopsis thaliana* accessions. Modified from Sato et al. (2021) Heredity](./photo/AraGWAS_JPNplot.jpg){width=75%}
   
 #### **3. Data Analysis in Ecology, Evolution, and Genetics**  
-To untangle complex ecological interactions, my research often employs statistical tools. This experience enables me to not only develop new methods (Sato et al. 2022 bioRxiv) but also collaborate with other research areas (e.g., Nakadai et al. 2018 Oecologia; Shimizu-Inatsugi et al. 2021 Plant Species Biology; Takimoto & Sato et al. 2021 Ecological Informatics). Data from plant ecology and genomics are especially welcome for collaboration.  
+To untangle complex ecological interactions, my research often employs statistical tools. This experience enables me to not only develop new methods (Sato et al. 2023 Evolution) but also collaborate with other research areas (e.g., Nakadai et al. 2018 Oecologia; Shimizu-Inatsugi et al. 2021 Plant Species Biology; Takimoto & Sato et al. 2021 Ecological Informatics). Data from plant ecology and genomics are especially welcome for collaboration.  
   
   
   
@@ -58,7 +58,7 @@ To untangle complex ecological interactions, my research often employs statistic
 1. Stockenhuber R, Akiyama R, Tissot N, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Milosavljevic S, Widmer A, Ulm R, Shimizu KK\*. (2021) The *UV RESISTANCE LOCUS 8*-mediated UV-B response is required alongside *CRYPTOCHROME1* for plant survival under sunlight in the field. **_bioRxiv_** <https://doi.org/10.1101/2021.12.08.471623>  
 
 ## Peer-reviewed articles
-1. **Sato Y**\*, Takahashi Y, Xu C, Shimizu KK\*. (2023) Detecting frequency-dependent selection through the effects of genotype similarity on fitness components. **_Evolution_** <https://doi.org/10.1093/evolut/qpad028> [[Vignette](https://yassato.github.io/RegressionFDS/)] 
+1. **Sato Y**\*, Takahashi Y, Xu C, Shimizu KK\*. (2023) Detecting frequency-dependent selection through the effects of genotype similarity on fitness components. **_Evolution_** 77:1145–1157. <https://doi.org/10.1093/evolut/qpad028> [[Vignette](https://yassato.github.io/RegressionFDS/)] 
 
 1. Shimizu-Inatsugi R\*, Morishima A, Mourato B, Shimizu KK, **Sato Y**. (2023) Phenotypic variation of a new synthetic allotetraploid _Arabidopsis kamchatica_ enhanced in natural environment. **_Frontiers in Plant Science_** 13:1058522 <https://doi.org/10.3389/fpls.2022.1058522>  
 
