@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Updated on 1 April 2023"
+date: "Updated on 14 April 2023"
 output:
   pdf_document: default
   html_document: default
@@ -44,11 +44,11 @@ Personal website: https://yassato.github.io/
 - April 2016–March 2020. Affiliated scientist of the Center for Ecological Research, Kyoto University, Japan  
 
 ## Approved funding and fellowships
-1. April 2023–March 2027 (accepted). ‘Joint analysis of plant-plant interactions using field GWAS and RNA-Seq’, Grant-in-aid for Early-career Scientists, Grant ID:(to be determined), Japan Society for the Promotion of Science (JSPS), Japan (a single lead applicant; direct cost 3,600,000 JPY + indirect cost 1,080,000 JPY = 32,620 EUR upon the currency rate of 10 March 2023)
-1. April 2020–March 2023. ‘Theoretical consideration of plant biodiversity effects driven by inter-genotypic interactions’, Grant-in-aid for Early-career Scientists, Grant ID:20K15880, Japan Society for the Promotion of Science (JSPS), Japan (a single lead applicant; direct cost 3,200,000 JPY + indirect cost 960,000 JPY = 35,049 EUR upon the currency rate of the starting date)
+1. April 2023–March 2027. ‘Joint analysis of plant-plant interactions using field GWAS and RNA-Seq’, Grant-in-aid for Early-career Scientists, Grant ID:JP23K14270, Japan Society for the Promotion of Science (JSPS), Japan (a single lead applicant; direct cost 3,600,000 JPY + indirect cost 1,080,000 JPY = 32,116 EUR upon the currency rate of the starting date)
+1. April 2020–March 2023. ‘Theoretical consideration of plant biodiversity effects driven by inter-genotypic interactions’, Grant-in-aid for Early-career Scientists, Grant ID:JP20K15880, Japan Society for the Promotion of Science (JSPS), Japan (a single lead applicant; direct cost 3,200,000 JPY + indirect cost 960,000 JPY = 35,049 EUR upon the currency rate of the starting date)
 1. October 2017–March 2021. ‘Large-scale omics approach towards a pest control by mixed planting’, PRESTO project, Grant ID:JPMJPR17Q4, Japan Science and Technology Agency (JST) (a single lead applicant; direct cost 40,000,000 JPY + indirect cost 12,000,000 JPY = 391,418 EUR upon the currency rate of the starting date + group leader’s own salary) <https://www.jst.go.jp/kisoken/presto/en/project/1112074/1112074_26.html>
-1. April 2016–September 2017. ‘Genome-wide association study and prediction of pest communities on natural accessions of the model plant species’, Research Fellowships for Postdoctoral Researcher, Grant ID:16J30005, Japan Society for the Promotion of Science (JSPS) (a single lead applicant; direct cost 2,700,000 JPY + indirect cost 810,000 JPY = 27,449 EUR upon the currency rate of the starting date + fellow’s own salary)
-1. April 2015–March 2016. ‘A test of the mechanism maintaining plant defense polymorphism in a wild *Arabidopsis*’, Research Fellowships for PhD Students, Grant ID:15J00400, Japan Society for the Promotion of Science (JSPS) (a single lead applicant; direct cost 1,200,000 JPY + indirect cost 360,000 JPY = 12,101 EUR upon the currency rate of the starting date + fellow’s own salary)
+1. April 2016–September 2017. ‘Genome-wide association study and prediction of pest communities on natural accessions of the model plant species’, Research Fellowships for Postdoctoral Researcher, Grant ID:JP16J30005, Japan Society for the Promotion of Science (JSPS) (a single lead applicant; direct cost 2,700,000 JPY + indirect cost 810,000 JPY = 27,449 EUR upon the currency rate of the starting date + fellow’s own salary)
+1. April 2015–March 2016. ‘A test of the mechanism maintaining plant defense polymorphism in a wild *Arabidopsis*’, Research Fellowships for PhD Students, Grant ID:JP15J00400, Japan Society for the Promotion of Science (JSPS) (a single lead applicant; direct cost 1,200,000 JPY + indirect cost 360,000 JPY = 12,101 EUR upon the currency rate of the starting date + fellow’s own salary)
 
 ## Supervision of junior researchers
 | **Name** | **Degree** | **Program** | **Role** | **Output** |
@@ -72,7 +72,7 @@ Personal website: https://yassato.github.io/
 1. April 2020–December 2021. Reviewing editor of **_Journal of Evolutionary Biology_**
 1. December 2022. Organizing committee member of the 52nd symposium of the Study of Species Biology, Japan, <https://sites.google.com/view/sssb2020shiga>
 1. November 2016. Organising committee member of 5th Japan-Taiwan Ecology Workshop, Kyoto, Japan, <https://sites.google.com/site/jtecolw5th/>
-1. Total 43 peer-review activities verified by Publons (WoS ResearcherID), <https://www.webofscience.com/wos/author/rid/N-7939-2013> (Journal of Evolutionary Biology^12; Plant Species Biology^6; Rice^4; Ecological Research^3; Entomological Science^3; Plant Biology^3; Ecology^2; Ecology and Evolution^2; Biological Journal of the Linnean Society^1; Frontiers in Plant Science^2; Frontiers in Conservation Science^1; Functional Ecology^1; Plant Cell & Environment^1; Plant-Environment Interactions^1; F1000 Research^1: retrieved on 7 October 2022)
+1. Total 43 peer-review activities verified by Publons (WoS ResearcherID), <https://www.webofscience.com/wos/author/rid/N-7939-2013> (Journal of Evolutionary Biology^12; Plant Species Biology^6; Rice^4; Ecological Research^3; Entomological Science^3; Plant Biology^3; Ecology^2; Ecology and Evolution^2; Biological Journal of the Linnean Society^1; Frontiers in Plant Science^2; Frontiers in Conservation Science^1; Functional Ecology^1; Plant Cell & Environment^1; Plant-Environment Interactions^1; F1000 Research^1: retrieved on 7 October 2022) and Japanese book chapters^4.
 
 ## Active memberships in scientific societies
 1. American Society of Naturalists (Permanent membership since October 2017)
