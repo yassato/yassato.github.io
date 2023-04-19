@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Updated on 14 April 2023"
+date: "Updated on 19 April 2023"
 output:
   pdf_document: default
   html_document: default
@@ -53,11 +53,11 @@ Personal website: https://yassato.github.io/
 ## Supervision of junior researchers
 | **Name** | **Degree** | **Program** | **Role** | **Output** |
 | --- | --- | --- | --- | --- |
-| Chongmeng Xu |	PhD student |	URPP GCB of Univ. of Zurich	| Co-supervisor (Leitung der Dissertation) | Xu & Sato et al. (2022) bioRxiv; Sato et al. (2023) Evolution |
-| Elina Jansone | Undergraduate | Lab rotation at the Univ. of Zurich | Main supervisor | *None* |
+| Chongmeng Xu |	PhD student (defended on 17 April 2023) |	URPP GCB program of the University of Zurich	| Co-supervisor (Leitung der Dissertation) | Xu & Sato et al. (2022) bioRxiv; Sato et al. (2023) Evolution |
+| Elina Jansone | Undergraduate | Lab rotation at the University of Zurich | Main supervisor | *None* |
 | Kazuya Takeda	| Master of Science |	PRESTO project of JST	| Daily supervisor as an employer	| Sato, Takeda & Nagano (2021) G3 |
-| Silvija Milosavljevic	| Undergraduate | BUSS program at Univ. of Zurich | Co-supervisor with PI |	Shimizu-Inatsugi et al. (2021) Plant Spec. Biol. |
-| Dimitri Anderfuhren	| Undergraduate | BIO378 program of Univ. of Zurich	| Co-supervisor with PI | *None* |  
+| Silvija Milosavljevic	| Undergraduate | BUSS program at the University of Zurich | Co-supervisor with PI |	Shimizu-Inatsugi et al. (2021) Plant Spec. Biol. |
+| Dimitri Anderfuhren	| Undergraduate | BIO378 program of the University of Zurich	| Co-supervisor with PI | *None* |  
 
 ## Teaching experience
 1. September 2021–Present. BIO373: Next Generation Sequencing for Evolutionary Functional Genomics, University of Zurich, Switzerland (Role: course management, co-instructor, and examiner; No. of participants = 15)
