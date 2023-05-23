@@ -25,9 +25,9 @@ See [Twitter@yassatojpn](https://twitter.com/search?q=%40yassatojpn&src=recent_s
 
 # Research
 
-### **Quantitative Ecological Genetics of Species Interaction**  
-I am interested in how genetic variation shapes, and is shaped by, species interactions. To analyze quantitative genetic variation in complex ecological traits, my research employs cutting-edge tools from computational biology and functional genomics. Currently, I am working on plant-herbivore interactions, but other projects involving species interactions are also welcome.  
-**Keywords: Ecological genetics, Plant-insect interaction, Herbivory**  
+### **Quantitative Ecological Genetics of Biotic Interaction**  
+I am interested in how genetic variation shapes, and is shaped by, biotic interactions. To analyze quantitative genetic variation in complex ecological traits, my research employs cutting-edge tools from computational biology and functional genomics. Currently, I am working on plant-herbivore interactions, but other projects involving biotic interactions are also welcome.  
+**Keywords: Ecology, Plant-insect interaction, Genetics of complex traits**  
 
 ## Recent projects
 
@@ -53,6 +53,8 @@ To untangle complex ecological interactions, my research often employs statistic
 *^†^Equal contribution; \*Correspondence*  
 
 ## Preprint
+1. **Sato Y**\*, Shimizu-Inatsugi R, Takeda K, Schmid B, Nagano AJ\*, Shimizu KK\*. (2023) Genome-wide neighbor effects predict genotype pairs that reduce herbivory in mixed planting. **_bioRxiv_** <https://doi.org/10.1101/2023.05.19.541411>
+
 1. Xu C^†^, **Sato Y**^†^\*, Yamazaki M, Brasser M, Barbour MA, Bascompte J, Shimizu KK\*. (2022) Genome-wide association study highlights escape from aphids by delayed growth in *Arabidopsis thaliana*. **_bioRxiv_** <https://doi.org/10.1101/2022.11.10.515564>
 
 1. Stockenhuber R, Akiyama R, Tissot N, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Milosavljevic S, Widmer A, Ulm R, Shimizu KK\*. (2021) The *UV RESISTANCE LOCUS 8*-mediated UV-B response is required alongside *CRYPTOCHROME1* for plant survival under sunlight in the field. **_bioRxiv_** <https://doi.org/10.1101/2021.12.08.471623>  

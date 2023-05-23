@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Updated on 19 April 2023"
+date: "Last update on 23 May 2023"
 output:
   pdf_document: default
   html_document: default
@@ -230,10 +230,10 @@ Keywords: Plant Molecular Biology, Developmental Biology
 4. External seminar at the Department of Evolutionary Biology and Environmental Studies, University of Zurich, Switzerland (9 August 2018): ‘Neighbor effects enhance anti-herbivore defense in *Arabidopsis*’ by **Sato Y**. (host: University Research Priority Program of Global Change and Biodiversity)
 
 ## Preprint
+1. **Sato Y**\*, Shimizu-Inatsugi R, Takeda K, Schmid B, Nagano AJ\*, Shimizu KK\*. (2023) Genome-wide neighbor effects predict genotype pairs that reduce herbivory in mixed planting. **_bioRxiv_** <https://doi.org/10.1101/2023.05.19.541411>
 1. Xu C^†^, **Sato Y**^†^\*, Yamazaki M, Brasser M, Barbour MA, Bascompte J, Shimizu KK\*. (2022) Genome-wide association study highlights escape from aphids by delayed growth in *Arabidopsis thaliana*. **_bioRxiv_** <https://doi.org/10.1101/2022.11.10.515564>
 1. Stockenhuber R, Akiyama R, Tissot N, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Milosavljevic S, Widmer A, Ulm R, Shimizu KK\*. (2021) The *UV RESISTANCE LOCUS 8*-mediated UV-B response is required alongside *CRYPTOCHROME1* for plant survival under sunlight in the field. **_bioRxiv_** <https://doi.org/10.1101/2021.12.08.471623>
 
 ## Manuscript in preparation
-1. **Sato Y** et al., (in prep.) Genomics of within-species mixed planting against insect herbivores (tentative).
 1. **Sato Y** et al., (in prep.) Neighbor eGWAS: incorporating neighbor genotypic identity into field transcriptomics (tentative).    
 
