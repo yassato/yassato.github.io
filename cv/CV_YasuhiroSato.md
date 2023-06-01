@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Last update on 23 May 2023"
+date: "Last update on 1 June 2023"
 output:
   pdf_document: default
   html_document: default
@@ -50,7 +50,7 @@ Personal website: https://yassato.github.io/
 1. April 2016–September 2017. ‘Genome-wide association study and prediction of pest communities on natural accessions of the model plant species’, Research Fellowships for Postdoctoral Researcher, Grant ID:JP16J30005, Japan Society for the Promotion of Science (JSPS) (a single lead applicant; direct cost 2,700,000 JPY + indirect cost 810,000 JPY = 27,449 EUR upon the currency rate of the starting date + fellow’s own salary)
 1. April 2015–March 2016. ‘A test of the mechanism maintaining plant defense polymorphism in a wild *Arabidopsis*’, Research Fellowships for PhD Students, Grant ID:JP15J00400, Japan Society for the Promotion of Science (JSPS) (a single lead applicant; direct cost 1,200,000 JPY + indirect cost 360,000 JPY = 12,101 EUR upon the currency rate of the starting date + fellow’s own salary)
 
-## Supervision of junior researchers
+## Mentoring
 | **Name** | **Degree** | **Program** | **Role** | **Output** |
 | --- | --- | --- | --- | --- |
 | Chongmeng Xu |	PhD student (defended on 17 April 2023) |	URPP GCB program of the University of Zurich	| Co-supervisor (Leitung der Dissertation) | Xu & Sato et al. (2022) bioRxiv; Sato et al. (2023) Evolution |
@@ -60,7 +60,7 @@ Personal website: https://yassato.github.io/
 | Dimitri Anderfuhren	| Undergraduate | BIO378 program of the University of Zurich	| Co-supervisor with PI | *None* |  
 
 ## Teaching experience
-1. September 2021–Present. BIO373: Next Generation Sequencing for Evolutionary Functional Genomics, University of Zurich, Switzerland (Role: course management, co-instructor, and examiner; No. of participants = 15)
+1. September 2021–Present. BIO373: Next Generation Sequencing for Evolutionary Functional Genomics, University of Zurich, Switzerland (Role: course management, co-instructor, and examiner; No. of participants = 15-20)
 1. May 2022. BIO334: Practical Bioinformatics, University of Zurich, Switzerland (Role: temporal co-instructor during a sabbatical absence of PI; No. of participants = ca. 25)
 1. April 2019–May 2019. External Lecturer of Basic Genetics, Faculty of Agriculture, Ryukoku University, Japan (Role: 90-min. lectures × five times for a liberal art course in Japanese; No. of participants = ca. 50)
 1. July 2018–August 2018. International Biology Undergraduate Summer School (BUSS) 2018, University of Zurich, Switzerland (Role: supervision of undergraduate student’s fieldwork and presentation; No. of participants = 1)
@@ -198,26 +198,19 @@ Keywords: Plant Molecular Biology, Developmental Biology
 1. **Sato Y**\*, Yamamoto E, Shimizu KK, Nagano AJ. (2021) ‘rNeighborGWAS’. R package available at the Comprehensive R Archive Network (CRAN), <https://cran.r-project.org/package=rNeighborGWAS>
 1. **Sato Y**\*, Takeda K, Nagano AJ. (2021) ‘rNeighborQTL’. R package available at CRAN, <https://cran.r-project.org/package=rNeighborQTL>  
 
-*And the other source codes for published research, personal utilities, and teaching materials are available at the GitHub, <https://github.com/yassato>*
+*And the other source codes for published research, personal utilities, and teaching materials are available at the GitHub repository, <https://github.com/yassato>*
 
-## Contributions to international conferences
-1. Shimizu KK, Kudoh H. (organizers); Barbour M, Honjo M, **Sato Y** (speakers). *Arabidopsis* relatives from laboratories to natural fields. **_The 33rd International Conference on Arabidopsis Research (ICAR2023)_**, Session C22, Chiba, Japan (accepted and planned on 7 June 2023)
+## Conference contributions
+1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Nagano AJ, Shimizu KK. Keystone pairs of *Arabidopsis* accessions increase plant resistance to field herbivory. In Concurrent 15: *Arabidopsis* relatives from laboratories to natural fields (organized by Prof. K.K. Shimizu and H. Kudoh). **_The 33rd International Conference on Arabidopsis Research (ICAR2023)_**, Chiba, Japan (accepted and planned on 7 June 2023)
 1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Nagano AJ, Shimizu KK. Keystone genotype pairs increase plant resistance to herbivory. **_Gordon Research Conference: Plant-Herbivore Interaction 2023_**, Ventura, CA, USA (2 March 2023, poster)
 1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Nagano AJ, Shimizu KK. Keystone genotype pairs increase population-level resistance to herbivory. **_SwissPLANT 2023 Symposium_**, Les Diablerets, Switzerland (23 January 2023, talk)
 1. **Sato Y**, Shimizu-Inatsugi R, Nagano AJ, Shimizu KK. Neighbor GWAS: incorporating neighbor genotypic identity in genome-wide association study of field-grown *Arabidopsis thaliana*. 'From place to space - Tracing the spatial dimension of plant sciences' by **_Plant Science Center Symposium 2022_**, P30, ETH Zurich, Switzerland (7 December 2022, poster)
 1. **Sato Y**, Takahashi Y, Xu C, Shimizu KK. Detecting frequency-dependent selection using a genetic marker regression of fitness components. In: S24 'Progress and Prospects in Adaptation Genomics'. **_The 2022 Congress of the European Society for Evolutionary Biology_**, Prague, Czech Republic (18 August 2022, reviewed talk)
 1. **Sato Y**, Nagano AJ, Shimizu KK. Genomics of within-species mixed planting against insect herbivores. In: MON3-b 'From the species to the individual: investigating plant diversity on the scale that matters most' (organized by Drs. P. Villa and M.C. Schuman). **_World Biodiversity Forum 2022_**, Davos, Switzerland. (29 June 2022, reviewed talk) <https://www.worldbiodiversityforum.org/>
 1. Kuzuhara H, Takimoto H, **Sato Y**, Kanagawa A. Insect pest detection and identification method based on deep learning for realizing a pest control system. **_The Society of Instrument and Control Engineers (SICE) Annual Conference 2020_**. Chiang Mai, Thailand [changed into an online meeting due to COVID-19] (25 September 2020, talk) 
-1. **Sato Y**, Shimizu-Inatsugi R, Yamazaki M, Nagano AJ, Shimizu KK. Field GWAS of neighbor effects and its potential application to targeted polycultures in anti-herbivore defense. **_URPP Global Change and Biodiversity Conference_**, P15, Monte Verita, Ascona, Switzerland (June-July 2019, poster)
 1. **Sato Y**. Using personal legacy data to reveal the molting phenology of Japanese cicadas. In: S19 'Ongoing Cicada Research in East Asia' (organized by Prof. J. Yikweon), **_The 8th EAFES International Congress_**, Nagoya, Japan (April 2018, invited talk)
-1. **Sato Y**, Ito K, Kudoh H. Associational effects and the maintenance of trichome dimorphism in a wild *Arabidopsis*. **_The 2017 Congress of the European Society for Evolutionary Biology_**, S32-P08, Groningen, Netherlands (August 2017, poster)
-1. **Sato Y**, Ito K. Modeling the effects of optimal foraging herbivores on the maintenance of trichome dimorphism in a wild *Arabidopsis* population. **_URPP Global Change and Biodiversity Conference_**, P28, Monte Verita, Ascona, Switzerland (August-September 2016, poster)
-1. **Sato Y**, Kudoh H. Associational antiherbivore defense promotes the coexistence of hairy and glabrous plants. **_The 100th Annual Meeting of the Ecological Society of America_**, PS30-98, Baltimore, MD, USA (August 2015, poster)
-1. **Sato Y**, Kudoh H. Associational anti-herbivore defence and the maintenance of hairy and glabrous plants in *Arabidopsis halleri* subsp. *gemmifera*. **_Bristol-Kyoto Plant Sciences Workshop_**, P-14, Bristol, UK (September 2014, poster).
-1. **Sato Y**, Kudoh H. Factors responsible for plant resistance to a shared herbivore: a meta-analysis of herbivore responses between choice and no-choice conditions. **_International Symposium for "Biodiversity & Evolution" project of Excellent Graduate Schools_**, P-03, Kyoto, Japan (December 2013, poster)
-1. **Sato Y**, Kawagoe T, Kudoh H. A test for frequency-dependent herbivory on two trichome morphs of *Arabidopsis halleri*. **_The 5th EAFES International Congress_**, P2-147A, Otsu, Japan (March 2012, poster)  
 
-*And the other 35 contributions to academic conferences in Japanese (4 invited talks, 10 talks and 21 posters)*
+*And the other 7 English posters and 35 contributions in Japanese (4 invited talks, 10 talks and 21 posters)*
 
 ## Outreach activities
 1. **Sato Y**, Sato S. (2016) 12-years cicada monitoring. Proceedings of the Natural History Museum Mt. Fujiwara 38:1–5 (in Japanese)  
