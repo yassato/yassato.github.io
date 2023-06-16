@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Last update on 1 June 2023"
+date: "Last update on 16 June 2023"
 output:
   pdf_document: default
   html_document: default
@@ -72,7 +72,7 @@ Personal website: https://yassato.github.io/
 1. April 2020–December 2021. Reviewing editor of **_Journal of Evolutionary Biology_**
 1. December 2022. Organizing committee member of the 52nd symposium of the Study of Species Biology, Japan, <https://sites.google.com/view/sssb2020shiga>
 1. November 2016. Organising committee member of 5th Japan-Taiwan Ecology Workshop, Kyoto, Japan, <https://sites.google.com/site/jtecolw5th/>
-1. Total 43 peer-review activities verified by Publons (WoS ResearcherID), <https://www.webofscience.com/wos/author/rid/N-7939-2013> (Journal of Evolutionary Biology^12; Plant Species Biology^6; Rice^4; Ecological Research^3; Entomological Science^3; Plant Biology^3; Ecology^2; Ecology and Evolution^2; Biological Journal of the Linnean Society^1; Frontiers in Plant Science^2; Frontiers in Conservation Science^1; Functional Ecology^1; Plant Cell & Environment^1; Plant-Environment Interactions^1; F1000 Research^1: retrieved on 7 October 2022) and Japanese book chapters^4.
+1. Total 43 peer-review activities verified by Publons (WoS ResearcherID), <https://www.webofscience.com/wos/author/rid/N-7939-2013> (Journal of Evolutionary Biology^12; Plant Species Biology^6; Rice^4; Ecological Research^3; Entomological Science^3; Plant Biology^3; Ecology^2; Ecology and Evolution^2; Biological Journal of the Linnean Society^1; Frontiers in Plant Science^2; Frontiers in Conservation Science^1; Functional Ecology^1; F1000 Research^1; Horticulture Research^1; Plant Cell & Environment^1; Plant-Environment Interactions^1: retrieved on 15 June 2023) and Japanese book chapters^4.
 
 ## Active memberships in scientific societies
 1. American Society of Naturalists (Permanent membership since October 2017)
@@ -201,7 +201,7 @@ Keywords: Plant Molecular Biology, Developmental Biology
 *And the other source codes for published research, personal utilities, and teaching materials are available at the GitHub repository, <https://github.com/yassato>*
 
 ## Conference contributions
-1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Nagano AJ, Shimizu KK. Keystone pairs of *Arabidopsis* accessions increase plant resistance to field herbivory. In Concurrent 15: *Arabidopsis* relatives from laboratories to natural fields (organized by Prof. K.K. Shimizu and H. Kudoh). **_The 33rd International Conference on Arabidopsis Research (ICAR2023)_**, Chiba, Japan (accepted and planned on 7 June 2023)
+1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Nagano AJ, Shimizu KK. Keystone pairs of *Arabidopsis* accessions increase plant resistance to field herbivory. In Concurrent 15: *Arabidopsis* relatives from laboratories to natural fields (organized by Prof. K.K. Shimizu and H. Kudoh). **_The 33rd International Conference on Arabidopsis Research (ICAR2023)_**, Chiba, Japan (7 June 2023, talk)
 1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Nagano AJ, Shimizu KK. Keystone genotype pairs increase plant resistance to herbivory. **_Gordon Research Conference: Plant-Herbivore Interaction 2023_**, Ventura, CA, USA (2 March 2023, poster)
 1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Nagano AJ, Shimizu KK. Keystone genotype pairs increase population-level resistance to herbivory. **_SwissPLANT 2023 Symposium_**, Les Diablerets, Switzerland (23 January 2023, talk)
 1. **Sato Y**, Shimizu-Inatsugi R, Nagano AJ, Shimizu KK. Neighbor GWAS: incorporating neighbor genotypic identity in genome-wide association study of field-grown *Arabidopsis thaliana*. 'From place to space - Tracing the spatial dimension of plant sciences' by **_Plant Science Center Symposium 2022_**, P30, ETH Zurich, Switzerland (7 December 2022, poster)
