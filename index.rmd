@@ -116,6 +116,8 @@ To untangle complex ecological interactions, my research often employs statistic
   
 
 ## Conference contributions 
+1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Nagano AJ, Shimizu KK. Genome-wide neighbor effects predict genotype pairs reducing herbivory in mixed planting. **_Biodiversity Convention - From Science to Implementation_**, Monte Verita, Ascona, Switzerland (27 June 2023, talk)
+
 1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Nagano AJ, Shimizu KK. Keystone pairs of *Arabidopsis* accessions increase plant resistance to field herbivory. In Concurrent 15: *Arabidopsis* relatives from laboratories to natural fields (organized by Prof. K.K. Shimizu and H. Kudoh). **_The 33rd International Conference on Arabidopsis Research (ICAR2023)_**, Chiba, Japan (7 June 2023, talk)
 
 1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Nagano AJ, Shimizu KK. Keystone genotype pairs increase plant resistance to herbivory. **_Gordon Research Conference: Plant-Herbivore Interaction 2023_**, Ventura, CA, USA (2 March 2023, poster)

@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Last update on 16 June 2023"
+date: "Last update on 28 June 2023"
 output:
   pdf_document: default
   html_document: default
@@ -201,6 +201,7 @@ Keywords: Plant Molecular Biology, Developmental Biology
 *And the other source codes for published research, personal utilities, and teaching materials are available at the GitHub repository, <https://github.com/yassato>*
 
 ## Conference contributions
+1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Nagano AJ, Shimizu KK. Genome-wide neighbor effects predict genotype pairs reducing herbivory in mixed planting. **_Biodiversity Convention - From Science to Implementation_**, Monte Verita, Ascona, Switzerland (27 June 2023, talk)
 1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Nagano AJ, Shimizu KK. Keystone pairs of *Arabidopsis* accessions increase plant resistance to field herbivory. In Concurrent 15: *Arabidopsis* relatives from laboratories to natural fields (organized by Prof. K.K. Shimizu and H. Kudoh). **_The 33rd International Conference on Arabidopsis Research (ICAR2023)_**, Chiba, Japan (7 June 2023, talk)
 1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Nagano AJ, Shimizu KK. Keystone genotype pairs increase plant resistance to herbivory. **_Gordon Research Conference: Plant-Herbivore Interaction 2023_**, Ventura, CA, USA (2 March 2023, poster)
 1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Nagano AJ, Shimizu KK. Keystone genotype pairs increase population-level resistance to herbivory. **_SwissPLANT 2023 Symposium_**, Les Diablerets, Switzerland (23 January 2023, talk)
