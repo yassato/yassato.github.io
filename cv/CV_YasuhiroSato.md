@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Last update on 28 June 2023"
+date: "Last update on 2 July 2023"
 output:
   pdf_document: default
   html_document: default
@@ -188,7 +188,7 @@ Keywords: Plant Molecular Biology, Developmental Biology
 1.	Kuzuhara H, Takimoto H, **Sato Y**, Kanagawa A. (2020) Insect pest detection and identification method based on deep learning for realizing a pest control system. **_Proceedings of the Society of Instrument and Control Engineers (SICE) 2020 Annual Conference 2020_**. pp. 709–714. <https://doi.org/10.23919/SICE48898.2020.9240458> 
 
 ## Contributions to books
-1. **Sato Y** and Muranaka T (eds). (in press) Trans-Scale Biology of Plants: Integrating genomics, phenomics, and ecology to unveil biodiversity (in Japanese). Species Biology Series, Bun-ichi Sogo Shuppan, Tokyo, Japan.
+1. **Sato Y** and Muranaka T (eds). (2023) Trans-Scale Biology of Plants: Integrating genomics, phenomics, and ecology to unveil biodiversity (in Japanese). Species Biology Series, Bun-ichi Sogo Shuppan, Tokyo, Japan. ISBN:978-4829962107.
 1. **Sato Y.** (in press) Chapter 4. The maintenance of trichome dimorphism through associational effects: a case study of *Arabidopsis halleri* and a leaf beetle (in Japanese). In: Species Biology Series (Y. Sakata and T. Tsunoda eds), Bun-ichi Sogo Shuppan, Tokyo, Japan.  
 
 ## Patents and licenses
@@ -216,6 +216,7 @@ Keywords: Plant Molecular Biology, Developmental Biology
 ## Outreach activities
 1. **Sato Y**, Sato S. (2016) 12-years cicada monitoring. Proceedings of the Natural History Museum Mt. Fujiwara 38:1–5 (in Japanese)  
 *-> Plain-text Japanese summary of Sato and Sato (2015) Annals of the Entomological Society of America 108(4):494–500.*
+1. Teaching assistant for making a botanical specimen at Japanese School in Zurich (Japanische Schule in Zuerich), Uster, Switzerland. (1 July 2023, in Japanese)  
 
 ## General contributions to science 
 1. Hosting arrangement of the BEEES seminar at the Department of Evolutionary Biology and Environmental Studies, University of Zurich, Switzerland (4 November 2021): ‘Plant-insect chemical communication: an information theory perspective’ by Dr. Pengjuan Zu (host: **Sato Y**)
