@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Last update on 2 July 2023"
+date: "Last update on 25 July 2023"
 output:
   pdf_document: default
   html_document: default
@@ -53,6 +53,7 @@ Personal website: https://yassato.github.io/
 ## Mentoring
 | **Name** | **Degree** | **Program** | **Role** | **Output** |
 | --- | --- | --- | --- | --- |
+| Lukas Rohr | Master student | MSc in Biology at the University of Zurich | Supervisor | *None* |
 | Chongmeng Xu |	PhD student (defended on 17 April 2023) |	URPP GCB program of the University of Zurich	| Co-supervisor (Leitung der Dissertation) | Xu & Sato et al. (2022) bioRxiv; Sato et al. (2023) Evolution |
 | Elina Jansone | Undergraduate | Lab rotation at the University of Zurich | Main supervisor | *None* |
 | Kazuya Takeda	| Master of Science |	PRESTO project of JST	| Daily supervisor as an employer	| Sato, Takeda & Nagano (2021) G3 |
@@ -96,8 +97,8 @@ Personal website: https://yassato.github.io/
 
 ## Personal skills
 ### License 
-1. Swiss driver license (without expiration date)
-1. Japanese diver license (valid until 07 May 2023)
+1. Swiss driver license
+1. Japanese diver license
 
 ### Computer languages
 1. R (package developer level)
@@ -188,7 +189,7 @@ Keywords: Plant Molecular Biology, Developmental Biology
 1.	Kuzuhara H, Takimoto H, **Sato Y**, Kanagawa A. (2020) Insect pest detection and identification method based on deep learning for realizing a pest control system. **_Proceedings of the Society of Instrument and Control Engineers (SICE) 2020 Annual Conference 2020_**. pp. 709–714. <https://doi.org/10.23919/SICE48898.2020.9240458> 
 
 ## Contributions to books
-1. **Sato Y** and Muranaka T (eds). (2023) Trans-Scale Biology of Plants: Integrating genomics, phenomics, and ecology to unveil biodiversity (in Japanese). Species Biology Series, Bun-ichi Sogo Shuppan, Tokyo, Japan. ISBN:978-4829962107.
+1. **Sato Y** and Muranaka T (eds). (2023) Trans-Scale Biology of Plants: Integrating genomics, phenomics, and ecology to unveil biodiversity (in Japanese). Species Biology Series, Bun-ichi Sogo Shuppan, Tokyo, Japan. ISBN:978-4-8299-6210-7.
 1. **Sato Y.** (in press) Chapter 4. The maintenance of trichome dimorphism through associational effects: a case study of *Arabidopsis halleri* and a leaf beetle (in Japanese). In: Species Biology Series (Y. Sakata and T. Tsunoda eds), Bun-ichi Sogo Shuppan, Tokyo, Japan.  
 
 ## Patents and licenses
