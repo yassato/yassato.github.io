@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Last update on 25 July 2023"
+date: "Last update on 23 August 2023"
 output:
   pdf_document: default
   html_document: default
@@ -54,7 +54,7 @@ Personal website: https://yassato.github.io/
 | **Name** | **Degree** | **Program** | **Role** | **Output** |
 | --- | --- | --- | --- | --- |
 | Lukas Rohr | Master student | MSc in Biology at the University of Zurich | Supervisor | *None* |
-| Chongmeng Xu |	PhD student (defended on 17 April 2023) |	URPP GCB program of the University of Zurich	| Co-supervisor (Leitung der Dissertation) | Xu & Sato et al. (2022) bioRxiv; Sato et al. (2023) Evolution |
+| Chongmeng Xu |	PhD student (defended on 17 April 2023) |	URPP GCB program of the University of Zurich	| Co-supervisor (Leitung der Dissertation) | Xu & Sato et al. (2023) RSOS; Sato et al. (2023) Evolution |
 | Elina Jansone | Undergraduate | Lab rotation at the University of Zurich | Main supervisor | *None* |
 | Kazuya Takeda	| Master of Science |	PRESTO project of JST	| Daily supervisor as an employer	| Sato, Takeda & Nagano (2021) G3 |
 | Silvija Milosavljevic	| Undergraduate | BUSS program at the University of Zurich | Co-supervisor with PI |	Shimizu-Inatsugi et al. (2021) Plant Spec. Biol. |
@@ -73,7 +73,7 @@ Personal website: https://yassato.github.io/
 1. April 2020–December 2021. Reviewing editor of **_Journal of Evolutionary Biology_**
 1. December 2022. Organizing committee member of the 52nd symposium of the Study of Species Biology, Japan, <https://sites.google.com/view/sssb2020shiga>
 1. November 2016. Organising committee member of 5th Japan-Taiwan Ecology Workshop, Kyoto, Japan, <https://sites.google.com/site/jtecolw5th/>
-1. Total 43 peer-review activities verified by Publons (WoS ResearcherID), <https://www.webofscience.com/wos/author/rid/N-7939-2013> (Journal of Evolutionary Biology^12; Plant Species Biology^6; Rice^4; Ecological Research^3; Entomological Science^3; Plant Biology^3; Ecology^2; Ecology and Evolution^2; Biological Journal of the Linnean Society^1; Frontiers in Plant Science^2; Frontiers in Conservation Science^1; Functional Ecology^1; F1000 Research^1; Horticulture Research^1; Plant Cell & Environment^1; Plant-Environment Interactions^1: retrieved on 15 June 2023) and Japanese book chapters^4.
+1. Total 45 peer-review activities verified by Publons (WoS ResearcherID), <https://www.webofscience.com/wos/author/rid/N-7939-2013> (Journal of Evolutionary Biology^12; Plant Species Biology^6; Rice^4; Ecological Research^3; Entomological Science^3; Plant Biology^3; Ecology^2; Ecology and Evolution^2; Biological Journal of the Linnean Society^1; Frontiers in Plant Science^2; Frontiers in Conservation Science^1; Functional Ecology^1; F1000 Research^1; Horticulture Research^1; Plant Cell & Environment^1; Plant-Environment Interactions^1; Trends in Ecology and Evolution^1: retrieved on 5 August 2023) and Japanese book chapters^4.
 
 ## Active memberships in scientific societies
 1. American Society of Naturalists (Permanent membership since October 2017)
@@ -106,8 +106,8 @@ Personal website: https://yassato.github.io/
 3. Bash (basic level)
 
 ### Natural languages
-1. Japanese (native speaker)
 1. English (proficient)
+1. Japanese (native speaker)
 1. German (A1-level learner)
 1. Chinese (basic level learned during the liberal art course in Kyoto University)  
 
@@ -160,6 +160,7 @@ Keywords: Plant Molecular Biology, Developmental Biology
 *^†^Equal contribution; \*Correspondence*  
 
 ## Peer-reviewed articles
+1. Xu C^†^, **Sato Y**^†^\*, Yamazaki M, Brasser M, Barbour MA, Bascompte J, Shimizu KK\*. (2023) Genome-wide association study of aphid abundance highlights a locus affecting plant growth and flowering in *Arabidopsis thaliana*. **_Royal Society Open Science_** 10:230399. <https://doi.org/10.1098/rsos.230399>
 1. **Sato Y**\*, Takahashi Y, Xu C, Shimizu KK\*. (2023) Detecting frequency-dependent selection through the effects of genotype similarity on fitness components. **_Evolution_** 77:1145–1157. <https://doi.org/10.1093/evolut/qpad028>
 1. Shimizu-Inatsugi R\*, Morishima A, Mourato B, Shimizu KK, **Sato Y**. (2023) Phenotypic variation of a new synthetic allotetraploid _Arabidopsis kamchatica_ enhanced in natural environment. **_Frontiers in Plant Science_** 13:1058522 <https://doi.org/10.3389/fpls.2022.1058522>
 1. Takimoto H^†^\*, **Sato Y**^†^, Nagano AJ, Shimizu KK, Kanagawa A. (2021) Using a two-stage convolutional neural network to rapidly identify tiny herbivorous beetles in the field. **_Ecological Informatics_** 66:101466 <https://doi.org/10.1016/j.ecoinf.2021.101466>
@@ -189,8 +190,7 @@ Keywords: Plant Molecular Biology, Developmental Biology
 1.	Kuzuhara H, Takimoto H, **Sato Y**, Kanagawa A. (2020) Insect pest detection and identification method based on deep learning for realizing a pest control system. **_Proceedings of the Society of Instrument and Control Engineers (SICE) 2020 Annual Conference 2020_**. pp. 709–714. <https://doi.org/10.23919/SICE48898.2020.9240458> 
 
 ## Contributions to books
-1. **Sato Y** and Muranaka T (eds). (2023) Trans-Scale Biology of Plants: Integrating genomics, phenomics, and ecology to unveil biodiversity (in Japanese). Species Biology Series, Bun-ichi Sogo Shuppan, Tokyo, Japan. ISBN:978-4-8299-6210-7.
-1. **Sato Y.** (in press) Chapter 4. The maintenance of trichome dimorphism through associational effects: a case study of *Arabidopsis halleri* and a leaf beetle (in Japanese). In: Species Biology Series (Y. Sakata and T. Tsunoda eds), Bun-ichi Sogo Shuppan, Tokyo, Japan.  
+1. **Sato Y**, Muranaka T. (eds). (2023) Trans-Scale Biology of Plants: Integrating genomics, phenomics, and ecology to unveil biodiversity (in Japanese). Species Biology Series, Bun-ichi Sogo Shuppan, Tokyo, Japan. ISBN:978-4-8299-6210-7.  
 
 ## Patents and licenses
 *None*
@@ -227,7 +227,6 @@ Keywords: Plant Molecular Biology, Developmental Biology
 
 ## Preprint
 1. **Sato Y**\*, Shimizu-Inatsugi R, Takeda K, Schmid B, Nagano AJ\*, Shimizu KK\*. (2023) Genome-wide neighbor effects predict genotype pairs that reduce herbivory in mixed planting. **_bioRxiv_** <https://doi.org/10.1101/2023.05.19.541411>
-1. Xu C^†^, **Sato Y**^†^\*, Yamazaki M, Brasser M, Barbour MA, Bascompte J, Shimizu KK\*. (2022) Genome-wide association study highlights escape from aphids by delayed growth in *Arabidopsis thaliana*. **_bioRxiv_** <https://doi.org/10.1101/2022.11.10.515564>
 1. Stockenhuber R, Akiyama R, Tissot N, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Milosavljevic S, Widmer A, Ulm R, Shimizu KK\*. (2021) The *UV RESISTANCE LOCUS 8*-mediated UV-B response is required alongside *CRYPTOCHROME1* for plant survival under sunlight in the field. **_bioRxiv_** <https://doi.org/10.1101/2021.12.08.471623>
 
 ## Manuscript in preparation
