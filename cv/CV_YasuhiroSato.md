@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Last update on 23 August 2023"
+date: "Last update on 28 August 2023"
 output:
   pdf_document: default
   html_document: default
@@ -160,6 +160,7 @@ Keywords: Plant Molecular Biology, Developmental Biology
 *^†^Equal contribution; \*Correspondence*  
 
 ## Peer-reviewed articles
+1. Stockenhuber R, Akiyama R, Tissot N, Milosavljevic S, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Widmer A, Ulm R\*, Shimizu KK\*. (2023) The *UV RESISTANCE LOCUS 8*-mediated UV-B response is required alongside *CRYPTOCHROME1* for plant survival under sunlight in the field. **_Plant and Cell Physiology_** <https://doi.org/10.1093/pcp/pcad113>
 1. Xu C^†^, **Sato Y**^†^\*, Yamazaki M, Brasser M, Barbour MA, Bascompte J, Shimizu KK\*. (2023) Genome-wide association study of aphid abundance highlights a locus affecting plant growth and flowering in *Arabidopsis thaliana*. **_Royal Society Open Science_** 10:230399. <https://doi.org/10.1098/rsos.230399>
 1. **Sato Y**\*, Takahashi Y, Xu C, Shimizu KK\*. (2023) Detecting frequency-dependent selection through the effects of genotype similarity on fitness components. **_Evolution_** 77:1145–1157. <https://doi.org/10.1093/evolut/qpad028>
 1. Shimizu-Inatsugi R\*, Morishima A, Mourato B, Shimizu KK, **Sato Y**. (2023) Phenotypic variation of a new synthetic allotetraploid _Arabidopsis kamchatica_ enhanced in natural environment. **_Frontiers in Plant Science_** 13:1058522 <https://doi.org/10.3389/fpls.2022.1058522>
@@ -227,7 +228,6 @@ Keywords: Plant Molecular Biology, Developmental Biology
 
 ## Preprint
 1. **Sato Y**\*, Shimizu-Inatsugi R, Takeda K, Schmid B, Nagano AJ\*, Shimizu KK\*. (2023) Genome-wide neighbor effects predict genotype pairs that reduce herbivory in mixed planting. **_bioRxiv_** <https://doi.org/10.1101/2023.05.19.541411>
-1. Stockenhuber R, Akiyama R, Tissot N, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Milosavljevic S, Widmer A, Ulm R, Shimizu KK\*. (2021) The *UV RESISTANCE LOCUS 8*-mediated UV-B response is required alongside *CRYPTOCHROME1* for plant survival under sunlight in the field. **_bioRxiv_** <https://doi.org/10.1101/2021.12.08.471623>
 
 ## Manuscript in preparation
 1. **Sato Y** et al., (in prep.) Neighbor eGWAS: incorporating neighbor genotypic identity into field transcriptomics (tentative).    
