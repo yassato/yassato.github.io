@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Last update on 28 August 2023"
+date: "Last update on 7 November 2023"
 output:
   pdf_document: default
   html_document: default
@@ -54,7 +54,7 @@ Personal website: https://yassato.github.io/
 | **Name** | **Degree** | **Program** | **Role** | **Output** |
 | --- | --- | --- | --- | --- |
 | Lukas Rohr | Master student | MSc in Biology at the University of Zurich | Supervisor | *None* |
-| Chongmeng Xu |	PhD student (defended on 17 April 2023) |	URPP GCB program of the University of Zurich	| Co-supervisor (Leitung der Dissertation) | Xu & Sato et al. (2023) RSOS; Sato et al. (2023) Evolution |
+| Dr. Chongmeng Xu |	PhD student (defended on 17 April 2023) |	URPP GCB program of the University of Zurich	| Co-supervisor (Leitung der Dissertation) | Xu & Sato et al. (2023) RSOS; Sato et al. (2023) Evolution |
 | Elina Jansone | Undergraduate | Lab rotation at the University of Zurich | Main supervisor | *None* |
 | Kazuya Takeda	| Master of Science |	PRESTO project of JST	| Daily supervisor as an employer	| Sato, Takeda & Nagano (2021) G3 |
 | Silvija Milosavljevic	| Undergraduate | BUSS program at the University of Zurich | Co-supervisor with PI |	Shimizu-Inatsugi et al. (2021) Plant Spec. Biol. |
@@ -114,27 +114,17 @@ Personal website: https://yassato.github.io/
 ## References
 
 1. **Prof. Dr. Kentaro K. Shimizu**  
-Position: Full Professor and Department Co-director  
+Position: Full Professor  
 Relationship: Current employer  
 Affiliation: Department of Evolutionary Biology and Environmental Studies (Institut für Evolutionsbiologie und Umweltwissenschaften), University of Zurich, Switzerland  
 Address: Winterthurerstrasse 190, 8057 Zurich, Switzerland  
 Phone: +41 44 635 6740  
-E-mail: kentaro.shimizu@ieu.uzh.ch   
+E-mail: kentaro.shimizu@uzh.ch   
 Website: <https://www.ieu.uzh.ch/en/staff/member/shimizu_kentaro.html>  
 Keywords: Evolutionary Genomics, Plant Mating System, Polyploidy
 
-2. **Prof. Dr. Hiroshi Kudoh**  
+2. **Prof. Dr. Atsushi J. Nagano**  
 Position: Full professor  
-Relationship: PhD supervisor  
-Affiliation: Center for Ecological Research, Kyoto University, Japan  
-Address: 509-3, 2-chome, Hirano, Otsu, Shiga 520-2113, Japan  
-Phone: +81 77 549 8255  
-E-mail: kudoh@ecology.kyoto-u.ac.jp  
-Website: <https://www.ecology.kyoto-u.ac.jp/~kudoh/en/index.html>  
-Keywords: Molecular Ecology, Plant Ecology, Flowering Phenology
-
-3. **Prof. Dr. Atsushi J. Nagano**  
-Position: Full professor (since April 2022)  
 Relationship: Postdoc host  
 Affiliation: Faculty of Agriculture, Ryukoku University, Japan (adjunct with Project Professor at the Institute of Advanced Biosciences of Keio University, Japan)  
 Address: Yokotani 1-5, Seta Oe-cho, Otsu, Shiga 520-2194, Japan  
@@ -143,15 +133,15 @@ E-mail: anagano@agr.ryukoku.ac.jp
 Website: <https://researchmap.jp/anagano?lang=en>  
 Keywords: Bioinformatics, Transcriptomics, Plant Physiology
 
-4. **Prof. Dr. Kiyotaka Okada**  
-Position: Professor Emeritus of Kyoto University  
-Relationship: Research supervisor of the previous JST PRESTO project  
-Current affiliation: Ryukoku Extension Center, Ryukoku University, Japan  
-Address: Yokotani 1-5, Seta Oe-cho, Otsu, Shiga 520-2194, Japan  
-Phone: +81 77 544 7299  
-E-mail: kiyo@ad.ryukoku.ac.jp  
-Website: <https://www.jst.go.jp/kisoken/presto/en/research_area/ongoing/areah27-5.html>  
-Keywords: Plant Molecular Biology, Developmental Biology
+3. **Prof. Dr. Hiroshi Kudoh**  
+Position: Full professor  
+Relationship: PhD supervisor  
+Affiliation: Center for Ecological Research, Kyoto University, Japan  
+Address: 509-3, 2-chome, Hirano, Otsu, Shiga 520-2113, Japan  
+Phone: +81 77 549 8255  
+E-mail: kudoh@ecology.kyoto-u.ac.jp  
+Website: <https://www.ecology.kyoto-u.ac.jp/~kudoh/en/index.html>  
+Keywords: Molecular Ecology, Plant Ecology, Flowering Phenology  
 
 ---
 
@@ -160,7 +150,7 @@ Keywords: Plant Molecular Biology, Developmental Biology
 *^†^Equal contribution; \*Correspondence*  
 
 ## Peer-reviewed articles
-1. Stockenhuber R, Akiyama R, Tissot N, Milosavljevic S, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Widmer A, Ulm R\*, Shimizu KK\*. (2023) The *UV RESISTANCE LOCUS 8*-mediated UV-B response is required alongside *CRYPTOCHROME1* for plant survival under sunlight in the field. **_Plant and Cell Physiology_** <https://doi.org/10.1093/pcp/pcad113>
+1. Stockenhuber R, Akiyama R, Tissot N, Milosavljevic S, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Widmer A, Ulm R\*, Shimizu KK\*. (2023) The *UV RESISTANCE LOCUS 8*-mediated UV-B response is required alongside *CRYPTOCHROME1* for plant survival in sunlight under field conditions. **_Plant and Cell Physiology_** <https://doi.org/10.1093/pcp/pcad113>
 1. Xu C^†^, **Sato Y**^†^\*, Yamazaki M, Brasser M, Barbour MA, Bascompte J, Shimizu KK\*. (2023) Genome-wide association study of aphid abundance highlights a locus affecting plant growth and flowering in *Arabidopsis thaliana*. **_Royal Society Open Science_** 10:230399. <https://doi.org/10.1098/rsos.230399>
 1. **Sato Y**\*, Takahashi Y, Xu C, Shimizu KK\*. (2023) Detecting frequency-dependent selection through the effects of genotype similarity on fitness components. **_Evolution_** 77:1145–1157. <https://doi.org/10.1093/evolut/qpad028>
 1. Shimizu-Inatsugi R\*, Morishima A, Mourato B, Shimizu KK, **Sato Y**. (2023) Phenotypic variation of a new synthetic allotetraploid _Arabidopsis kamchatica_ enhanced in natural environment. **_Frontiers in Plant Science_** 13:1058522 <https://doi.org/10.3389/fpls.2022.1058522>
