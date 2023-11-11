@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Last update on 7 November 2023"
+date: "Last update on 11 November 2023"
 output:
   pdf_document: default
   html_document: default
@@ -150,6 +150,7 @@ Keywords: Molecular Ecology, Plant Ecology, Flowering Phenology
 *^†^Equal contribution; \*Correspondence*  
 
 ## Peer-reviewed articles
+1. The Herbivory Variability Network. (2023) Plant size, latitude, and phylogeny explain variability in herbivory. **_Science_** 382:679-683. <https://doi.org/10.1126/science.adh8830> [a consortium paper incl. Y. Sato as one of the co-authors]
 1. Stockenhuber R, Akiyama R, Tissot N, Milosavljevic S, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Widmer A, Ulm R\*, Shimizu KK\*. (2023) The *UV RESISTANCE LOCUS 8*-mediated UV-B response is required alongside *CRYPTOCHROME1* for plant survival in sunlight under field conditions. **_Plant and Cell Physiology_** <https://doi.org/10.1093/pcp/pcad113>
 1. Xu C^†^, **Sato Y**^†^\*, Yamazaki M, Brasser M, Barbour MA, Bascompte J, Shimizu KK\*. (2023) Genome-wide association study of aphid abundance highlights a locus affecting plant growth and flowering in *Arabidopsis thaliana*. **_Royal Society Open Science_** 10:230399. <https://doi.org/10.1098/rsos.230399>
 1. **Sato Y**\*, Takahashi Y, Xu C, Shimizu KK\*. (2023) Detecting frequency-dependent selection through the effects of genotype similarity on fitness components. **_Evolution_** 77:1145–1157. <https://doi.org/10.1093/evolut/qpad028>

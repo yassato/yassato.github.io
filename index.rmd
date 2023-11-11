@@ -56,6 +56,8 @@ To untangle complex ecological interactions, my research often employs statistic
 1. **Sato Y**\*, Shimizu-Inatsugi R, Takeda K, Schmid B, Nagano AJ\*, Shimizu KK\*. (2023) Genome-wide neighbor effects predict genotype pairs that reduce herbivory in mixed planting. **_bioRxiv_** <https://doi.org/10.1101/2023.05.19.541411>
 
 ## Peer-reviewed articles
+1. The Herbivory Variability Network. (2023) Plant size, latitude, and phylogeny explain variability in herbivory. **_Science_** 382:679-683. <https://doi.org/10.1126/science.adh8830> [a consortium paper incl. Y. Sato as one of the co-authors]  
+
 1. Stockenhuber R, Akiyama R, Tissot N, Milosavljevic S, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Widmer A, Ulm R\*, Shimizu KK\*. (2023) The *UV RESISTANCE LOCUS 8*-mediated UV-B response is required alongside *CRYPTOCHROME1* for plant survival in sunlight under field conditions. **_Plant and Cell Physiology_** <https://doi.org/10.1093/pcp/pcad113>  
 
 1. Xu C^†^, **Sato Y**^†^\*, Yamazaki M, Brasser M, Barbour MA, Bascompte J, Shimizu KK\*. (2023) Genome-wide association study of aphid abundance highlights a locus affecting plant growth and flowering in *Arabidopsis thaliana*. **_Royal Society Open Science_** 10:230399. <https://doi.org/10.1098/rsos.230399>  
