@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Last update on 11 November 2023"
+date: "Last update on 15 November 2023"
 output:
   pdf_document: default
   html_document: default
@@ -44,6 +44,7 @@ Personal website: https://yassato.github.io/
 - April 2016–March 2020. Affiliated scientist of the Center for Ecological Research, Kyoto University, Japan  
 
 ## Approved funding and fellowships
+1. November 2023–October 2024. ‘Using open data to reveal the genomic basis that underpins positive plant-plant interactions’, Spark rapid funding, Grant ID:CRSK-3\_221418, Swiss National Science Foundation (SNSF), Switzerland (a single lead applicant; total budget 100,000 CHF = 103,616 EUR upon the currency rate of the starting date)
 1. April 2023–March 2027. ‘Joint analysis of plant-plant interactions using field GWAS and RNA-Seq’, Grant-in-aid for Early-career Scientists, Grant ID:JP23K14270, Japan Society for the Promotion of Science (JSPS), Japan (a single lead applicant; direct cost 3,600,000 JPY + indirect cost 1,080,000 JPY = 32,116 EUR upon the currency rate of the starting date)
 1. April 2020–March 2023. ‘Theoretical consideration of plant biodiversity effects driven by inter-genotypic interactions’, Grant-in-aid for Early-career Scientists, Grant ID:JP20K15880, Japan Society for the Promotion of Science (JSPS), Japan (a single lead applicant; direct cost 3,200,000 JPY + indirect cost 960,000 JPY = 35,049 EUR upon the currency rate of the starting date)
 1. October 2017–March 2021. ‘Large-scale omics approach towards a pest control by mixed planting’, PRESTO project, Grant ID:JPMJPR17Q4, Japan Science and Technology Agency (JST) (a single lead applicant; direct cost 40,000,000 JPY + indirect cost 12,000,000 JPY = 391,418 EUR upon the currency rate of the starting date + group leader’s own salary) <https://www.jst.go.jp/kisoken/presto/en/project/1112074/1112074_26.html>
@@ -150,7 +151,7 @@ Keywords: Molecular Ecology, Plant Ecology, Flowering Phenology
 *^†^Equal contribution; \*Correspondence*  
 
 ## Peer-reviewed articles
-1. The Herbivory Variability Network. (2023) Plant size, latitude, and phylogeny explain variability in herbivory. **_Science_** 382:679-683. <https://doi.org/10.1126/science.adh8830> [a consortium paper incl. Y. Sato as one of the co-authors]
+1. The Herbivory Variability Network. (2023) Plant size, latitude, and phylogeny explain variability in herbivory. **_Science_** 382:679-683. <https://doi.org/10.1126/science.adh8830> [a consortium paper including Y. Sato as one of 191 co-authors]
 1. Stockenhuber R, Akiyama R, Tissot N, Milosavljevic S, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Widmer A, Ulm R\*, Shimizu KK\*. (2023) The *UV RESISTANCE LOCUS 8*-mediated UV-B response is required alongside *CRYPTOCHROME1* for plant survival in sunlight under field conditions. **_Plant and Cell Physiology_** <https://doi.org/10.1093/pcp/pcad113>
 1. Xu C^†^, **Sato Y**^†^\*, Yamazaki M, Brasser M, Barbour MA, Bascompte J, Shimizu KK\*. (2023) Genome-wide association study of aphid abundance highlights a locus affecting plant growth and flowering in *Arabidopsis thaliana*. **_Royal Society Open Science_** 10:230399. <https://doi.org/10.1098/rsos.230399>
 1. **Sato Y**\*, Takahashi Y, Xu C, Shimizu KK\*. (2023) Detecting frequency-dependent selection through the effects of genotype similarity on fitness components. **_Evolution_** 77:1145–1157. <https://doi.org/10.1093/evolut/qpad028>

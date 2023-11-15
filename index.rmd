@@ -140,7 +140,7 @@ To untangle complex ecological interactions, my research often employs statistic
 
 # About me
 
-*PDF version of my CV is available [here](./cv/CV_YasuhiroSato.pdf)*
+*PDF version of my CV is available [here](https://github.com/yassato/yassato.github.io/blob/main/cv/CV_YasuhiroSato.pdf)*
 
 ### Yasuhiro Sato  
 During my childhood, I collected nymphal shells of Japanese cicadas over the course of ten years (Sato & Sato 2015). This early experience sparked my interest in ecology later in life.
@@ -178,14 +178,6 @@ During my first postdoctoral position, I began collaborating with the Evolutiona
 1. Inoue Research Award for Early-career Scientists, Inoue Foundation for Science (2018)
 1. Kataoka Award, The Society for the Study of Species Biology (2016)
 1. [Ikushi Prize, Japan Society for the Promotion of Science](https://www.jsps.go.jp/english/e-ikushi-prize/awards_fy2015_01.html) (2016)
-
-## Grants
-1. JSPS Grants-in-Aid for Early-career Scientists (2023-2027, 3,600,000JPY as Principal Investigator)
-1. JSPS Grants-in-Aid for Early-career Scientists (2020-2023, 3,200,000JPY as Principal Investigator)
-1. JST Precursory Research for Embryonic Science and Technology (PRESTO) (2017-2021, 40,000,000JPY as Principal Investigator)
-1. JSPS Research Fellowships for Early-career Scientists (PD) (2016-2017, 2,700,000JPY)
-1. JSPS Research Fellowships for Early-career Scientists (DC2) (2015-2016,  1,200,000JPY)
-1. JASSO Scholarship (2011-2015, 4,000,000JPY)  
 
 ## Panels and boards
 - 2019.01 - Present: Editorial board member of the Society for the Study of Species Biology, Japan  
