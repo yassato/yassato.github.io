@@ -221,6 +221,4 @@ Keywords: Molecular Ecology, Plant Ecology, Flowering Phenology
 ## Preprint
 1. **Sato Y**\*, Shimizu-Inatsugi R, Takeda K, Schmid B, Nagano AJ\*, Shimizu KK\*. (2023) Genome-wide neighbor effects predict genotype pairs that reduce herbivory in mixed planting. **_bioRxiv_** <https://doi.org/10.1101/2023.05.19.541411>
 
-## Manuscript in preparation
-1. **Sato Y** et al., (in prep.) Neighbor eGWAS: incorporating neighbor genotypic identity into field transcriptomics (tentative).    
 
