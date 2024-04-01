@@ -1,25 +1,46 @@
 ---
-title: 佐藤 安弘（サトウ ヤスヒロ）
+title: 量的生態遺伝学研究室
 output: rmdformats::robobook
 ---
 
 [[英語]](index.html) [[日本語]](index_jp.html)  
 
 # 連絡先
-Department of Evolutionary Biology and Environmental Studies, University of Zurich  
-Winterthurerstrasse 190, 8057 Zurich, Switzerland  
-Tel: +41-44-635-4986; Office: Y13-J-68 ([Kentaro K. Shimizu Group](https://www.ieu.uzh.ch/en/research/evolbiol/ecogenomics.html))  
-E-mail: yasuhiro.sato(あっと)uzh.ch; yassato36c(あっと)outlook.com; sato.yasuhiro.36c(あっと)kyoto-u.jp  
-研究者情報: ORCID:[0000-0002-6466-723X](http://orcid.org/0000-0002-6466-723X); [researchmap](https://researchmap.jp/yassatojpn/?lang=japanese); [Google scholar citations](http://scholar.google.co.jp/citations?user=HbrGYr8AAAAJ&hl=jp)  
+北海道大学大学院　地球環境科学研究院　環境生物科学部門　生態遺伝学分野  
+〒060-0810　北海道札幌市北区北10条西5丁目  
+E-mail: yassato36c(あっと)outlook.com  
+研究者情報: ORCID:[0000-0002-6466-723X](http://orcid.org/0000-0002-6466-723X); [researchmap](https://researchmap.jp/yassatojpn/?lang=japanese); [Google scholar citations](https://scholar.google.co.jp/citations?hl=ja&user=HbrGYr8AAAAJ&view_op=list_works&sortby=pubdate); [ResearcherID](https://www.webofscience.com/wos/author/rid/N-7939-2013)  
   
-**＊日本語の履歴書と業績一覧は[researchmap](https://researchmap.jp/yassatojpn/?lang=japanese)にて更新しています。**  
   
 # 研究内容
-- 植物の個体間相互作用に関する量的生態遺伝学（Sato et al. 2023 bioRxiv; Sato et al. 2021 Heredity; Sato et al. G3他）
-- 植物防御の進化生態学（Sato & Kudoh 2017 American Naturalist; Sato et al. 2017 Functional Ecology; Sato 2018 Plant Species Biology他）
-- 生態学・進化生物学・遺伝学におけるデータ解析（Sato et al. 2023 Evolution; Takimoto & Sato et al. 2021 Ecological Informatics他）
+生物情報学の技術を使って植物を取りまく生態現象を解きほぐす研究を行っています。野外における生物の環境応答や生物間の相互作用は量的な変異をともなった複雑な形質です。取り扱いのむずかしい生態現象にオミクス科学を応用することで、現象の背後にある遺伝的基盤を定量的に理解することを目指しています。  
 
-![種生物学会編（佐藤・村中責任編集）『植物の超階層生物学』[文一総合出版](https://www.bun-ichi.co.jp/tabid/57/pdid/978-4-8299-6210-7/Default.aspx)](./photo/sssb6210-7.jpg){width=50%}
+特に最近は以下の研究テーマに興味をもって取り組んでいます。  
+
+- 植物の個体間相互作用に関する量的遺伝学（Sato et al. 2023 bioRxiv; Sato et al. 2021 Heredity; Sato et al. G3他、現在進行中）
+- 植物防御の進化生態学（Sato & Kudoh 2017 American Naturalist; Sato et al. 2017 Functional Ecology; Sato 2018 Plant Species Biology他）
+- 生態学・進化生物学・遺伝学におけるデータ解析（Sato et al. 2023 Evolution; Takimoto & Sato et al. 2021 Ecological Informatics他）  
+
+興味の方向性としては、以下の書籍が参考になるかと思います。どちらも日本語で読めるので、気軽にお手に取って頂けると幸いです。  
+
+![種生物学会編（佐藤・村中責任編集）『植物の超階層生物学』[文一総合出版](https://www.bun-ichi.co.jp/tabid/57/pdid/978-4-8299-6210-7/Default.aspx)](./photo/sssb6210-7.jpg){width=30%}  
+  
+![種生物学会編（坂田・角田責任編集）『植物たちの護身術』[文一総合出版](https://www.bun-ichi.co.jp/tabid/57/pdid/978-4-8299-6211-4/Default.aspx)](./photo/sssb6211-4.jpg){width=30%}  
+  
+
+  
+# 構成員
+
+＊当研究室は2024年に発足したばかりです。興味を持たれた方は上記連絡先を参照のうえ、佐藤までご連絡下さい。  
+
+### 研究室主宰者
+
+佐藤　安弘　（サトウ　ヤスヒロ）  
+2016年に京都大学にて博士（理学）を取得。龍谷大学にて日本学術振興会特別研究員および科学技術振興機構さきがけ研究者、スイス・チューリッヒ大学にて助手を経験した後、2024年より北海道大学テニュアトラック助教。専門は植物を中心とした生態遺伝学。  
+
+
+# 業績
+＊日本語の業績一覧は[researchmap](https://researchmap.jp/yassatojpn/?lang=japanese)にて更新しています。
   
 ---
   
