@@ -17,8 +17,8 @@ Birthday: 7 April 1988
 Nationality: Japan  
 Gender: Male; Pronoun: he/him  
 Current affiliation: Faculty of Environmental Earth Science, Hokkaido University  
-Institutional address: Kita-ku North10-West5, Sapporo city, Hokkaido 060-0810, Japan  
-E-mail: yassato36c@outlook.com    
+Institutional address: N10W5 Kita-ku, Sapporo, Hokkaido 060-0810, Japan  
+E-mail: yassato"at"ees.hokudai.ac.jp; yassato36c@outlook.com    
 ORCID: 0000-0002-6466-723X  
 ResearcherID: N-7939-2013  
 Google scholar citations: https://scholar.google.co.jp/citations?user=HbrGYr8AAAAJ&hl=en  

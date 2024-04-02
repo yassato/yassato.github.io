@@ -11,7 +11,7 @@ output: rmdformats::robobook
 Faculty of Environmental Earth Science, Hokkaido University  
 N10W5 Kita-ku, Sapporo, Hokkaido 060-0810, Japan  
 Office: B-802 (Group of Ecological Genetics)  
-E-mail: yassato36c"at"outlook.com  
+E-mail: yassato"at"ees.hokudai.ac.jp; yassato36c"at"outlook.com  
 
 ### News
 See [LinkedIn](https://www.linkedin.com/in/yasuhiro-sato-71ba3b233/) and [X/Twitter@yassatojpn](https://twitter.com/search?q=%40yassatojpn&src=recent_search_click)
