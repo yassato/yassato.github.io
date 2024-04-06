@@ -1,5 +1,5 @@
 ---
-title: 量的生態遺伝学研究室
+title: 定量生態遺伝学研究室
 output: rmdformats::robobook
 ---
 
