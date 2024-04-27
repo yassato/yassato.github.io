@@ -137,10 +137,13 @@ ORCID: [0000-0002-6466-723X](http://orcid.org/0000-0002-6466-723X); [Google scho
   
 # Links
 
-1. [Hokkaido University EXEX Doctoral Fellowship](https://sites.google.com/eis.hokudai.ac.jp/exexphd-fellow/)  
+1. [Graduate School of Environmental Science, Hokkaido University](https://www.ees.hokudai.ac.jp/?lang=en)  
+Admission information available for prospect *graduate students*.  
+
+2. [Hokkaido University EXEX Doctoral Fellowship](https://sites.google.com/eis.hokudai.ac.jp/exexphd-fellow/)  
 Internal fellowship eligible for *PhD students* in Hokkaido University.
 
-2. [JSPS Postdoctoral Fellowships for Research in Japan](https://www.jsps.go.jp/english/e-fellow/)  
+3. [JSPS Postdoctoral Fellowships for Research in Japan](https://www.jsps.go.jp/english/e-fellow/)  
 External fellowship eligible for international *postdocs* who are interested in joint research activities in Japan.  
 
 ---
