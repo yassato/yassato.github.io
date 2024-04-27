@@ -9,7 +9,7 @@ output: rmdformats::robobook
 
 ### Current address
 Faculty of Environmental Earth Science, Hokkaido University  
-N10W5 Kita-ku, Sapporo, Hokkaido 060-0810, Japan  
+N10W5 Kita-ku, Sapporo 060-0810, Hokkaido, Japan  
 Office: B-802 (Group of Ecological Genetics)  
 E-mail: yassato"at"ees.hokudai.ac.jp; yassato36c"at"outlook.com  
 
@@ -42,7 +42,7 @@ Our research often employs statistical tools to untangle complex ecological inte
 
 # Members
 
-_Our lab has just started in 2024. Please contact Y. Sato (see the contact address above) if you are interested!_  
+_Our lab has just started in 2024. Please contact Y. Sato (see the contact address above) if you are interested. You may be eligible for some fellowships (see "**Links**" below)._  
 
 ## PI: Yasuhiro (Yasu) Sato
 
@@ -64,7 +64,7 @@ ORCID: [0000-0002-6466-723X](http://orcid.org/0000-0002-6466-723X); [Google scho
 
 ---
 
-# Publications
+# Publication
 
 *^†^Equal contribution; \*Correspondence*  
 
@@ -135,6 +135,14 @@ ORCID: [0000-0002-6466-723X](http://orcid.org/0000-0002-6466-723X); [Google scho
 1. **Sato Y**, Muranaka T. (eds). (2023) Trans-Scale Biology of Plants: Integrating genomics, phenomics, and ecology to unveil biodiversity (in Japanese). **_Species Biology Series_**, Bun-ichi Sogo Shuppan, Tokyo, Japan. ISBN: 978-4-8299-6210-7.
   
   
+# Links
+
+1. [Hokkaido University EXEX Doctoral Fellowship](https://sites.google.com/eis.hokudai.ac.jp/exexphd-fellow/)  
+Internal fellowship eligible for *PhD students* in Hokkaido University.
+
+2. [JSPS Postdoctoral Fellowships for Research in Japan](https://www.jsps.go.jp/english/e-fellow/)  
+External fellowship eligible for international *postdocs* who are interested in joint research activities in Japan.  
+
 ---
 
 <p align="center"><sup>(c) 2013- Yasuhiro Sato, All rights reserved.</sup></p>  
