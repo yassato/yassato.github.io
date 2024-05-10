@@ -5,13 +5,8 @@ output: rmdformats::robobook
 
 [[English]](index.html) [[Japanese]](index_jp.html)  
 
-# Contact
-
-### Current address
-Faculty of Environmental Earth Science, Hokkaido University  
-N10W5 Kita-ku, Sapporo 060-0810, Hokkaido, Japan  
-Office: B-802 (Group of Ecological Genetics)  
-E-mail: yassato"at"ees.hokudai.ac.jp; yassato36c"at"outlook.com  
+### Welcome
+Hello, we are studying plant ecological genetics with quantitative tools. Our lab is located in the Sapporo campus of Hokkaido University, Japan. If you have any inquiries, feel free to contact Yasuhiro Sato (yassato"at"ees.hokudai.ac.jp).  
 
 ### News
 See [LinkedIn](https://www.linkedin.com/in/yasuhiro-sato-71ba3b233/) and [X/Twitter@yassatojpn](https://twitter.com/search?q=%40yassatojpn&src=recent_search_click)
@@ -42,31 +37,33 @@ Our research often employs statistical tools to untangle complex ecological inte
 
 # Members
 
-_Our lab has just started in 2024. Please contact Y. Sato (see the contact address above) if you are interested. You may be eligible for some fellowships (see "**Links**" below)._  
+_Our lab has just started in 2024. Please contact Y. Sato (see the contact address below) if you are interested._
 
-## PI: Yasuhiro (Yasu) Sato
+## Principal Investigator
 
-### Researcher information
-ORCID: [0000-0002-6466-723X](http://orcid.org/0000-0002-6466-723X); [Google scholar citations](https://scholar.google.co.jp/citations?hl=en&user=HbrGYr8AAAAJ&view_op=list_works&sortby=pubdate); [ResearcherID](https://www.webofscience.com/wos/author/rid/N-7939-2013)  
-**_Full CV is available [here](./cv/CV_YasuhiroSato.pdf)_**  
+### Yasuhiro Sato (Assistant Professor)
 
-### Education
-- 2016.03: PhD in Science, Center for Ecological Research, Graduate School of Science, Kyoto University, Japan
-- 2013.03: MSc in Science, Center for Ecological Research, Graduate School of Science, Kyoto University, Japan
-- 2011.03: BSc in Agriculture, Laboratory of Insect Ecology, Faculty of Agriculture, Kyoto University, Japan
+<p><div align="left"><img src="./photo/yassato00-2.jpg" class="right" width="300" align="top"></div></p>  
+My research career began at Kyoto University in Japan. After obtaining my PhD in 2016, I experienced two postdoc positions in Japan and a senior postdoc position in Switzerland. Since 2024, I have been appointed as a tenure-track assistant professor at Hokkaido University. My research interests include ecological genetics of biotic interactions involving plants. See [CV](./cv/CV_YasuhiroSato.pdf) for the full profile.  
+ORCID: [0000-0002-6466-723X](http://orcid.org/0000-0002-6466-723X); ResearcherID: [N-7939-2013](https://www.webofscience.com/wos/author/rid/N-7939-2013)   
 
-### Employment history
-- 2024.03 - Present: Tenure-track Assistant Professor in the Group of Ecological Genetics, Section of Environmental Biology, Faculty of Environmental Earth Science, Hokkaido University, Japan  
-- 2021.04 - 2024.03: Senior research and teaching assistant (Oberassistent), Department of Evolutionary Biology and Environmental Studies, University of Zurich, Switzerland  
-- 2017.10 - 2021.03: Junior group leader of [Precursory Research for Embryonic Science and Technology](https://www.jst.go.jp/kisoken/presto/en/project/1112074/1112074_26.html) (PRESTO) project of Japan Science and Technology Agency (JST), Japan (host: Ryukoku University)
-- 2016.04 - 2017.09: Postdoctoral fellow of Japan Society for the Promotion of Science (JSPS), Japan (host: Ryukoku University)
-- 2015.04 - 2016.03: Research Fellowship for PhD students (DC2), JSPS, Japan (host: Center for Ecological Research, Kyoto University)  
+## Postdocs  
+_N.B. Currently we have no open call for postdocs, but you can consider [JSPS Postdoctoral Fellowships](https://www.jsps.go.jp/english/e-fellow/) to join our group._  
+
+## PhD students
+
+_N.B. For prospective PhD students, please check the admission schedule on the official website of [Graduate School of Environmental Science](https://www.ees.hokudai.ac.jp/?lang=en). You may be eligible for an internal fellowship called [Hokkaido University EXEX Doctoral Fellowship](https://sites.google.com/eis.hokudai.ac.jp/exexphd-fellow/)._  
+
+## Master students
+
+_N.B. For prospective master students, please check the admission schedule on the official website of [Graduate School of Environmental Science](https://www.ees.hokudai.ac.jp/?lang=en)._  
 
 ---
 
 # Publication
 
 *^†^Equal contribution; \*Correspondence*  
+*See also [Google scholar citations](https://scholar.google.co.jp/citations?hl=en&user=HbrGYr8AAAAJ&view_op=list_works&sortby=pubdate).*
 
 ## Preprint
 
@@ -135,17 +132,16 @@ ORCID: [0000-0002-6466-723X](http://orcid.org/0000-0002-6466-723X); [Google scho
 1. **Sato Y**, Muranaka T. (eds). (2023) Trans-Scale Biology of Plants: Integrating genomics, phenomics, and ecology to unveil biodiversity (in Japanese). **_Species Biology Series_**, Bun-ichi Sogo Shuppan, Tokyo, Japan. ISBN: 978-4-8299-6210-7.
   
   
-# Links
+# Contact
 
-1. [Graduate School of Environmental Science, Hokkaido University](https://www.ees.hokudai.ac.jp/?lang=en)  
-Admission information available for prospect *graduate students*.  
+Faculty of Environmental Earth Science, Hokkaido University  
+N10W5 Kita-ku, Sapporo 060-0810, Hokkaido, Japan  
+Office: B-802 (Group of Ecological Genetics)  
+Phone: +81 (0)11 706 4860  
+E-mail: yassato"at"ees.hokudai.ac.jp; yassato36c"at"outlook.com  
 
-2. [Hokkaido University EXEX Doctoral Fellowship](https://sites.google.com/eis.hokudai.ac.jp/exexphd-fellow/)  
-Internal fellowship eligible for *PhD students* in Hokkaido University.
-
-3. [JSPS Postdoctoral Fellowships for Research in Japan](https://www.jsps.go.jp/english/e-fellow/)  
-External fellowship eligible for international *postdocs* who are interested in joint research activities in Japan.  
-
+![We are in the building of Graduate School of Environmental Science. 10-min walk from Sapporo st.](./photo/EES_googlemap.png)  
+  
 ---
 
 <p align="center"><sup>(c) 2013- Yasuhiro Sato, All rights reserved.</sup></p>  

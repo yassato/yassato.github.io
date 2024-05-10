@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Last update on 1 April 2024"
+date: "Last update on 10 May 2024"
 output:
   pdf_document: default
   html_document: default
@@ -60,6 +60,7 @@ Personal website: https://yassato.github.io/
 1. Dimitri Anderfuhren (Undergraduate at the University of Zurich; Role co-supervisor)
 
 ## Teaching experience
+1. May 2024. Special Lecture of Agricultural and Environmental Biology, University of Tokyo, Japan (Role: one-time guest lecturer)
 1. September 2021–March 2024. BIO373: Next Generation Sequencing for Evolutionary Functional Genomics, University of Zurich, Switzerland (Role: course management, co-instructor, and examiner; No. of participants = 15-20)
 1. May 2022. BIO334: Practical Bioinformatics, University of Zurich, Switzerland (Role: temporal co-instructor during a sabbatical absence of PI; No. of participants = ca. 25)
 1. April 2019–May 2019. External Lecturer of Basic Genetics, Faculty of Agriculture, Ryukoku University, Japan (Role: 90-min. lectures × five times for a liberal art course in Japanese; No. of participants = ca. 50)
