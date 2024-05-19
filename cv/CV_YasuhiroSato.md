@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Last update on 10 May 2024"
+date: "Last update on 19 May 2024"
 output:
   pdf_document: default
   html_document: default
@@ -25,7 +25,7 @@ Google scholar citations: https://scholar.google.co.jp/citations?user=HbrGYr8AAA
 Personal website: https://yassato.github.io/  
 
 ## Education
-- 23 March 2016. PhD in Science (Biosciences), Center for Ecological Research, Graduate School of Science, Kyoto University, Japan (supervisor: Prof. Dr. Hiroshi Kudoh) [PhD defended on 28 January 2016]
+- 23 March 2016. PhD in Science (Biosciences), Center for Ecological Research, Graduate School of Science, Kyoto University, Japan (supervisor: Prof. Dr. Hiroshi Kudoh) [Thesis title: Associational anti-herbivore defense in the trichome dimorphism of _Arabidopsis halleri_ subsp. _gemmifera_ (Brassicaceae); available at https://doi.org/10.14989/doctor.k19536]
 - 25 March 2013. MSc in Science (Biosciences), Center for Ecological Research, Graduate School of Science, Kyoto University, Japan (supervisor: Prof. Dr. Hiroshi Kudoh)
 - 24 March 2011. BSc in Agriculture (Bioresource Sciences), Laboratory of Insect Ecology, Faculty of Agriculture, Kyoto University, Japan (supervisor: Assistant Prof. Dr. Takayoshi Nishida)
 
