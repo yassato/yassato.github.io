@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Last update on 19 May 2024"
+date: "Last update on 13 June 2024"
 output:
   pdf_document: default
   html_document: default
@@ -18,7 +18,7 @@ Nationality: Japan
 Gender: Male; Pronoun: he/him  
 Current affiliation: Faculty of Environmental Earth Science, Hokkaido University  
 Institutional address: N10W5 Kita-ku, Sapporo, Hokkaido 060-0810, Japan  
-E-mail: yassato"at"ees.hokudai.ac.jp; yassato36c@outlook.com    
+E-mail: yassato"at"ees.hokudai.ac.jp; yassato36c"at"outlook.com    
 ORCID: 0000-0002-6466-723X  
 ResearcherID: N-7939-2013  
 Google scholar citations: https://scholar.google.co.jp/citations?user=HbrGYr8AAAAJ&hl=en  
@@ -70,6 +70,7 @@ Personal website: https://yassato.github.io/
 
 ## Panels, boards, and reviewing activities
 1. January 2019–Present. Editorial board member of the Society for the Study of Species Biology, Japan
+1. October 2023–November 2024. Guest editor for the special issue "Ecology and Evolution", **_Plant and Cell Physiology_**
 1. April 2020–December 2021. Reviewing editor of **_Journal of Evolutionary Biology_**
 1. December 2022. Organizing committee member of the 52nd symposium of the Study of Species Biology, Japan, <https://sites.google.com/view/sssb2020shiga>
 1. November 2016. Organizing committee member of 5th Japan-Taiwan Ecology Workshop, Kyoto, Japan, <https://sites.google.com/site/jtecolw5th/>
@@ -93,7 +94,7 @@ Personal website: https://yassato.github.io/
 1. April 2011–March 2015. Refund Exemption for Excellent Students, JASSO Scholarship, Japan
 
 ## Career breaks
-*None*  
+- June 2024–September 2024. Parental leave at Hokkaido University, Japan  
 
 ## Personal skills
 
