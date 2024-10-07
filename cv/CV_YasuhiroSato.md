@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Last update on 13 June 2024"
+date: "Last update on 7 October 2024"
 output:
   pdf_document: default
   html_document: default
@@ -13,11 +13,9 @@ output:
 
 First Name: Yasuhiro  
 Family Name: Sato  
-Birthday: 7 April 1988  
-Nationality: Japan  
-Gender: Male; Pronoun: he/him  
+Pronoun: he/him  
 Current affiliation: Faculty of Environmental Earth Science, Hokkaido University  
-Institutional address: N10W5 Kita-ku, Sapporo, Hokkaido 060-0810, Japan  
+Institutional address: N10W5 Kita-ku, Sapporo 060-0810, Hokkaido, Japan  
 E-mail: yassato"at"ees.hokudai.ac.jp; yassato36c"at"outlook.com    
 ORCID: 0000-0002-6466-723X  
 ResearcherID: N-7939-2013  
@@ -44,6 +42,7 @@ Personal website: https://yassato.github.io/
 - April 2016–March 2020. Affiliated scientist of the Center for Ecological Research, Kyoto University, Japan  
 
 ## Approved funding and fellowships
+1. October 2024–March 2028 [Phase I]. ‘Establishment of quantitative ecological genetics for the control of plant-plant interactions’, Fusion Oriented REsearch for disruptive Science and Technology (FOREST), Japan Science and Technology Agency (JST), Japan (a single lead applicant; direct cost 50,000,000 JPY + indirect cost 15,000,000 JPY)
 1. November 2023–October 2024. ‘Using open data to reveal the genomic basis that underpins positive plant-plant interactions’, Spark rapid funding, Grant ID:CRSK-3\_221418, Swiss National Science Foundation (SNSF), Switzerland (a single lead applicant; total budget 100,000 CHF = 103,616 EUR upon the currency rate of the starting date)
 1. April 2023–March 2027. ‘Joint analysis of plant-plant interactions using field GWAS and RNA-Seq’, Grant-in-aid for Early-career Scientists, Grant ID:JP23K14270, Japan Society for the Promotion of Science (JSPS), Japan (a single lead applicant; direct cost 3,600,000 JPY + indirect cost 1,080,000 JPY = 32,116 EUR upon the currency rate of the starting date)
 1. April 2020–March 2023. ‘Theoretical consideration of plant biodiversity effects driven by inter-genotypic interactions’, Grant-in-aid for Early-career Scientists, Grant ID:JP20K15880, Japan Society for the Promotion of Science (JSPS), Japan (a single lead applicant; direct cost 3,200,000 JPY + indirect cost 960,000 JPY = 35,049 EUR upon the currency rate of the starting date)
@@ -52,12 +51,13 @@ Personal website: https://yassato.github.io/
 1. April 2015–March 2016. ‘A test of the mechanism maintaining plant defense polymorphism in a wild *Arabidopsis*’, Research Fellowships for PhD Students, Grant ID:JP15J00400, Japan Society for the Promotion of Science (JSPS) (a single lead applicant; direct cost 1,200,000 JPY + indirect cost 360,000 JPY = 12,101 EUR upon the currency rate of the starting date + fellow’s own salary)
 
 ## Mentoring
+1. Iqra Akram (PhD student at Hokkaido University; Role: supervisor)
 1. Lukas Rohr (Master student at the University of Zurich; Role: supervisor)
-1. Chongmeng Xu (PhD student at the University of Zurich, PhD defended on 17 April 2023; Role: co-supervisor as 'Leitung der Dissertation')
+1. Dr. Chongmeng Xu (former PhD student at the University of Zurich, PhD defended on 17 April 2023; Role: co-supervisor as 'Leitung der Dissertation')
 1. Elina Jansone (Undergraduate internship at the University of Zurich; Role: supervisor)
 1. Kazuya Takeda (Research assistant at Ryukoku University; Role: daily supervisor as an employer)
-1. Silvija Milosavljevic (Undergraduate at the University of Zurich; Role: co-supervisor)
-1. Dimitri Anderfuhren (Undergraduate at the University of Zurich; Role co-supervisor)
+1. Silvija Milosavljevic (Undergraduate internship at the University of Zurich; Role: co-supervisor)
+1. Dimitri Anderfuhren (Undergraduate internship at the University of Zurich; Role co-supervisor)
 
 ## Teaching experience
 1. May 2024. Special Lecture of Agricultural and Environmental Biology, University of Tokyo, Japan (Role: one-time guest lecturer)
@@ -154,6 +154,7 @@ Keywords: Molecular Ecology, Plant Ecology, Flowering Phenology
 *^†^Equal contribution; \*Correspondence*  
 
 ## Peer-reviewed articles
+1. **Sato Y**\*, Shimizu-Inatsugi R, Takeda K, Schmid B, Nagano AJ\*, Shimizu KK\*. (2024) Reducing herbivory in mixed planting by genomic prediction of neighbor effects in the field. **_Nature Communications_** 15:8467. <https://doi.org/10.1038/s41467-024-52374-7>
 1. Stockenhuber R, Akiyama R, Tissot N, Milosavljevic S, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Widmer A, Ulm R\*, Shimizu KK\*. (2024) UV RESISTANCE LOCUS 8-mediated UV-B response is required alongside CRYPTOCHROME 1 for plant survival in sunlight under field conditions. **_Plant and Cell Physiology_** 65:35-48. <https://doi.org/10.1093/pcp/pcad113>
 1. The Herbivory Variability Network. (2023) Plant size, latitude, and phylogeny explain variability in herbivory. **_Science_** 382:679-683. <https://doi.org/10.1126/science.adh8830> [a consortium paper including Y. Sato as one of 191 co-authors]
 1. Xu C^†^, **Sato Y**^†^\*, Yamazaki M, Brasser M, Barbour MA, Bascompte J, Shimizu KK\*. (2023) Genome-wide association study of aphid abundance highlights a locus affecting plant growth and flowering in *Arabidopsis thaliana*. **_Royal Society Open Science_** 10:230399. <https://doi.org/10.1098/rsos.230399>
@@ -179,6 +180,7 @@ Keywords: Molecular Ecology, Plant Ecology, Flowering Phenology
 1. **Sato Y**\*, Takakura KI, Nishida S, Nishida T. (2013) Dominant occurrence of cleistogamous flowers of _Lamium amplexicaule_ in relation to the nearby presence of an alien congener _L. purpureum_. **_ISRN Ecology_** Article ID:476862. <http://dx.doi.org/10.1155/2013/476862>
 
 ## Peer-reviewed monographs
+1. **Sato Y\***, Wuest SE\*. (2024) The genetics of plant–plant interactions and their cascading effects on agroecosystems -- from model plants to applications. **_Plant and Cell Physiology_** <https://doi.org/10.1093/pcp/pcae092>
 1. **Sato Y\*.** (2018) Associational effects and the maintenance of polymorphism in plant defense against herbivores: review and evidence. **_Plant Species Biology_** 33(2):91-108. <https://doi.org/10.1111/1442-1984.12201>
 1. Sakata Y\*, **Sato Y.** (2017) Evolutionary ecology of plant defense: integrating different spatial scales within and among species (in Japanese). **_Japanese Journal of Ecology_** 67(3):287-306. <https://doi.org/10.18960/seitai.67.3_287>
 
@@ -218,6 +220,6 @@ Keywords: Molecular Ecology, Plant Ecology, Flowering Phenology
 *-> Plain-text Japanese summary of Sato and Sato (2015) Annals of the Entomological Society of America 108(4):494–500.*
 
 ## Preprint
-1. **Sato Y**\*, Shimizu-Inatsugi R, Takeda K, Schmid B, Nagano AJ\*, Shimizu KK\*. (2023) Genome-wide neighbor effects predict genotype pairs that reduce herbivory in mixed planting. **_bioRxiv_** <https://doi.org/10.1101/2023.05.19.541411>
+_Currently none_
 
 
