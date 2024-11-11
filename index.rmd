@@ -6,10 +6,10 @@ output: rmdformats::robobook
 [[English]](index.html) [[Japanese]](index_jp.html)  
 
 ### Welcome
-Hello, we are studying plant ecological genetics with quantitative tools. Our lab is located in the Sapporo campus of Hokkaido University, Japan. If you have any inquiries, feel free to contact Yasuhiro Sato (yassato"at"ees.hokudai.ac.jp).  
-
+Hello, we are studying plant ecological genetics with quantitative tools. Our lab is located in the Sapporo campus of Hokkaido University, Japan. Admission schedule for prospective graduate students is available on the official website of [Graduate School of Environmental Science](https://www.ees.hokudai.ac.jp/?lang=en). PhD candidates may be eligible for an internal fellowship called [Hokkaido University EXEX Doctoral Fellowship](https://sites.google.com/eis.hokudai.ac.jp/exexphd-fellow/). Currently we have no open call for postdoc positions, but you can consider [JSPS Postdoctoral Fellowships](https://www.jsps.go.jp/english/e-fellow/) to join our group. If you have any inquiries, please contact Yasuhiro Sato (yassato"at"ees.hokudai.ac.jp).  
+   
 ### News
-See [LinkedIn](https://www.linkedin.com/in/yasuhiro-sato-71ba3b233/) and [X/Twitter@yassatojpn](https://twitter.com/search?q=%40yassatojpn&src=recent_search_click)
+See [Bluesky@yassato.bsky.social](https://bsky.app/profile/yassato.bsky.social) or  [X/Twitter@yassatojpn](https://twitter.com/search?q=%40yassatojpn&src=recent_search_click)
   
 ---
 
@@ -35,7 +35,7 @@ Our research often employs statistical tools to untangle complex ecological inte
   
 ---
 
-# Members
+# Team
 
 ## Principal Investigator
 
@@ -45,20 +45,22 @@ Our research often employs statistical tools to untangle complex ecological inte
 My research career began at Kyoto University in Japan. After obtaining my PhD in 2016, I experienced two postdoc positions in Japan and a senior postdoc position in Switzerland. Since 2024, I have been appointed as a tenure-track assistant professor at Hokkaido University. My research interests include ecological genetics of biotic interactions involving plants. See also [CV](./cv/CV_YasuhiroSato.pdf) for the full profile.  
 ORCID: [0000-0002-6466-723X](http://orcid.org/0000-0002-6466-723X); ResearcherID: [N-7939-2013](https://www.webofscience.com/wos/author/rid/N-7939-2013)   
 
-## Postdocs  
-_Currently we have no open call for postdocs, but you can consider [JSPS Postdoctoral Fellowships](https://www.jsps.go.jp/english/e-fellow/) to join our group._  
+## Postdocs 
+
+_Currently none_  
 
 ## PhD students
 
 - **Iqra Akram (EXEX Doctoral fellow)**  
-Iqra has been working on the genetics of plant-plant interactions as an EXEX fellow since 2024.  
-
-_For prospective PhD students, please check the admission schedule on the official website of [Graduate School of Environmental Science](https://www.ees.hokudai.ac.jp/?lang=en). You may be eligible for an internal fellowship called [Hokkaido University EXEX Doctoral Fellowship](https://sites.google.com/eis.hokudai.ac.jp/exexphd-fellow/)._  
+After obtaining MSc in agriculture, Iqra has been working on the genetics of plant-plant interactions in crop species since 2024.  
 
 ## Master students
 
-_For prospective master students, please check the admission schedule on the official website of [Graduate School of Environmental Science](https://www.ees.hokudai.ac.jp/?lang=en)._  
+_Currently none_  
 
+## Support staff
+
+- **Miho Kawagoe (Administrative assistant)**
 
 ---
 
@@ -146,7 +148,7 @@ Office: B-802 (Group of Ecological Genetics)
 Phone: +81 (0)11 706 4860  
 E-mail: yassato"at"ees.hokudai.ac.jp; yassato36c"at"outlook.com  
 
-![We are in the building of Graduate School of Environmental Science. 10-min walk from Sapporo st.](./photo/EES_googlemap.png)  
+![We are located in the building of Graduate School of Environmental Science.](./photo/EES_googlemap.png)  
   
 ---
 

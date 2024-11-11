@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Last update on 7 October 2024"
+date: "Last update on 11 November 2024"
 output:
   pdf_document: default
   html_document: default
