@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Last update on 11 November 2024"
+date: "Last update on 12 November 2024"
 output:
   pdf_document: default
   html_document: default
@@ -69,7 +69,8 @@ Personal website: https://yassato.github.io/
 1. September 2013–January 2015. External Teaching Assistant of Programming Practical, Faculty of Science and Technology, Ryukoku University, Japan (Role: teaching assistant of R language; No. of participants = 5-10)
 
 ## Panels, boards, and reviewing activities
-1. January 2019–Present. Editorial board member of the Society for the Study of Species Biology, Japan
+1. April 2024–Present. Organizing committee member of the poster presentation for high-school students, Ecological Society of Japan
+1. January 2019–December 2024. Editorial board member of the Society for the Study of Species Biology, Japan
 1. October 2023–November 2024. Guest editor for the special issue "Ecology and Evolution", **_Plant and Cell Physiology_**
 1. April 2020–December 2021. Reviewing editor of **_Journal of Evolutionary Biology_**
 1. December 2022. Organizing committee member of the 52nd symposium of the Study of Species Biology, Japan, <https://sites.google.com/view/sssb2020shiga>
@@ -77,11 +78,12 @@ Personal website: https://yassato.github.io/
 1. Total 54 peer-review activities verified by the Web of Science, <https://www.webofscience.com/wos/author/rid/N-7939-2013>.
 
 ## Active memberships in scientific societies
-1. American Society of Naturalists (Permanent membership since October 2017)
+1. American Society of Naturalists (Lifetime membership since October 2017)
 1. Ecological Society of Japan (October 2011–Present)
-1. Society for the Study of Species Biology (December 2010–Present)
 1. European Society for Evolutionary Biology (April 2020–December 2024)
-1. The Japanese Society of Plant Physiologists (January 2018–Present)
+1. Japanese Society of Plant Physiologists (January 2018–Present)
+1. Society for the Study of Species Biology (December 2010–Present)
+1. Society of Evolutionary Studies, Japan (November 2024–Present)
 
 ## Organization of conferences
 1. December 2019. **Sato Y**, Muranaka T. Cutting-edge technology of plant omics and phenotyping (in Japanese). The 51st Symposium of the Society for the Study of Species Biology, Miyazaki, Japan
