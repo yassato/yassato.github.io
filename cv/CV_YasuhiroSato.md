@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Last update on 12 November 2024"
+date: "Last update on 2 January 2025"
 output:
   pdf_document: default
   html_document: default
@@ -60,6 +60,9 @@ Personal website: https://yassato.github.io/
 1. Dimitri Anderfuhren (Undergraduate internship at the University of Zurich; Role co-supervisor)
 
 ## Teaching experience
+1. April 2024–Present. Environmental Biology II, Hokkaido University, Japan (Role: co-instructor)
+1. April 2024–Present. Fundamental Course in Ecology, Hokkaido University, Japan (Role: co-instructor)
+1. April 2024–Present. Natural Science Experiments, Hokkaido University, Japan (Role: co-instructor)
 1. May 2024. Special Lecture of Agricultural and Environmental Biology, University of Tokyo, Japan (Role: one-time guest lecturer)
 1. September 2021–March 2024. BIO373: Next Generation Sequencing for Evolutionary Functional Genomics, University of Zurich, Switzerland (Role: course management, co-instructor, and examiner; No. of participants = 15-20)
 1. May 2022. BIO334: Practical Bioinformatics, University of Zurich, Switzerland (Role: temporal co-instructor during a sabbatical absence of PI; No. of participants = ca. 25)
@@ -80,7 +83,7 @@ Personal website: https://yassato.github.io/
 ## Active memberships in scientific societies
 1. American Society of Naturalists (Lifetime membership since October 2017)
 1. Ecological Society of Japan (October 2011–Present)
-1. European Society for Evolutionary Biology (April 2020–December 2024)
+1. European Society for Evolutionary Biology (April 2020–December 2025)
 1. Japanese Society of Plant Physiologists (January 2018–Present)
 1. Society for the Study of Species Biology (December 2010–Present)
 1. Society of Evolutionary Studies, Japan (November 2024–Present)
