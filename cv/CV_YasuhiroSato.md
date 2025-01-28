@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Last update on 2 January 2025"
+date: "Last update on 28 January 2025"
 output:
   pdf_document: default
   html_document: default
@@ -52,7 +52,7 @@ Personal website: https://yassato.github.io/
 
 ## Mentoring
 1. Iqra Akram (PhD student at Hokkaido University; Role: supervisor)
-1. Lukas Rohr (Master student at the University of Zurich; Role: supervisor)
+1. Lukas Rohr (Master student at the University of Zurich; Role: co-supervisor)
 1. Dr. Chongmeng Xu (former PhD student at the University of Zurich, PhD defended on 17 April 2023; Role: co-supervisor as 'Leitung der Dissertation')
 1. Elina Jansone (Undergraduate internship at the University of Zurich; Role: supervisor)
 1. Kazuya Takeda (Research assistant at Ryukoku University; Role: daily supervisor as an employer)
@@ -119,39 +119,6 @@ Personal website: https://yassato.github.io/
 1. English (proficient)
 1. Japanese (native speaker)
 
-
-## References
-
-1. **Prof. Dr. Kentaro K. Shimizu**  
-Position: Full Professor  
-Relationship: Postdoc advisor  
-Affiliation: Department of Evolutionary Biology and Environmental Studies (Institut für Evolutionsbiologie und Umweltwissenschaften), University of Zurich, Switzerland  
-Address: Winterthurerstrasse 190, 8057 Zurich, Switzerland  
-Phone: +41 44 635 6740  
-E-mail: kentaro.shimizu@uzh.ch   
-Website: <https://www.ieu.uzh.ch/en/staff/member/shimizu_kentaro.html>  
-Keywords: Evolutionary Genomics, Plant Mating System, Polyploidy
-
-2. **Prof. Dr. Atsushi J. Nagano**  
-Position: Full professor  
-Relationship: Postdoc advisor  
-Affiliation: Faculty of Agriculture, Ryukoku University, Japan (adjunct with Project Professor at the Institute of Advanced Biosciences of Keio University, Japan)  
-Address: Yokotani 1-5, Seta Oe-cho, Otsu, Shiga 520-2194, Japan  
-Phone: +81 77 599 5656  
-E-mail: anagano@agr.ryukoku.ac.jp  
-Website: <https://researchmap.jp/anagano?lang=en>  
-Keywords: Bioinformatics, Transcriptomics, Plant Physiology
-
-3. **Prof. Dr. Hiroshi Kudoh**  
-Position: Full professor  
-Relationship: PhD supervisor  
-Affiliation: Center for Ecological Research, Kyoto University, Japan  
-Address: 509-3, 2-chome, Hirano, Otsu, Shiga 520-2113, Japan  
-Phone: +81 77 549 8255  
-E-mail: kudoh@ecology.kyoto-u.ac.jp  
-Website: <https://www.ecology.kyoto-u.ac.jp/~kudoh/en/index.html>  
-Keywords: Molecular Ecology, Plant Ecology, Flowering Phenology  
-
 ---
 
 # Achievements
@@ -217,7 +184,7 @@ Keywords: Molecular Ecology, Plant Ecology, Flowering Phenology
 1. Kuzuhara H, Takimoto H, **Sato Y**, Kanagawa A. Insect pest detection and identification method based on deep learning for realizing a pest control system. **_The Society of Instrument and Control Engineers (SICE) Annual Conference 2020_**. Chiang Mai, Thailand [changed into an online meeting due to COVID-19] (25 September 2020, talk) 
 1. **Sato Y**. Using personal legacy data to reveal the molting phenology of Japanese cicadas. In: S19 'Ongoing Cicada Research in East Asia' (organized by Prof. J. Yikweon), **_The 8th EAFES International Congress_**, Nagoya, Japan (April 2018, invited talk)
 
-*And the other 7 English posters and 35 contributions in Japanese (4 invited talks, 10 talks and 21 posters)*
+*And the other 7 English posters and 37 contributions in Japanese (5 invited talks, 10 talks and 22 posters)*
 
 ## Outreach activities
 1. Teaching assistant for making a botanical specimen at Japanese School in Zurich (Japanische Schule in Zuerich), Uster, Switzerland. (1 July 2023, in Japanese)
