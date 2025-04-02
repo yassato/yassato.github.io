@@ -35,35 +35,6 @@ Our research often employs statistical tools to untangle complex ecological inte
   
 ---
 
-# Team
-
-## Principal Investigator
-
-### Yasuhiro Sato (Assistant Professor)
-
-<p><div align="left"><img src="./photo/yassato00-2.jpg" class="right" width="300" align="top"></div></p>  
-My research career began at Kyoto University in Japan. After obtaining my PhD in 2016, I experienced two postdoc positions in Japan and a senior postdoc position in Switzerland. Since 2024, I have been appointed as a tenure-track assistant professor at Hokkaido University. My research interests include ecological genetics of biotic interactions involving plants. See also [CV](./cv/CV_YasuhiroSato.pdf) for the full profile.  
-ORCID: [0000-0002-6466-723X](http://orcid.org/0000-0002-6466-723X); ResearcherID: [N-7939-2013](https://www.webofscience.com/wos/author/rid/N-7939-2013)   
-
-## Postdocs 
-
-_Currently none_  
-
-## PhD students
-
-- **Iqra Akram (EXEX Doctoral fellow)**  
-After obtaining MSc in agriculture, Iqra has been working on the genetics of plant-plant interactions in crop species since 2024.  
-
-## Master students
-
-_Currently none_  
-
-## Support staff
-
-- **Miho Kawagoe (Administrative assistant)**
-
----
-
 # Publication
 
 *^†^Equal contribution; \*Correspondence*  
@@ -139,7 +110,39 @@ _Currently none_
 
 1. **Sato Y**, Muranaka T. (eds). (2023) Trans-Scale Biology of Plants: Integrating genomics, phenomics, and ecology to unveil biodiversity (in Japanese). **_Species Biology Series_**, Bun-ichi Sogo Shuppan, Tokyo, Japan. ISBN: 978-4-8299-6210-7.
   
-  
+
+---
+
+# Team
+
+## Principal Investigator
+
+### Yasuhiro Sato (Assistant Professor)
+
+<p><div align="left"><img src="./photo/yassato00-2.jpg" class="right" width="300" align="top"></div></p>  
+My research career began at Kyoto University in Japan. After obtaining my PhD in 2016, I experienced two postdoc positions in Japan and a senior postdoc position in Switzerland. Since 2024, I have been appointed as a tenure-track assistant professor at Hokkaido University. My research interests include ecological genetics of biotic interactions involving plants. See also [CV](./cv/CV_YasuhiroSato.pdf) for the full profile.  
+ORCID: [0000-0002-6466-723X](http://orcid.org/0000-0002-6466-723X); ResearcherID: [N-7939-2013](https://www.webofscience.com/wos/author/rid/N-7939-2013)   
+
+## Postdocs 
+
+- **Dr. Tomoki Ishiguro**  
+Tomoki is cross-appointed with [Prof. Utsumi Lab](https://evo-comm-ecology.com/) and assisting our project of plant-plant interactions.
+
+## PhD students
+
+- **Iqra Akram (EXEX Doctoral fellow)**  
+After obtaining MSc in agriculture, Iqra has been working on the genetics of plant-plant interactions in crop species since 2024.  
+
+## Master students
+
+_Currently none_  
+
+## Support staff
+
+- **Miho Kawagoe (Administrative assistant)**
+
+---
+
 # Contact
 
 Faculty of Environmental Earth Science, Hokkaido University  
@@ -148,7 +151,7 @@ Office: B-802 (Group of Ecological Genetics)
 Phone: +81 (0)11 706 4860  
 E-mail: yassato"at"ees.hokudai.ac.jp; yassato36c"at"outlook.com  
 
-![We are located in the building of Graduate School of Environmental Science.](./photo/EES_googlemap.png)  
+![From GoogleMap: We are located in the building of Graduate School of Environmental Science.](./photo/EES_googlemap.png)  
   
 ---
 

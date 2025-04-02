@@ -4,64 +4,91 @@ output: rmdformats::robobook
 ---
 
 [[英語]](index.html) [[日本語]](index_jp.html)  
+  
+---
+
+# 研究内容
+生物情報学の技術を使って植物を取りまく生態現象を解きほぐす研究を行っています。野外における生物の環境応答や生物間の相互作用は量的な変異をともなった複雑な形質です。取り扱いのむずかしい生態現象にオミクス科学を応用することで、現象の背後にある遺伝的基盤を定量的に理解することを目指しています。  
+
+最近は特に以下の研究テーマに興味をもって取り組んでいます。
+
+- 植物の個体間相互作用に関する量的遺伝学（Sato et al. 2024 Nature Communications他；プレスリリース記事は[こちら](<https://www.hokudai.ac.jp/news/pdf/241008_pr.pdf>)から）
+- 植物防御の進化生態学（Sato & Kudoh 2017 American Naturalist他）
+- 生態学・進化生物学・遺伝学におけるデータ解析（Sato et al. 2023 Evolution; Sato et al. 2017 Functional Ecology他）  
+
+
+その他、興味の方向性としては以下の書籍が参考になります。日本語で読めるので、お手に取って頂けると幸いです。  
+
+![種生物学会編（佐藤・村中責任編集）『植物の超階層生物学』[文一総合出版](https://www.bun-ichi.co.jp/tabid/57/pdid/978-4-8299-6210-7/Default.aspx)](./photo/sssb6210-7.jpg){width=30%}  
+  
+  
+---
+
+# 業績
+
+＊業績一覧は[researchmap](https://researchmap.jp/yassatojpn/?lang=japanese)で更新しています。以下は研究内容に関連した主な論文です。  
+
+1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Schmid B, Nagano AJ, Shimizu KK. (2024) Reducing herbivory in mixed planting by genomic prediction of neighbor effects in the field. **_Nature Communications_** 15:8467. <https://doi.org/10.1038/s41467-024-52374-7> 
+
+1. **Sato Y**, Takahashi Y, Xu C, Shimizu KK. (2023) Detecting frequency-dependent selection through the effects of genotype similarity on fitness components. **_Evolution_** 77:1145–1157. <https://doi.org/10.1093/evolut/qpad028> 
+
+1. **Sato Y**, Yamamoto E, Shimizu KK, Nagano AJ. (2021) Neighbor GWAS: incorporating neighbor genotypic identity into genome-wide association studies of field herbivory. **_Heredity_** 126(4):597–614. <https://doi.org/10.1038/s41437-020-00401-w>   
+
+1. **Sato Y**, Ito K, Kudoh H. (2017) Optimal foraging by herbivores maintains polymorphism in defence in a natural plant population. **_Functional Ecology_** 31(12):2233-2243. <https://doi.org/10.1111/1365-2435.12937>  
+
+1. **Sato Y**, Kudoh H. (2017) Herbivore-mediated interaction promotes the maintenance of trichome dimorphism through negative frequency-dependent selection. **_The American Naturalist_** 190(3):E67-E77. <https://doi.org/10.1086/692603>  
+
+
+---
+
+# 構成員
+
+＊当研究室は2024年に発足したばかりです。研究内容に興味を持たれた方は下記の連絡先から佐藤までご連絡下さい。入試や採用情報も下記の外部リンクにあります。  
+
+### 研究室主宰者
+
+<p><div align="left"><img src="./photo/yassato00-2.jpg" class="right" width="300" align="top"></div></p>  
+佐藤　安弘　（サトウ　ヤスヒロ）  
+2016年に京都大学にて博士（理学）を取得。龍谷大学にて日本学術振興会特別研究員および科学技術振興機構さきがけ研究者、スイス・チューリッヒ大学にて助手を経験した後、2024年より北海道大学テニュアトラック助教。専門は植物を中心とした生態遺伝学。  
+
+### 博士研究員
+- 石黒　智基（学術研究員；[内海研究室](https://evo-comm-ecology.com/)と兼任）
+
+
+### 学生
+- AKRAM, Iqra（博士後期課程；北海道大学EXEXフェロー受給生）
+
+### 補佐員
+- 川越　未歩（事務補助員；[内海研究室](https://evo-comm-ecology.com/)と兼任）
+  
+---
 
 # 連絡先
 北海道大学大学院　地球環境科学研究院　環境生物科学部門　生態遺伝学分野  
 〒060-0810　北海道札幌市北区北10条西5丁目　地球環境科学研究院B棟802室  
 E-mail: yassato(あっと)ees.hokudai.ac.jp; yassato36c(あっと)outlook.com  
 研究者情報: ORCID:[0000-0002-6466-723X](http://orcid.org/0000-0002-6466-723X); [researchmap](https://researchmap.jp/yassatojpn/?lang=japanese); [Google scholar citations](https://scholar.google.co.jp/citations?hl=ja&user=HbrGYr8AAAAJ&view_op=list_works&sortby=pubdate); [ResearcherID](https://www.webofscience.com/wos/author/rid/N-7939-2013)  
-  
-  
-# 研究内容
-生物情報学の技術を使って植物を取りまく生態現象を解きほぐす研究を行っています。野外における生物の環境応答や生物間の相互作用は量的な変異をともなった複雑な形質です。取り扱いのむずかしい生態現象にオミクス科学を応用することで、現象の背後にある遺伝的基盤を定量的に理解することを目指しています。  
 
-特に以下の研究テーマに興味をもって取り組んでいます。最近の研究を日本語で紹介した文章は、[北海道大学のプレスリリースサイト](<https://www.hokudai.ac.jp/news/pdf/241008_pr.pdf>)から読めます。  
+![JR札幌駅から徒歩10分程度に位置する環境科学院の建物内です（GoogleMap調べ）](./photo/EES_googlemap.png)
 
-- 植物の個体間相互作用に関する量的遺伝学（Sato et al. 2021 Heredity; Sato et al. 2024 Nature Communications; Sato & Wuest 2024 Plant and Cell Physiology他）
-- 植物防御の進化生態学（Sato & Kudoh 2017 American Naturalist; Sato et al. 2017 Functional Ecology; Sato 2018 Plant Species Biology他）
-- 生態学・進化生物学・遺伝学におけるデータ解析（Sato et al. 2023 Evolution; Takimoto & Sato et al. 2021 Ecological Informatics他）  
+---
 
-
-その他、興味の方向性としては以下の書籍が参考になるかと思います。日本語で読めるので、お手に取って頂けると幸いです。  
-
-![種生物学会編（佐藤・村中責任編集）『植物の超階層生物学』[文一総合出版](https://www.bun-ichi.co.jp/tabid/57/pdid/978-4-8299-6210-7/Default.aspx)](./photo/sssb6210-7.jpg){width=30%}  
-  
-  
-  
-# 構成員
-
-＊当研究室は2024年に発足したばかりです。興味を持たれた方は上記連絡先を参照のうえ、佐藤までご連絡下さい。  
-
-### 研究室主宰者
-
-佐藤　安弘　（サトウ　ヤスヒロ）  
-2016年に京都大学にて博士（理学）を取得。龍谷大学にて日本学術振興会特別研究員および科学技術振興機構さきがけ研究者、スイス・チューリッヒ大学にて助手を経験した後、2024年より北海道大学テニュアトラック助教。専門は植物を中心とした生態遺伝学。  
-
-### 博士研究員
-現在0名で、プロジェクト研究員の募集はありません。学振PD等の受け入れは可能です。
-
-### 学生
-現在、博士後期課程1名、修士課程0名、学部生0名です。詳細は英語ページを御覧下さい。
-
-### 補佐員
-現在、事務補佐員1名に週1日程度の業務を補助して頂いております。
-
-# 業績
-＊日本語の業績一覧は[researchmap](https://researchmap.jp/yassatojpn/?lang=japanese)にて更新しています。
-  
 # 外部リンク
 
-1. [北海道大学大学院環境科学院・地球環境科学研究院](https://www.ees.hokudai.ac.jp/)  
-所属大学院の公式ホームページです。大学院入試の情報もこちらから得られます。当研究室への配属を希望する場合は事前にご連絡下さい。
+1. [北海道大学大学院環境科学院　地球環境科学研究院](https://www.ees.hokudai.ac.jp/)  
+所属大学院の公式ホームページです。大学院入試の情報もこちらから得られます。当研究室への配属を希望する場合は事前にご相談下さい。
 
-2. [北海道大学理学部・生物科学科（生物学専修）](https://www2.sci.hokudai.ac.jp/dept/bio/teacher/sato-yasuhiro)  
+2. [北海道大学理学部　生物科学科（生物学専修）](https://www2.sci.hokudai.ac.jp/dept/bio/teacher/sato-yasuhiro)  
 兼務先学部の教員紹介ページです。講義等を聴いて興味が湧いたら気軽にご連絡下さい。
 
-3. [北海道大学EXEX博士人材フェローシップポータルサイト](https://sites.google.com/eis.hokudai.ac.jp/exexphd-fellow/)  
-在学中の博士学生を対象としたフェローシップです。博士課程での配属を考える方はご検討下さい。  
+3. [北海道大学　EXEX博士人材フェローシップポータルサイト](https://sites.google.com/eis.hokudai.ac.jp/exexphd-fellow/)  
+北海道大学に在学中の博士学生を対象としたフェローシップです。博士課程での配属を考える方は入試と合わせてご検討下さい。  
 
-4. [日本学術振興会・特別研究員](https://www.jsps.go.jp/j-pd/)  
+4. [日本学術振興会　特別研究員](https://www.jsps.go.jp/j-pd/)  
 学振DCやPDの受け入れも可能です。興味のある方は事前にご相談下さい。  
+
+5. [科学技術振興機構　創発的研究支援事業（JST創発）](https://www.jst.go.jp/souhatsu/)  
+現在採択中の研究費です。一緒に研究課題に取り組む大学院生RAを募集しています（例年2月頃募集締切）。枠に限りがありますので、興味がある場合は入試と合わせて事前にご相談下さい。
 
 ---
   

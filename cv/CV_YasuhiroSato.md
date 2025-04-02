@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Last update on 28 January 2025"
+date: "Last update on 1 April 2025"
 output:
   pdf_document: default
   html_document: default
@@ -72,18 +72,19 @@ Personal website: https://yassato.github.io/
 1. September 2013–January 2015. External Teaching Assistant of Programming Practical, Faculty of Science and Technology, Ryukoku University, Japan (Role: teaching assistant of R language; No. of participants = 5-10)
 
 ## Panels, boards, and reviewing activities
+1. April 2025–Present. Associate Editor of **_Plant Species Biology_**
 1. April 2024–Present. Organizing committee member of the poster presentation for high-school students, Ecological Society of Japan
 1. January 2019–December 2024. Editorial board member of the Society for the Study of Species Biology, Japan
-1. October 2023–November 2024. Guest editor for the special issue "Ecology and Evolution", **_Plant and Cell Physiology_**
+1. October 2023–November 2024. Guest editor for the special issue "Ecology and Evolution" in **_Plant and Cell Physiology_**
 1. April 2020–December 2021. Reviewing editor of **_Journal of Evolutionary Biology_**
 1. December 2022. Organizing committee member of the 52nd symposium of the Study of Species Biology, Japan, <https://sites.google.com/view/sssb2020shiga>
 1. November 2016. Organizing committee member of 5th Japan-Taiwan Ecology Workshop, Kyoto, Japan, <https://sites.google.com/site/jtecolw5th/>
 1. Total 54 peer-review activities verified by the Web of Science, <https://www.webofscience.com/wos/author/rid/N-7939-2013>.
 
 ## Active memberships in scientific societies
-1. American Society of Naturalists (Lifetime membership since October 2017)
+1. American Society of Naturalists (October 2017–Present)
 1. Ecological Society of Japan (October 2011–Present)
-1. European Society for Evolutionary Biology (April 2020–December 2025)
+1. European Society for Evolutionary Biology (December 2020–Present)
 1. Japanese Society of Plant Physiologists (January 2018–Present)
 1. Society for the Study of Species Biology (December 2010–Present)
 1. Society of Evolutionary Studies, Japan (November 2024–Present)
@@ -105,8 +106,8 @@ Personal website: https://yassato.github.io/
 
 **License**  
 
-1. Swiss driver license
 1. Japanese diver license
+1. Swiss driver license
 
 **Computer languages**  
 
@@ -173,6 +174,7 @@ Personal website: https://yassato.github.io/
 *And the other source codes for published research, personal utilities, and teaching materials are available at the GitHub repository, <https://github.com/yassato>*
 
 ## Conference contributions
+1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Nagano AJ, Shimizu KK. Genomic prediction of neighbor effects identifies key genotype pairs responsible for reduced herbivory in mixed planting. **_72nd Annual Meeting of Ecological Society of Japan_**, Sapporo, Hokkaido, Japan (17 March 2025, talk)
 1. **Sato Y**, Takahashi Y, Xu C, Shimizu KK. Detecting frequency-dependent selection through the effects of genotype similarity on fitness components. **_biology^24^: The largest conference of organismal biology in Switzerland_**, ETH Zurich, Switzerland (19 January 2024, poster)
 1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Nagano AJ, Shimizu KK. Genome-wide neighbor effects predict genotype pairs reducing herbivory in mixed planting. **_Biodiversity Convention - From Science to Implementation_**, Monte Verita, Ascona, Switzerland (27 June 2023, talk)
 1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Nagano AJ, Shimizu KK. Keystone pairs of *Arabidopsis* accessions increase plant resistance to field herbivory. In Concurrent 15: *Arabidopsis* relatives from laboratories to natural fields (organized by Prof. K.K. Shimizu and H. Kudoh). **_The 33rd International Conference on Arabidopsis Research (ICAR2023)_**, Chiba, Japan (7 June 2023, talk)
@@ -184,7 +186,7 @@ Personal website: https://yassato.github.io/
 1. Kuzuhara H, Takimoto H, **Sato Y**, Kanagawa A. Insect pest detection and identification method based on deep learning for realizing a pest control system. **_The Society of Instrument and Control Engineers (SICE) Annual Conference 2020_**. Chiang Mai, Thailand [changed into an online meeting due to COVID-19] (25 September 2020, talk) 
 1. **Sato Y**. Using personal legacy data to reveal the molting phenology of Japanese cicadas. In: S19 'Ongoing Cicada Research in East Asia' (organized by Prof. J. Yikweon), **_The 8th EAFES International Congress_**, Nagoya, Japan (April 2018, invited talk)
 
-*And the other 7 English posters and 37 contributions in Japanese (5 invited talks, 10 talks and 22 posters)*
+*And the other 7 English posters and 37 contributions in Japanese (5 invited talks, 10 talks and 23 posters)*
 
 ## Outreach activities
 1. Teaching assistant for making a botanical specimen at Japanese School in Zurich (Japanische Schule in Zuerich), Uster, Switzerland. (1 July 2023, in Japanese)
