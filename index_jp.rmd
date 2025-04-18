@@ -5,19 +5,25 @@ output: rmdformats::robobook
 
 [[英語]](index.html) [[日本語]](index_jp.html)  
   
+### ニュース
+最近の出来事はX(旧Twitter)[@yassatojpn](https://x.com/yassatojpn)で更新しています。
+
 ---
 
 # 研究内容
+  
+![](./photo/photojpn.jpg)
+
 生物情報学の技術を使って植物を取りまく生態現象を解きほぐす研究を行っています。野外における生物の環境応答や生物間の相互作用は量的な変異をともなった複雑な形質です。取り扱いのむずかしい生態現象にオミクス科学を応用することで、現象の背後にある遺伝的基盤を定量的に理解することを目指しています。  
 
 最近は特に以下の研究テーマに興味をもって取り組んでいます。
 
-- 植物の個体間相互作用に関する量的遺伝学（Sato et al. 2024 Nature Communications他；プレスリリース記事は[こちら](<https://www.hokudai.ac.jp/news/pdf/241008_pr.pdf>)から）
-- 植物防御の進化生態学（Sato & Kudoh 2017 American Naturalist他）
-- 生態学・進化生物学・遺伝学におけるデータ解析（Sato et al. 2023 Evolution; Sato et al. 2017 Functional Ecology他）  
+1. 植物の個体間相互作用に関する量的遺伝学（Sato et al. 2024 Nature Communications他；プレスリリース記事は[こちら](<https://www.hokudai.ac.jp/news/pdf/241008_pr.pdf>)から）
+1. 植物防御の進化生態学（Sato & Kudoh 2017 American Naturalist他）
+1. 生態学・進化生物学・遺伝学におけるデータ解析（Sato et al. 2023 Evolution; Sato et al. 2017 Functional Ecology他）  
 
 
-その他、興味の方向性としては以下の書籍が参考になります。日本語で読めるので、お手に取って頂けると幸いです。  
+その他、興味の方向性としては以下の書籍が参考になります。日本語で読めるので、ぜひお手に取って頂けると幸いです。  
 
 ![種生物学会編（佐藤・村中責任編集）『植物の超階層生物学』[文一総合出版](https://www.bun-ichi.co.jp/tabid/57/pdid/978-4-8299-6210-7/Default.aspx)](./photo/sssb6210-7.jpg){width=30%}  
   
