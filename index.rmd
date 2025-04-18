@@ -1,6 +1,6 @@
 ---
 title: Quantitative Ecological Genetics (QEcoGen Lab)
-output: rmdformats::robobook
+output: rmdformats::readthedown
 ---
 
 [[English]](index.html) [[Japanese]](index_jp.html)  

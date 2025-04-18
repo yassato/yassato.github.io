@@ -1,6 +1,6 @@
 ---
 title: 定量生態遺伝学研究室
-output: rmdformats::robobook
+output: rmdformats::readthedown
 ---
 
 [[英語]](index.html) [[日本語]](index_jp.html)  
@@ -23,7 +23,7 @@ output: rmdformats::robobook
 1. 生態学・進化生物学・遺伝学におけるデータ解析（Sato et al. 2023 Evolution; Sato et al. 2017 Functional Ecology他）  
 
 
-その他、興味の方向性としては以下の書籍が参考になります。日本語で読めるので、ぜひお手に取って頂けると幸いです。  
+その他、興味の方向性としては以下の書籍が参考になります。日本語で読めるので、お手に取って頂けると幸いです。  
 
 ![種生物学会編（佐藤・村中責任編集）『植物の超階層生物学』[文一総合出版](https://www.bun-ichi.co.jp/tabid/57/pdid/978-4-8299-6210-7/Default.aspx)](./photo/sssb6210-7.jpg){width=30%}  
   
