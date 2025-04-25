@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Last update on 18 April 2025"
+date: "Last update on 25 April 2025"
 output:
   pdf_document: default
   html_document: default
@@ -194,6 +194,7 @@ Personal website: https://yassato.github.io/
 *-> Plain-text Japanese summary of Sato and Sato (2015) Annals of the Entomological Society of America 108(4):494–500.*
 
 ## Preprint
-_Currently none_
+
+1. Akram I, Rohr L, Shimizu KK, Shimizu-Inatsugi R, **Sato Y**\*. (2025) Spatial heterogeneity of disease infection attributable to neighbor genotypic identity in barley cultivars. **_bioRxiv_** <https://doi.org/10.1101/2025.04.22.650038>  
 
 

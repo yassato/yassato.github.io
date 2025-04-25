@@ -42,7 +42,7 @@ Our research often employs statistical tools to untangle complex ecological inte
 
 ## Preprint
 
-_Currently none_
+1. Akram I, Rohr L, Shimizu KK, Shimizu-Inatsugi R, **Sato Y**\*. (2025) Spatial heterogeneity of disease infection attributable to neighbor genotypic identity in barley cultivars. **_bioRxiv_** <https://doi.org/10.1101/2025.04.22.650038>  
 
 ## Peer-reviewed articles
 
