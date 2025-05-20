@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Last update on 19 May 2025"
+date: "Last update on 20 May 2025"
 output:
   pdf_document: default
   html_document: default
@@ -60,6 +60,7 @@ Personal website: https://yassato.github.io/
 1. Dimitri Anderfuhren (Undergraduate internship at the University of Zurich; Role co-supervisor)
 
 ## Teaching experience
+1. April 2025–Present. Introduction to Environmental Earth Science, Hokkaido University, Japan (Role: co-instructor)
 1. April 2024–Present. Environmental Biology II, Hokkaido University, Japan (Role: co-instructor)
 1. April 2024–Present. Fundamental Course in Ecology, Hokkaido University, Japan (Role: co-instructor)
 1. April 2024–Present. Natural Science Experiments, Hokkaido University, Japan (Role: co-instructor)
