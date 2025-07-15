@@ -11,6 +11,8 @@ Welcome, we are studying plant ecological genetics with quantitative tools. Our 
 ### News
 See [Bluesky@yassato.bsky.social](https://bsky.app/profile/yassato.bsky.social)
   
+<br>
+
 ---
 
 # Research
@@ -33,6 +35,8 @@ Plants develop various defense traits against herbivores. Such anti-herbivore de
 Our research often employs statistical tools to untangle complex ecological interactions. This experience enables us to not only develop new methods (Sato et al. 2023 Evolution) but also collaborate with other research areas (e.g., Takimoto & Sato et al. 2021 Ecological Informatics). Data from plant ecology and genomics are especially welcome for potential collaboration.  
   
   
+<br>
+
 ---
 
 # Publication
@@ -112,6 +116,8 @@ Our research often employs statistical tools to untangle complex ecological inte
 
 1. **Sato Y**, Muranaka T. (eds). (2023) Trans-Scale Biology of Plants: Integrating genomics, phenomics, and ecology to unveil biodiversity (in Japanese). **_Species Biology Series_**, Bun-ichi Sogo Shuppan, Tokyo, Japan. ISBN: 978-4-8299-6210-7.
   
+<br>
+
 
 ---
 
@@ -142,6 +148,8 @@ _Currently none_
 ## Support staff
 
 - **Miho Kawagoe (Administrative assistant)**
+  
+<br>
 
 ---
 

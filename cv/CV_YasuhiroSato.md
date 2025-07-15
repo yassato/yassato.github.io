@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Last update on 20 May 2025"
+date: "Last update on 15 July 2025"
 output:
   pdf_document: default
   html_document: default
@@ -175,6 +175,7 @@ Personal website: https://yassato.github.io/
 *And the other source codes for published research, personal utilities, and teaching materials are available at the GitHub repository, <https://github.com/yassato>*
 
 ## Conference contributions
+1. **Sato Y**. Linking frequency-dependent selection and overyielding through genome-wide association study of plant neighborhood effects. **_Evolution 2025 Virtual Conference_** (29 May 2025, online talk)
 1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Nagano AJ, Shimizu KK. Genomic prediction of neighbor effects identifies key genotype pairs responsible for reduced herbivory in mixed planting. **_72nd Annual Meeting of Ecological Society of Japan_**, Sapporo, Hokkaido, Japan (17 March 2025, talk)
 1. **Sato Y**, Takahashi Y, Xu C, Shimizu KK. Detecting frequency-dependent selection through the effects of genotype similarity on fitness components. **_biology^24^: The largest conference of organismal biology in Switzerland_**, ETH Zurich, Switzerland (19 January 2024, poster)
 1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Nagano AJ, Shimizu KK. Genome-wide neighbor effects predict genotype pairs reducing herbivory in mixed planting. **_Biodiversity Convention - From Science to Implementation_**, Monte Verita, Ascona, Switzerland (27 June 2023, talk)
@@ -190,6 +191,7 @@ Personal website: https://yassato.github.io/
 *And the other 7 English posters and 37 contributions in Japanese (5 invited talks, 10 talks and 23 posters)*
 
 ## Outreach activities
+1. "Exhibition of _Arabidopsis thaliana_ worldwide" at the Faculty of Environmental Earth Science, Hokkaido University, Japan (8 June 2025, in Japanese)
 1. Teaching assistant for making a botanical specimen at Japanese School in Zurich (Japanische Schule in Zuerich), Uster, Switzerland. (1 July 2023, in Japanese)
 1. **Sato Y**, Sato S. (2016) 12-years cicada monitoring. **_Proceedings of the Natural History Museum Mt. Fujiwara_** 38:1–5 (in Japanese)  
 *-> Plain-text Japanese summary of Sato and Sato (2015) Annals of the Entomological Society of America 108(4):494–500.*

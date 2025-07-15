@@ -7,6 +7,8 @@ output: rmdformats::robobook
   
 #  ようこそ
 こちらは佐藤研究室のホームページです。私達は北海道大学地球環境科学研究院で植物の生態遺伝学に関する研究を行っています。最近の出来事はX(旧Twitter)[@yassatojpn](https://x.com/yassatojpn)で更新しています。
+  
+<br>
 
 ---
 
@@ -27,7 +29,8 @@ output: rmdformats::robobook
 
 ![種生物学会編（佐藤・村中責任編集）『植物の超階層生物学』[文一総合出版](https://www.bun-ichi.co.jp/tabid/57/pdid/978-4-8299-6210-7/Default.aspx)](./photo/sssb6210-7.jpg){width=30%}  
   
-  
+<br>
+
 ---
 
 # 業績
@@ -43,7 +46,8 @@ output: rmdformats::robobook
 1. **Sato Y**, Ito K, Kudoh H. (2017) Optimal foraging by herbivores maintains polymorphism in defence in a natural plant population. **_Functional Ecology_** 31(12):2233-2243. <https://doi.org/10.1111/1365-2435.12937>  
 
 1. **Sato Y**, Kudoh H. (2017) Herbivore-mediated interaction promotes the maintenance of trichome dimorphism through negative frequency-dependent selection. **_The American Naturalist_** 190(3):E67-E77. <https://doi.org/10.1086/692603>  
-
+  
+<br>
 
 ---
 
@@ -67,6 +71,8 @@ output: rmdformats::robobook
 ### 補佐員
 - 川越　未歩（事務補助員；[内海研究室](https://evo-comm-ecology.com/)と兼任）
   
+<br>
+
 ---
 
 # 連絡先
