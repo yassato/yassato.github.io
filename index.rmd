@@ -6,7 +6,7 @@ output: rmdformats::robobook
 [[English]](index.html) [[Japanese]](index_jp.html)  
 
 # Home
-Welcome, we are studying plant ecological genetics with quantitative tools. Our lab is located in the Sapporo campus of Hokkaido University, Japan. Admission schedule for prospective graduate students is available on the official website of [Graduate School of Environmental Science](https://www.ees.hokudai.ac.jp/?lang=en). PhD candidates may be eligible for an internal fellowship called [Hokkaido University EXEX Doctoral Fellowship](https://sites.google.com/eis.hokudai.ac.jp/exexphd-fellow/). Currently we have no open call for postdoc positions, but you can consider [JSPS Postdoctoral Fellowships](https://www.jsps.go.jp/english/e-fellow/) to join our group. If you have any inquiries, please contact Yasuhiro Sato (yassato"at"ees.hokudai.ac.jp).  
+Welcome, we are studying plant ecological genetics with quantitative tools. Our lab is located in the Sapporo campus of Hokkaido University, Japan. Admission schedule for prospective graduate students is available on the official website of [Graduate School of Environmental Science](https://www.ees.hokudai.ac.jp/?lang=en). For scholarship information, please see the website of [Ministry of Education, Culture, Sports, Science and Technology (MEXT)](https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm). Currently we have no open call for postdoc positions, but you may consider [JSPS International Fellowships](https://www.jsps.go.jp/english/e-fellow/). If you wish to join our group, please send your CV and research interest to Yasuhiro Sato (yassato"at"ees.hokudai.ac.jp).  
    
 ### News
 See [Bluesky@yassato.bsky.social](https://bsky.app/profile/yassato.bsky.social)
