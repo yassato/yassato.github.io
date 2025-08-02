@@ -3,17 +3,18 @@ title: 定量生態遺伝学研究室
 output: rmdformats::material
 ---
 
-[[英語]](index.html) [[日本語]](index_jp.html)  
-  
 #  ようこそ
 
 ## 定量生態遺伝学研究室
 
 こちらは佐藤研究室のホームページです。私達は北海道大学地球環境科学研究院で植物の生態遺伝学に関する研究を行っています。最近の出来事はX(旧Twitter)[@yassatojpn](https://x.com/yassatojpn)で更新しています。研究内容に興味を持たれた方は「連絡先」をご確認の上、佐藤までご連絡下さい。
-  
+
 <br>
 
 ---
+
+<p align="center"><sup>(c) 2013- Yasuhiro Sato, All rights reserved.</sup></p>
+
 
 # 研究内容
 
@@ -109,7 +110,12 @@ E-mail: yassato(あっと)ees.hokudai.ac.jp; yassato36c(あっと)outlook.com
 現在採択中の研究費です。一緒に研究課題に取り組む大学院生RAを募集しています（例年2月頃募集締切）。枠に限りがありますので、興味がある場合は入試と合わせて事前にご相談下さい。
 
 ---
+
+# EN
+
+英語ページはこちらです -> [[English]](index.html)
+
+---
   
-<p align="center"><sup>(c) 2013- Yasuhiro Sato, All rights reserved.</sup></p>  
 
 

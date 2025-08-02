@@ -3,8 +3,6 @@ title: QEcoGen Lab
 output: rmdformats::material
 ---
 
-[[English]](index.html) [[Japanese]](index_jp.html)  
-
 # Home
 
 ## Laboratory of Quantitative Ecological Genetics (QEcoGen)
@@ -17,6 +15,9 @@ See [Bluesky@yassato.bsky.social](https://bsky.app/profile/yassato.bsky.social)
 <br>
 
 ---
+
+<p align="center"><sup>(c) 2013- Yasuhiro Sato, All rights reserved.</sup></p>  
+
 
 # Research
 
@@ -168,5 +169,10 @@ E-mail: yassato"at"ees.hokudai.ac.jp; yassato36c"at"outlook.com
   
 ---
 
-<p align="center"><sup>(c) 2013- Yasuhiro Sato, All rights reserved.</sup></p>  
+# JP
+
+Japanese version is available here（日本語版はこちらです）-> [[Japanese]](index_jp.html)
+
+---
+
 
