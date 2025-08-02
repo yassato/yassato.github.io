@@ -1,0 +1,25 @@
+:root {
+  --main-bg-color: blue;
+}
+
+#sidebar {
+  background: black;
+}
+
+#postamble {
+  background: var(--main-bg-color);
+  border-top: solid 10px var(--main-bg-color);
+}
+
+.title {
+  color: var(--main-bg-color);
+  text-align: center;
+}
+
+#sidebar h2 {
+  background-color: var(--main-bg-color);
+}
+
+h1, h2, h3, h4, h5, h6, legend {
+  color: black;
+}
