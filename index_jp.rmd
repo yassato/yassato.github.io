@@ -1,19 +1,20 @@
 ---
 title: 定量生態遺伝学研究室
-output: rmdformats::material
+output: rmdformats::readthedown
+author: (c) 2013- Y. Sato, All rights reserved.
+css: custom.css
 ---
 
 #  ようこそ
 
 ## 定量生態遺伝学研究室
 
-こちらは佐藤研究室のホームページです。私達は北海道大学地球環境科学研究院で植物の生態遺伝学に関する研究を行っています。最近の出来事はX(旧Twitter)[@yassatojpn](https://x.com/yassatojpn)で更新しています。研究内容に興味を持たれた方は「連絡先」をご確認の上、佐藤までご連絡下さい。
+こちらは佐藤研究室のホームページです。私達は北海道大学地球環境科学研究院で植物の生態遺伝学に関する研究を行っています。研究内容に興味を持たれた方は「連絡先」をご確認の上、佐藤までご連絡下さい。
+
 
 <br>
 
 ---
-
-<p align="center"><sup>(c) 2013- Yasuhiro Sato, All rights reserved.</sup></p>
 
 
 # 研究内容
@@ -29,7 +30,7 @@ output: rmdformats::material
 
 その他、興味の方向性としては以下の書籍が参考になります。日本語で読めるので、お手に取って頂けると幸いです。  
 
-![種生物学会編（佐藤・村中責任編集）『植物の超階層生物学』[文一総合出版](https://www.bun-ichi.co.jp/tabid/57/pdid/978-4-8299-6210-7/Default.aspx)](./photo/sssb6210-7.jpg)  
+![種生物学会編（佐藤・村中責任編集）『植物の超階層生物学』[文一総合出版](https://www.bun-ichi.co.jp/tabid/57/pdid/978-4-8299-6210-7/Default.aspx)](./photo/sssb6210-7.jpg){width="50%"}  
   
 <br>
 
@@ -83,7 +84,7 @@ output: rmdformats::material
 E-mail: yassato(あっと)ees.hokudai.ac.jp; yassato36c(あっと)outlook.com  
 研究者情報: ORCID:[0000-0002-6466-723X](http://orcid.org/0000-0002-6466-723X); [researchmap](https://researchmap.jp/yassatojpn/?lang=japanese); [Google scholar citations](https://scholar.google.co.jp/citations?hl=ja&user=HbrGYr8AAAAJ&view_op=list_works&sortby=pubdate); [ResearcherID](https://www.webofscience.com/wos/author/rid/N-7939-2013)  
 
-![JR札幌駅から徒歩10分程度に位置する環境科学院の建物内です（GoogleMap調べ）](./photo/EES_googlemap.png)
+![JR札幌駅から徒歩10分程度に位置する環境科学院の建物内です（GoogleMap調べ）](./photo/EES_googlemap.png){width="50%"}
 
 ---
 
