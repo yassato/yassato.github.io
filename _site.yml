@@ -1,0 +1,27 @@
+name: "QEcoGen Lab"
+navbar: 
+  title: "QEcoGen Lab"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Publication"
+      href: publication.html
+    - text: "Team"
+      href: team.html
+  right:
+    - text: "日本語(Japanese)"
+      href: japanese.html
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: true
+    toc_float:
+      collapse: false
+    df_print: "kable"
+    include:
+      after_body: footer.html
+    css: site_style.css
+output_dir: "docs"

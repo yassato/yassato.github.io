@@ -1,163 +1,16 @@
 ---
-title: QEcoGen Lab
-output: rmdformats::readthedown
-author: (c) 2013- Yasuhiro Sato
-css: custom.css
+title: Laboratory of Quantitative Ecological Genetics (QEcoGen Lab)
 ---
 
-# Home
+<br>
 
-## Laboratory of Quantitative Ecological Genetics (QEcoGen)
+## About us
 
 Welcome, we are studying plant ecological genetics with quantitative tools. Our lab is located in the Sapporo campus of Hokkaido University, Japan. Admission schedule for prospective graduate students is available on the official website of [Graduate School of Environmental Science](https://www.ees.hokudai.ac.jp/?lang=en). For scholarship information, please see the website of [Ministry of Education, Culture, Sports, Science and Technology (MEXT)](https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm). Currently we have no open call for postdoc positions, but you may consider [JSPS International Fellowships](https://www.jsps.go.jp/english/e-fellow/). If you wish to join our group, please send your CV and research interest to Yasuhiro Sato (yassato"at"ees.hokudai.ac.jp).  
-   
-### News
-See [Bluesky@yassato.bsky.social](https://bsky.app/profile/yassato.bsky.social)
-  
+
 <br>
 
----
-
-
-# Research
-
-### **Quantitative Ecological Genetics of Biotic Interaction**  
-We are interested in how genetic variation shapes, and is shaped by, biotic interactions. To analyze quantitative genetic variation in complex ecological traits, our research employs cutting-edge tools of computational biology and functional genomics. Currently, we are working on plants and insects, but other projects involving biotic interactions are also welcome.  
-**Keywords: Plant Ecology, Quantitative Genetics, Biotic Interaction**  
-
-#### **1. Quantitative Genetics of Plant-Plant Interaction**  
-Plants cannot escape from neighboring individuals in the field, making plant-plant interactions unavoidable in a local space. Despite the prevalence of neighboring plant-plant interactions, these interactions are not always attributable to a single trait or gene. To dissect the genetic architecture of intraspecific plant-plant interactions, we developed new methods named "Neighbor GWAS" (Sato et al. 2021 Heredity) and "Neighbor QTL" (Sato et al. 2021 G3). These methods are being applied to the analysis of insect herbivory and communities on *Arabidopsis thaliana* accessions (Sato et al. 2024 Nature Communications) in addition to other quantitative traits in crops, trees, etc... We are also seeking the potential application of intraspecific plant-plant interactions to improve plant resistance and yield by mixed planting.  
-
-![Field experiment using *Arabidopsis thaliana* accessions. Modified from Sato et al. (2021) Heredity](./photo/AraGWAS_JPNplot.jpg){width="50%"}
-  
-#### **2. Evolutionary Ecology of Plant Defense Against Herbivores**  
-Plants develop various defense traits against herbivores. Such anti-herbivore defense traits exhibit polymorphisms within a natural plant population, which leads us to ask how these polymorphisms can be maintained in nature. By focusing on neighboring plants, we found that hairy plants were less damaged by a leaf beetle when surrounded by glabrous plants in the wild herb *Arabidopsis halleri*. Such neighbor effects further exerted negative frequency-dependent selection on *GLABRA1*-based trichome dimorphism (Sato & Kudoh 2017 American Naturalist; Sato et al. 2017 Functional Ecology). These findings highlight the importance of neighbor effects in the maintenance of genetic variation in anti-herbivore defense traits (reviewed in Sato 2018 Plant Species Biology).  
-
-![Hairy *Arabidopsis halleri* (left) and larval *Phaedon brassicae* (right) from [Plant Species Biology Vol. 33(2)](https://esj-journals.onlinelibrary.wiley.com/toc/14421984/2018/33/2)](./photo/psbi12186-toc-0001-m_coverphoto.jpg){width="25%"}
-
-#### **3. Data Analysis in Ecology, Evolution, and Genetics**  
-Our research often employs statistical tools to untangle complex ecological interactions. This experience enables us to not only develop new methods (Sato et al. 2023 Evolution) but also collaborate with other research areas (e.g., Takimoto & Sato et al. 2021 Ecological Informatics). Data from plant ecology and genomics are especially welcome for potential collaboration.  
-  
-  
-<br>
-
----
-
-# Publication
-
-*^†^Equal contribution; \*Correspondence*  
-*See also [Google scholar citations](https://scholar.google.co.jp/citations?hl=en&user=HbrGYr8AAAAJ&view_op=list_works&sortby=pubdate).*
-
-## Preprint
-
-1. **Sato Y**\*. (2025) Negative frequency-dependent selection underlies overyielding through neighbor genotypic effects in _Arabidopsis thaliana_. **_bioRxiv_** <https://doi.org/10.1101/2025.05.14.654149>  
-
-1. Akram I, Rohr L, Shimizu KK, Shimizu-Inatsugi R, **Sato Y**\*. (2025) Spatial heterogeneity of disease infection attributable to neighbor genotypic identity in barley cultivars. **_bioRxiv_** <https://doi.org/10.1101/2025.04.22.650038>  
-
-## Peer-reviewed articles
-
-1. **Sato Y**\*, Shimizu-Inatsugi R, Takeda K, Schmid B, Nagano AJ\*, Shimizu KK\*. (2024) Reducing herbivory in mixed planting by genomic prediction of neighbor effects in the field. **_Nature Communications_** 15:8467. <https://doi.org/10.1038/s41467-024-52374-7> [Media release at University of Zurich; [EN](<https://www.news.uzh.ch/en/articles/media/2024/Using-Biodiversity.html>), [DE](<https://www.news.uzh.ch/de/articles/media/2024/Schaedlinge.html>)]  
-
-1. Stockenhuber R, Akiyama R, Tissot N, Milosavljevic S, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Widmer A, Ulm R\*, Shimizu KK\*. (2024) UV RESISTANCE LOCUS 8-mediated UV-B response is required alongside CRYPTOCHROME 1 for plant survival in sunlight under field conditions. **_Plant and Cell Physiology_** 65:35-48. <https://doi.org/10.1093/pcp/pcad113>  
-
-1. The Herbivory Variability Network. (2023) Plant size, latitude, and phylogeny explain variability in herbivory. **_Science_** 382:679-683. <https://doi.org/10.1126/science.adh8830> [a consortium paper incl. Y. Sato as one of the co-authors]  
-
-1. Xu C^†^, **Sato Y**^†^\*, Yamazaki M, Brasser M, Barbour MA, Bascompte J, Shimizu KK\*. (2023) Genome-wide association study of aphid abundance highlights a locus affecting plant growth and flowering in *Arabidopsis thaliana*. **_Royal Society Open Science_** 10:230399. <https://doi.org/10.1098/rsos.230399>  
-
-1. **Sato Y**\*, Takahashi Y, Xu C, Shimizu KK\*. (2023) Detecting frequency-dependent selection through the effects of genotype similarity on fitness components. **_Evolution_** 77:1145–1157. <https://doi.org/10.1093/evolut/qpad028> [[Vignette](https://yassato.github.io/RegressionFDS/)] 
-
-1. Shimizu-Inatsugi R\*, Morishima A, Mourato B, Shimizu KK, **Sato Y**. (2023) Phenotypic variation of a new synthetic allotetraploid _Arabidopsis kamchatica_ enhanced in natural environment. **_Frontiers in Plant Science_** 13:1058522 <https://doi.org/10.3389/fpls.2022.1058522>  
-
-1. Takimoto H^†^\*, **Sato Y**^†^, Nagano AJ, Shimizu KK, Kanagawa A. (2021) Using a two-stage convolutional neural network to rapidly identify tiny herbivorous beetles in the field. **_Ecological Informatics_** 66:101466 <https://doi.org/10.1016/j.ecoinf.2021.101466>  
-
-1. **Sato Y**, Yamamoto E, Shimizu KK\*, Nagano AJ\*. (2021) Neighbor GWAS: incorporating neighbor genotypic identity into genome-wide association studies of field herbivory. **_Heredity_** 126(4):597–614. <https://doi.org/10.1038/s41437-020-00401-w> [[R package](https://cran.r-project.org/package=rNeighborGWAS)]   
-
-1. **Sato Y**^†^\*, Takeda K^†^, Nagano AJ\*. (2021) Neighbor QTL: an interval mapping method for quantitative trait loci underlying plant neighborhood effects. **_G3; Genes|Genomes|Genetics_** 11(2):jkab017. <https://doi.org/10.1093/g3journal/jkab017> [[R package](https://cran.r-project.org/package=rNeighborQTL)]  
-
-1. Shimizu-Inatsugi R\*, Milosavljevic S, Shimizu KK, Schaepman-Strub G, Tanoi K, **Sato Y.** (2021) Metal accumulation and its effect on leaf herbivory in an allopolyploid species _Arabidopsis kamchatica_ inherited from a diploid hyperaccumulator _A. halleri_. **_Plant Species Biology_** 36(2):208–217. <https://doi.org/10.1111/1442-1984.12304>  
-
-1. **Sato Y**, Tezuka A, Kashima M, Deguchi A, Shimizu-Inatsugi R, Yamazaki M, Shimizu KK\*, Nagano AJ\*. (2019) Transcriptional variation in glucosinolate biosynthetic genes and inducible responses to aphid herbivory on field-grown _Arabidopsis thaliana_. **_Frontiers in Genetics_** 10:787. <https://doi.org/10.3389/fgene.2019.00787>  
-
-1. **Sato Y**, Shimizu-Inatsugi R, Yamazaki M, Shimizu KK\*, Nagano AJ\*. (2019) Plant trichomes and a single gene _GLABRA1_ contribute to insect community composition on field-grown _Arabidopsis thaliana_. **_BMC Plant Biology_** 19:163. <https://doi.org/10.1186/s12870-019-1705-2>  
-
-1. Nakadai R^†^\*, Hashimoto K^†^, Iwasaki T, **Sato Y.** (2018) Geographical co-occurrence of butterfly species: the importance of niche filtering by host plant species. **_Oecologia_** 186(4):995–1005. <https://doi.org/10.1007/s00442-018-4062-1>  
-
-1. **Sato Y**^†^\*, Ito K^†^, Kudoh H. (2017) Optimal foraging by herbivores maintains polymorphism in defence in a natural plant population. **_Functional Ecology_** 31(12):2233-2243. <https://doi.org/10.1111/1365-2435.12937> [[postprint]](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/228143?locale=en)  
-
-1. **Sato Y**\*, Kudoh H. (2017) Herbivore-mediated interaction promotes the maintenance of trichome dimorphism through negative frequency-dependent selection. **_The American Naturalist_** 190(3):E67-E77. <https://doi.org/10.1086/692603> [[PDF]](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/226924?locale=en)  
-
-1. **Sato Y**\*, Kudoh H. (2017) Fine-scale frequency differentiation along a herbivory gradient in the trichome dimorphism of a wild _Arabidopsis_. **_Ecology and Evolution_** 7(7):2133-2141. <https://doi.org/10.1002/ece3.2830>  
-
-1. **Sato Y**\*, Kudoh H. (2016) Presence of substitute diets alters plant resistance to specialist and generalist herbivores: a meta-analysis. **_Ecosphere_** 7(11):e01446 <https://doi.org/10.1002/ecs2.1446>  
-
-1. **Sato Y**\*, Kudoh H. (2016) Associational effects against a leaf beetle mediate a minority advantage in defense and growth between hairy and glabrous plants. **_Evolutionary Ecology_** 30(1):137-154. <https://doi.org/10.1007/s10682-015-9809-0> [[postprint]](http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/201635?locale=en)  
-
-1. **Sato Y**\*, Sato S. (2015) Spring temperature predicts the long-term molting phenology of two cicadas, _Cryptotympana facialis_ and _Graptopsaltria nigrofuscata_ (Hemiptera: Cicadidae). **_Annals of the Entomological Society of America_** 108(4):494-500. <https://doi.org/10.1093/aesa/sav036> [[postprint]](http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/201636?locale=en)  
-
-1. **Sato Y**\*, Kudoh H. (2015) Tests of associational defence provided by hairy plants for glabrous plants of _Arabidopsis halleri_ subsp. _gemmifera_ against insect herbivores. **_Ecological Entomology_** 40(3):269-279. <https://doi.org/10.1111/een.12179> [[postprint]](http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/201637?locale=en)  
-
-1. **Sato Y**, Kudoh H\*. (2014) Fine-scale genetic differentiation of a temperate herb: relevance of local environments and demographic change. **_AoB PLANTS_** 6:plu070. <https://doi.org/10.1093/aobpla/plu070>  
-
-1. **Sato Y**\*, Kawagoe T, Sawada Y, Hirai MY, Kudoh H. (2014) Frequency-dependent herbivory by a leaf beetle, _Phaedon brassicae_, on hairy and glabrous plants of _Arabidopsis halleri_ subsp. _gemmifera_. **_Evolutionary Ecology_** 28(3):545-559. <https://doi.org/10.1007/s10682-013-9686-3> [[postprint]](http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/179616?locale=en)  
-
-1. **Sato Y**\*, Kudoh H. (2013) Relative strength of phenotypic selection on the height and number of flowering-stalks in the rosette annual _Cardamine hirsuta_ (Brassicaceae). **_Journal of Ecology and Environment_** 36(3):151-158. <https://doi.org/10.5141/ecoenv.2013.151>  
-
-1. **Sato Y**\*, Takakura KI, Nishida S, Nishida T. (2013) Dominant occurrence of cleistogamous flowers of _Lamium amplexicaule_ in relation to the nearby presence of an alien congener _L. purpureum_. **_ISRN Ecology_** Article ID:476862. <http://dx.doi.org/10.1155/2013/476862>  
-
-
-## Peer-reviewed monographs/reviews
-1. **Sato Y\***, Wuest SE\*. (2024) The genetics of plant–plant interactions and their cascading effects on agroecosystems -- from model plants to applications. **_Plant and Cell Physiology_** <https://doi.org/10.1093/pcp/pcae092>  
-
-1. **Sato Y\*.** (2018) Associational effects and the maintenance of polymorphism in plant defense against herbivores: review and evidence. **_Plant Species Biology_** 33(2):91-108. <https://doi.org/10.1111/1442-1984.12201> [[postprint]](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/234646?locale=en)  
-
-1. Sakata Y\*, **Sato Y.** (2017) Evolutionary ecology of plant defense: integrating different spatial scales within and among species (in Japanese). **_Japanese Journal of Ecology_** 67(3):287-306. <https://doi.org/10.18960/seitai.67.3_287>  
-  
-## Peer-reviewed conference proceedings
-1.	Kuzuhara H, Takimoto H, **Sato Y**, Kanagawa A. (2020) Insect pest detection and identification method based on deep learning for realizing a pest control system. **_Proceedings of the Society of Instrument and Control Engineers (SICE) Annual Conference 2020_**. pp. 709–714. <https://doi.org/10.23919/SICE48898.2020.9240458>  
-  
-## Books/Book chapters
-1. **Sato Y**. (2024) Chapter 7: The maintenance of trichome dimorphism through associational effects: a case study of *Arabidopsis halleri* and a leaf beetle (in Japanese). In: Ecology of Plant Defense Against Herbivores (Y. Sakata and T. Tsunoda eds), **_Species Biology Series_**, Bun-ichi Sogo Shuppan, Tokyo, Japan. ISBN: 978-4-8299-6211-4.  
-
-1. **Sato Y**, Muranaka T. (eds). (2023) Trans-Scale Biology of Plants: Integrating genomics, phenomics, and ecology to unveil biodiversity (in Japanese). **_Species Biology Series_**, Bun-ichi Sogo Shuppan, Tokyo, Japan. ISBN: 978-4-8299-6210-7.
-  
-<br>
-
-
----
-
-# Team
-
-## Principal Investigator
-
-### Yasuhiro Sato (Assistant Professor)
-
-<p><div align="left"><img src="./photo/yassato00-2.jpg" class="right" width="300" align="top"></div></p>  
-My research career began at Kyoto University in Japan. After obtaining my PhD in 2016, I experienced two postdoc positions in Japan and a senior postdoc position in Switzerland. Since 2024, I have been appointed as a tenure-track assistant professor at Hokkaido University. My research interests include ecological genetics of biotic interactions involving plants. See also [CV](./cv/CV_YasuhiroSato.pdf) for the full profile.  
-ORCID: [0000-0002-6466-723X](http://orcid.org/0000-0002-6466-723X); ResearcherID: [N-7939-2013](https://www.webofscience.com/wos/author/rid/N-7939-2013)   
-
-## Postdocs 
-
-- **Dr. Tomoki Ishiguro**  
-Tomoki is cross-appointed with [Prof. Utsumi Lab](https://evo-comm-ecology.com/) and assisting our project of plant-plant interactions.
-
-## PhD students
-
-- **Iqra Akram (EXEX Doctoral fellow)**  
-After obtaining MSc in agriculture, Iqra has been working on the genetics of plant-plant interactions in crop species since 2024.  
-
-## Master students
-
-_Currently none_  
-
-## Support staff
-
-- **Miho Kawagoe (Administrative assistant)**
-  
-<br>
-
----
-
-# Contact
+## Address  
 
 Faculty of Environmental Earth Science, Hokkaido University  
 N10W5 Kita-ku, Sapporo 060-0810, Hokkaido, Japan  
@@ -165,14 +18,6 @@ Office: B-802 (Group of Ecological Genetics)
 Phone: +81 (0)11 706 4860  
 E-mail: yassato"at"ees.hokudai.ac.jp; yassato36c"at"outlook.com  
 
-![From GoogleMap: We are located in the building of Graduate School of Environmental Science.](./photo/EES_googlemap.png){width="80%"}  
-  
----
 
-# JP
-
-Japanese version is available here（日本語版はこちらです）-> [[Japanese]](index_jp.html)
-
----
-
+![From GoogleMap: We are located in the building of Graduate School of Environmental Science.](./images/EES_googlemap.png){width="75%"}
 

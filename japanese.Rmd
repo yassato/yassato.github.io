@@ -1,23 +1,19 @@
 ---
 title: 定量生態遺伝学研究室
-output: rmdformats::readthedown
-author: (c) 2013- Y. Sato, All rights reserved.
-css: custom.css
 ---
-
-#  ようこそ
-
-## 定量生態遺伝学研究室
-
-こちらは佐藤研究室のホームページです。私達は北海道大学地球環境科学研究院で植物の生態遺伝学に関する研究を行っています。研究内容に興味を持たれた方は「連絡先」をご確認の上、佐藤までご連絡下さい。
-
 
 <br>
 
----
+## ようこそ
+
+<p>こちらは佐藤研究室のホームページです。私たちは北海道大学地球環境科学研究院で植物の生態遺伝学に関する研究を行っています。研究内容に興味を持たれた方は「連絡先」をご確認の上、佐藤までご連絡下さい。</p>
+
+<br>
 
 
-# 研究内容
+## 研究内容
+
+![](./images/photojpn.jpg){width="80%"}
 
 生物情報学の技術を使って植物を取りまく生態現象を解きほぐす研究を行っています。野外における生物の環境応答や生物間の相互作用は量的な変異をともなった複雑な形質です。取り扱いのむずかしい生態現象にオミクス科学を応用することで、現象の背後にある遺伝的基盤を定量的に理解することを目指しています。  
 
@@ -28,15 +24,14 @@ css: custom.css
 1. 生態学・進化生物学・遺伝学におけるデータ解析（Sato et al. 2023 Evolution; Sato et al. 2017 Functional Ecology他）  
 
 
-その他、興味の方向性としては以下の書籍が参考になります。日本語で読めるので、お手に取って頂けると幸いです。  
+その他の興味としては以下の書籍が参考になります。日本語で読めるので、ぜひお手に取って下さい。  
 
-![種生物学会編（佐藤・村中責任編集）『植物の超階層生物学』[文一総合出版](https://www.bun-ichi.co.jp/tabid/57/pdid/978-4-8299-6210-7/Default.aspx)](./photo/sssb6210-7.jpg){width="50%"}  
+![種生物学会編（佐藤・村中責任編集）『植物の超階層生物学』[文一総合出版](https://www.bun-ichi.co.jp/tabid/57/pdid/978-4-8299-6210-7/Default.aspx)](./images/sssb6210-7.jpg){width="30%"}  
   
 <br>
 
----
 
-# 業績
+## 業績
 
 ＊業績一覧は[researchmap](https://researchmap.jp/yassatojpn/?lang=japanese)で更新しています。以下は研究内容に関連した主な論文です。  
 
@@ -52,43 +47,51 @@ css: custom.css
   
 <br>
 
----
 
-# 構成員
+## 構成員
 
 当研究室は2024年に発足したばかりです。小規模なグループですが、JSTや科研費の支援を頂いて研究を進めています。配属や採用に興味がある方は「外部リンク」をご覧下さい。  
 
 ### 研究室主宰者
 
-<p><div align="left"><img src="./photo/yassato00-2.jpg" class="right" width="300" align="top"></div></p>  
+![](./images/yassato00small.jpg){width="25%"}
+
 佐藤　安弘　（サトウ　ヤスヒロ）  
 2016年に京都大学にて博士（理学）を取得。龍谷大学にて日本学術振興会特別研究員および科学技術振興機構さきがけ研究者、スイス・チューリッヒ大学にて助手を経験した後、2024年より北海道大学テニュアトラック助教。専門は植物を中心とした生態遺伝学。  
 
+<br>
+
+
 ### 博士研究員
 - 石黒　智基（学術研究員；[内海研究室](https://evo-comm-ecology.com/)と兼任）
+
+<br>
 
 
 ### 学生
 - AKRAM, Iqra（博士後期課程；北海道大学EXEXフェロー受給生）
 
+<br>
+
+
 ### 補佐員
 - 川越　未歩（事務補助員；[内海研究室](https://evo-comm-ecology.com/)と兼任）
   
 <br>
+<br>
 
----
 
-# 連絡先
+## 連絡先
 北海道大学大学院　地球環境科学研究院　環境生物科学部門　生態遺伝学分野  
 〒060-0810　北海道札幌市北区北10条西5丁目　地球環境科学研究院B棟802室  
 E-mail: yassato(あっと)ees.hokudai.ac.jp; yassato36c(あっと)outlook.com  
 研究者情報: ORCID:[0000-0002-6466-723X](http://orcid.org/0000-0002-6466-723X); [researchmap](https://researchmap.jp/yassatojpn/?lang=japanese); [Google scholar citations](https://scholar.google.co.jp/citations?hl=ja&user=HbrGYr8AAAAJ&view_op=list_works&sortby=pubdate); [ResearcherID](https://www.webofscience.com/wos/author/rid/N-7939-2013)  
 
-![JR札幌駅から徒歩10分程度に位置する環境科学院の建物内です（GoogleMap調べ）](./photo/EES_googlemap.png){width="50%"}
+![JR札幌駅から徒歩10分に位置する環境科学院の建物内です（Google Map調べ）](./images/EES_googlemap.png){width="75%"}
 
----
+<br>
 
-# 外部リンク
+## 外部リンク
 
 1. [北海道大学大学院環境科学院　地球環境科学研究院](https://www.ees.hokudai.ac.jp/)  
 所属大学院の公式ホームページです。大学院入試の情報もこちらから得られます。当研究室への配属を希望する場合は事前に相談して下さい。差し支えなければ研究の興味や進路の希望も教えて頂けると話がスムーズに進められます。
@@ -105,13 +108,5 @@ E-mail: yassato(あっと)ees.hokudai.ac.jp; yassato36c(あっと)outlook.com
 5. [科学技術振興機構　創発的研究支援事業（JST創発）](https://www.jst.go.jp/souhatsu/)  
 現在採択中の研究費です。一緒に研究課題に取り組む大学院生RAを募集しています（例年2月頃募集締切）。枠に限りがありますので、興味がある場合は入試と合わせて事前にご相談下さい。
 
----
-
-# EN
-
-英語ページはこちらです -> [[English]](index.html)
-
----
-  
-
+<br>
 
