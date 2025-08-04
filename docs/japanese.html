@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>定量生態遺伝学研究室</title>
+
+<script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="site_style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">QEcoGen Lab</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="publication.html">Publication</a>
+</li>
+<li>
+  <a href="team.html">Team</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="japanese.html">日本語(Japanese)</a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">定量生態遺伝学研究室</h1>
+
+</div>
+
+
+<p><br></p>
+<div id="ようこそ" class="section level2">
+<h2>ようこそ</h2>
+<p>
+こちらは佐藤研究室のホームページです。私たちは北海道大学地球環境科学研究院で植物の生態遺伝学に関する研究を行っています。研究内容に興味を持たれた方は「連絡先」をご確認の上、佐藤までご連絡下さい。
+</p>
+<p><br></p>
+</div>
+<div id="研究内容" class="section level2">
+<h2>研究内容</h2>
+<p><img src="images/photojpn.jpg" style="width:80.0%" /></p>
+<p>生物情報学の技術を使って植物を取りまく生態現象を解きほぐす研究を行っています。野外における生物の環境応答や生物間の相互作用は量的な変異をともなった複雑な形質です。取り扱いのむずかしい生態現象にオミクス科学を応用することで、現象の背後にある遺伝的基盤を定量的に理解することを目指しています。</p>
+<p>最近は特に以下の研究テーマに興味をもって取り組んでいます。</p>
+<ol style="list-style-type: decimal">
+<li>植物の個体間相互作用に関する量的遺伝学（Sato et al. 2024 Nature
+Communications他；プレスリリース記事は<a
+href="https://www.hokudai.ac.jp/news/pdf/241008_pr.pdf">こちら</a>から）</li>
+<li>植物防御の進化生態学（Sato &amp; Kudoh 2017 American
+Naturalist他）</li>
+<li>生態学・進化生物学・遺伝学におけるデータ解析（Sato et al. 2023
+Evolution; Sato et al. 2017 Functional Ecology他）</li>
+</ol>
+<p>その他の興味としては以下の書籍が参考になります。日本語で読めるので、ぜひお手に取って下さい。</p>
+<div class="float">
+<img src="images/sssb6210-7.jpg" style="width:30.0%"
+alt="種生物学会編（佐藤・村中責任編集）『植物の超階層生物学』文一総合出版" />
+<div
+class="figcaption">種生物学会編（佐藤・村中責任編集）『植物の超階層生物学』<a
+href="https://www.bun-ichi.co.jp/tabid/57/pdid/978-4-8299-6210-7/Default.aspx">文一総合出版</a></div>
+</div>
+<p><br></p>
+</div>
+<div id="業績" class="section level2">
+<h2>業績</h2>
+<p>＊業績一覧は<a
+href="https://researchmap.jp/yassatojpn/?lang=japanese">researchmap</a>で更新しています。以下は研究内容に関連した主な論文です。</p>
+<ol style="list-style-type: decimal">
+<li><p><strong>Sato Y</strong>, Shimizu-Inatsugi R, Takeda K, Schmid B,
+Nagano AJ, Shimizu KK. (2024) Reducing herbivory in mixed planting by
+genomic prediction of neighbor effects in the field. <strong><em>Nature
+Communications</em></strong> 15:8467. <a
+href="https://doi.org/10.1038/s41467-024-52374-7"
+class="uri">https://doi.org/10.1038/s41467-024-52374-7</a></p></li>
+<li><p><strong>Sato Y</strong>, Takahashi Y, Xu C, Shimizu KK. (2023)
+Detecting frequency-dependent selection through the effects of genotype
+similarity on fitness components. <strong><em>Evolution</em></strong>
+77:1145–1157. <a href="https://doi.org/10.1093/evolut/qpad028"
+class="uri">https://doi.org/10.1093/evolut/qpad028</a></p></li>
+<li><p><strong>Sato Y</strong>, Yamamoto E, Shimizu KK, Nagano AJ.
+(2021) Neighbor GWAS: incorporating neighbor genotypic identity into
+genome-wide association studies of field herbivory.
+<strong><em>Heredity</em></strong> 126(4):597–614. <a
+href="https://doi.org/10.1038/s41437-020-00401-w"
+class="uri">https://doi.org/10.1038/s41437-020-00401-w</a></p></li>
+<li><p><strong>Sato Y</strong>, Ito K, Kudoh H. (2017) Optimal foraging
+by herbivores maintains polymorphism in defence in a natural plant
+population. <strong><em>Functional Ecology</em></strong>
+31(12):2233-2243. <a href="https://doi.org/10.1111/1365-2435.12937"
+class="uri">https://doi.org/10.1111/1365-2435.12937</a></p></li>
+<li><p><strong>Sato Y</strong>, Kudoh H. (2017) Herbivore-mediated
+interaction promotes the maintenance of trichome dimorphism through
+negative frequency-dependent selection. <strong><em>The American
+Naturalist</em></strong> 190(3):E67-E77. <a
+href="https://doi.org/10.1086/692603"
+class="uri">https://doi.org/10.1086/692603</a></p></li>
+</ol>
+<p><br></p>
+</div>
+<div id="構成員" class="section level2">
+<h2>構成員</h2>
+<p>当研究室は2024年に発足したばかりです。小規模なグループですが、JSTや科研費の支援を頂いて研究を進めています。配属や採用に興味がある方は「外部リンク」をご覧下さい。</p>
+<div id="研究室主宰者" class="section level3">
+<h3>研究室主宰者</h3>
+<p><img src="images/yassato00small.jpg" style="width:25.0%" /></p>
+<p>佐藤　安弘　（サトウ　ヤスヒロ）<br />
+2016年に京都大学にて博士（理学）を取得。龍谷大学にて日本学術振興会特別研究員および科学技術振興機構さきがけ研究者、スイス・チューリッヒ大学にて助手を経験した後、2024年より北海道大学テニュアトラック助教。専門は植物を中心とした生態遺伝学。</p>
+<p><br></p>
+</div>
+<div id="博士研究員" class="section level3">
+<h3>博士研究員</h3>
+<ul>
+<li>石黒　智基（学術研究員；<a
+href="https://evo-comm-ecology.com/">内海研究室</a>と兼任）</li>
+</ul>
+<p><br></p>
+</div>
+<div id="学生" class="section level3">
+<h3>学生</h3>
+<ul>
+<li>AKRAM, Iqra（博士後期課程；北海道大学EXEXフェロー受給生）</li>
+</ul>
+<p><br></p>
+</div>
+<div id="補佐員" class="section level3">
+<h3>補佐員</h3>
+<ul>
+<li>川越　未歩（事務補助員；<a
+href="https://evo-comm-ecology.com/">内海研究室</a>と兼任）</li>
+</ul>
+<p><br> <br></p>
+</div>
+</div>
+<div id="連絡先" class="section level2">
+<h2>連絡先</h2>
+<p>北海道大学大学院　地球環境科学研究院　環境生物科学部門　生態遺伝学分野<br />
+〒060-0810　北海道札幌市北区北10条西5丁目　地球環境科学研究院B棟802室<br />
+E-mail: yassato(あっと)ees.hokudai.ac.jp;
+yassato36c(あっと)outlook.com<br />
+研究者情報: ORCID:<a
+href="http://orcid.org/0000-0002-6466-723X">0000-0002-6466-723X</a>; <a
+href="https://researchmap.jp/yassatojpn/?lang=japanese">researchmap</a>;
+<a
+href="https://scholar.google.co.jp/citations?hl=ja&amp;user=HbrGYr8AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Google
+scholar citations</a>; <a
+href="https://www.webofscience.com/wos/author/rid/N-7939-2013">ResearcherID</a></p>
+<div class="float">
+<img src="images/EES_googlemap.png" style="width:75.0%"
+alt="JR札幌駅から徒歩10分に位置する環境科学院の建物内です（Google Map調べ）" />
+<div
+class="figcaption">JR札幌駅から徒歩10分に位置する環境科学院の建物内です（Google
+Map調べ）</div>
+</div>
+<p><br></p>
+</div>
+<div id="外部リンク" class="section level2">
+<h2>外部リンク</h2>
+<ol style="list-style-type: decimal">
+<li><p><a
+href="https://www.ees.hokudai.ac.jp/">北海道大学大学院環境科学院　地球環境科学研究院</a><br />
+所属大学院の公式ホームページです。大学院入試の情報もこちらから得られます。当研究室への配属を希望する場合は事前に相談して下さい。差し支えなければ研究の興味や進路の希望も教えて頂けると話がスムーズに進められます。</p></li>
+<li><p><a
+href="https://www2.sci.hokudai.ac.jp/dept/bio/teacher/sato-yasuhiro">北海道大学理学部　生物科学科（生物学専修）</a><br />
+兼務先学部の教員紹介ページです。講義等を聴いて興味が湧いたら気軽にご連絡下さい。</p></li>
+<li><p><a
+href="https://sites.google.com/eis.hokudai.ac.jp/exexphd-fellow/">北海道大学　EXEX博士人材フェローシップポータルサイト</a><br />
+北海道大学に在学中の博士学生を対象としたフェローシップです。博士課程での配属を考える方は入試と合わせてご検討下さい。</p></li>
+<li><p><a
+href="https://www.jsps.go.jp/j-pd/">日本学術振興会　特別研究員</a><br />
+学振DCやPDの受け入れも可能です。興味のある方は事前にご相談下さい。</p></li>
+<li><p><a
+href="https://www.jst.go.jp/souhatsu/">科学技術振興機構　創発的研究支援事業（JST創発）</a><br />
+現在採択中の研究費です。一緒に研究課題に取り組む大学院生RAを募集しています（例年2月頃募集締切）。枠に限りがありますので、興味がある場合は入試と合わせて事前にご相談下さい。</p></li>
+</ol>
+<p><br></p>
+</div>
+
+<footer>
+  <p>Copyright &copy; 2013- Yasuhiro Sato, All rights reserved. </p>
+</footer>
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
