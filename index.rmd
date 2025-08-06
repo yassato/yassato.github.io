@@ -6,7 +6,16 @@ title: Laboratory of Quantitative Ecological Genetics (QEcoGen Lab)
 
 ## About us
 
-Welcome, we are studying plant ecological genetics with quantitative tools. Our lab is located in the Sapporo campus of Hokkaido University, Japan. Admission schedule for prospective graduate students is available on the official website of [Graduate School of Environmental Science](https://www.ees.hokudai.ac.jp/?lang=en). For scholarship information, please see the website of [Ministry of Education, Culture, Sports, Science and Technology (MEXT)](https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm). Currently we have no open call for postdoc positions, but you may consider [JSPS International Fellowships](https://www.jsps.go.jp/english/e-fellow/). If you wish to join our group, please send your CV and research interest to Yasuhiro Sato (yassato"at"ees.hokudai.ac.jp).  
+Welcome, we are studying plant ecological genetics using quantitative tools. Our group belongs to the [Course in Ecological Genetics](https://noah.ees.hokudai.ac.jp/bio/?p=3038&lang=en) at the Graduate School of Environmental Science located in the Sapporo campus of Hokkaido University, Japan.
+
+### Research statement
+The goal of our research is to uncover fundamental rules behind biodiversity and organismal evolution. We believe that innovations always stem from critical thinking and scientific minds, which can provide transferable skills and solutions for applied issues, such as agriculture and conservation. This concept is applied to our mentoring as well as research (see also the webpage of the [School of Science](https://www2.sci.hokudai.ac.jp/dept/bio/en/teacher/sato-yasuhiro) at Hokkaido University). If you wish to join our group, please send your CV and a berief description of your research interests to Yasuhiro Sato (yassato"at"ees.hokudai.ac.jp). We look forward to working with you in science.  
+
+### For prospective students
+The admission schedule is available on the official website of [Graduate School of Environmental Science](https://www.ees.hokudai.ac.jp/?lang=en). The score of English language proficiency tests, such as TOEIC, TOEFL-iBT, or IELTS, will be required for the admission application. You will also find scholarship information on the website of the [Ministry of Education, Culture, Sports, Science and Technology (MEXT)](https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm) or [Hokkaido University](https://www.global.hokudai.ac.jp/admissions/scholarships-for-prospective-students-2). If you need such scholarships, please specify the scheme for which you apply. As you can see in the links above, there are multiple paths for MEXT scholarship.  
+
+### For prospective postdocs
+Currently, we have no open call for project postdocs, but you can consider [JSPS International Fellowships](https://www.jsps.go.jp/english/e-fellow/). This international fellowship must be applied through the host laboratory, so please let us know your research plan as well as CV. Note also that a recommendation letter is required to complete the application.  
 
 <br>
 
@@ -19,5 +28,6 @@ Phone: +81 (0)11 706 4860
 E-mail: yassato"at"ees.hokudai.ac.jp; yassato36c"at"outlook.com  
 
 
-![From GoogleMap: We are located in the building of Graduate School of Environmental Science.](./images/EES_googlemap.png){width="75%"}
+![From GoogleMap: We are located in the building of Graduate School of Environmental Science.](./images/EES_googlemap.png){width="50%"}
 
+<br>

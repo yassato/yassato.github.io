@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Last update on 15 July 2025"
+date: "Last update on 4 August 2025"
 output:
   pdf_document: default
   html_document: default
@@ -42,13 +42,14 @@ Personal website: https://yassato.github.io/
 - April 2016–March 2020. Affiliated scientist of the Center for Ecological Research, Kyoto University, Japan  
 
 ## Approved funding and fellowships
-1. October 2024–March 2028 [Phase I]. ‘Establishment of quantitative ecological genetics for the control of plant-plant interactions’, Fusion Oriented REsearch for disruptive Science and Technology (FOREST), Japan Science and Technology Agency (JST), Japan (a single lead applicant; direct cost 50,000,000 JPY + indirect cost 15,000,000 JPY)
-1. November 2023–October 2024. ‘Using open data to reveal the genomic basis that underpins positive plant-plant interactions’, Spark rapid funding, Grant ID:CRSK-3\_221418, Swiss National Science Foundation (SNSF), Switzerland (a single lead applicant; total budget 100,000 CHF = 103,616 EUR upon the currency rate of the starting date)
-1. April 2023–March 2027. ‘Joint analysis of plant-plant interactions using field GWAS and RNA-Seq’, Grant-in-aid for Early-career Scientists, Grant ID:JP23K14270, Japan Society for the Promotion of Science (JSPS), Japan (a single lead applicant; direct cost 3,600,000 JPY + indirect cost 1,080,000 JPY = 32,116 EUR upon the currency rate of the starting date)
-1. April 2020–March 2023. ‘Theoretical consideration of plant biodiversity effects driven by inter-genotypic interactions’, Grant-in-aid for Early-career Scientists, Grant ID:JP20K15880, Japan Society for the Promotion of Science (JSPS), Japan (a single lead applicant; direct cost 3,200,000 JPY + indirect cost 960,000 JPY = 35,049 EUR upon the currency rate of the starting date)
-1. October 2017–March 2021. ‘Large-scale omics approach towards a pest control by mixed planting’, PRESTO project, Grant ID:JPMJPR17Q4, Japan Science and Technology Agency (JST) (a single lead applicant; direct cost 40,000,000 JPY + indirect cost 12,000,000 JPY = 391,418 EUR upon the currency rate of the starting date + group leader’s own salary) <https://www.jst.go.jp/kisoken/presto/en/project/1112074/1112074_26.html>
-1. April 2016–September 2017. ‘Genome-wide association study and prediction of pest communities on natural accessions of the model plant species’, Research Fellowships for Postdoctoral Researcher, Grant ID:JP16J30005, Japan Society for the Promotion of Science (JSPS) (a single lead applicant; direct cost 2,700,000 JPY + indirect cost 810,000 JPY = 27,449 EUR upon the currency rate of the starting date + fellow’s own salary)
-1. April 2015–March 2016. ‘A test of the mechanism maintaining plant defense polymorphism in a wild *Arabidopsis*’, Research Fellowships for PhD Students, Grant ID:JP15J00400, Japan Society for the Promotion of Science (JSPS) (a single lead applicant; direct cost 1,200,000 JPY + indirect cost 360,000 JPY = 12,101 EUR upon the currency rate of the starting date + fellow’s own salary)
+1. April 2025–March 2029. ‘From varieties to variety mixtures: measuring and modeling interactions and developing methods for optimizing variety combinations’, Grant-in-aid for Scientific Research (A), Grant ID:JP25H00928, Japan Society for the Promotion of Science (JSPS), Japan (co-investigator; direct cost 3,200,000 JPY + indirect cost 1,200,000 JPY)
+1. October 2024–March 2028 [Phase I]. ‘Establishment of quantitative ecological genetics for the control of plant-plant interactions’, Fusion Oriented REsearch for disruptive Science and Technology (FOREST), Japan Science and Technology Agency (JST), Japan (principal investigator; direct cost 50,000,000 JPY + indirect cost 15,000,000 JPY)
+1. November 2023–October 2024. ‘Using open data to reveal the genomic basis that underpins positive plant-plant interactions’, Spark rapid funding, Grant ID:CRSK-3\_221418, Swiss National Science Foundation (SNSF), Switzerland (principal investigator; total budget 100,000 CHF = 103,616 EUR upon the currency rate of the starting date)
+1. April 2023–March 2027. ‘Joint analysis of plant-plant interactions using field GWAS and RNA-Seq’, Grant-in-aid for Early-career Scientists, Grant ID:JP23K14270, Japan Society for the Promotion of Science (JSPS), Japan (principal investigator; direct cost 3,600,000 JPY + indirect cost 1,080,000 JPY = 32,116 EUR upon the currency rate of the starting date)
+1. April 2020–March 2023. ‘Theoretical consideration of plant biodiversity effects driven by inter-genotypic interactions’, Grant-in-aid for Early-career Scientists, Grant ID:JP20K15880, Japan Society for the Promotion of Science (JSPS), Japan (principal investigator; direct cost 3,200,000 JPY + indirect cost 960,000 JPY = 35,049 EUR upon the currency rate of the starting date)
+1. October 2017–March 2021. ‘Large-scale omics approach towards a pest control by mixed planting’, PRESTO project, Grant ID:JPMJPR17Q4, Japan Science and Technology Agency (JST) (principal investigator; direct cost 40,000,000 JPY + indirect cost 12,000,000 JPY = 391,418 EUR upon the currency rate of the starting date + group leader’s own salary) <https://www.jst.go.jp/kisoken/presto/en/project/1112074/1112074_26.html>
+1. April 2016–September 2017. ‘Genome-wide association study and prediction of pest communities on natural accessions of the model plant species’, Research Fellowships for Postdoctoral Researcher, Grant ID:JP16J30005, Japan Society for the Promotion of Science (JSPS) (principal investigator; direct cost 2,700,000 JPY + indirect cost 810,000 JPY = 27,449 EUR upon the currency rate of the starting date + fellow’s own salary)
+1. April 2015–March 2016. ‘A test of the mechanism maintaining plant defense polymorphism in a wild *Arabidopsis*’, Research Fellowships for PhD Students, Grant ID:JP15J00400, Japan Society for the Promotion of Science (JSPS) (principal investigator; direct cost 1,200,000 JPY + indirect cost 360,000 JPY = 12,101 EUR upon the currency rate of the starting date + fellow’s own salary)
 
 ## Mentoring
 1. Iqra Akram (PhD student at Hokkaido University; Role: supervisor)
@@ -154,7 +155,7 @@ Personal website: https://yassato.github.io/
 1. **Sato Y**\*, Takakura KI, Nishida S, Nishida T. (2013) Dominant occurrence of cleistogamous flowers of _Lamium amplexicaule_ in relation to the nearby presence of an alien congener _L. purpureum_. **_ISRN Ecology_** Article ID:476862. <http://dx.doi.org/10.1155/2013/476862>
 
 ## Peer-reviewed monographs
-1. **Sato Y\***, Wuest SE\*. (2024) The genetics of plant–plant interactions and their cascading effects on agroecosystems -- from model plants to applications. **_Plant and Cell Physiology_** <https://doi.org/10.1093/pcp/pcae092>
+1. **Sato Y**\*^†^, Wuest SE\*. (2025) The genetics of plant–plant interactions and their cascading effects on agroecosystems -- from model plants to applications. 66(4):477-489. **_Plant and Cell Physiology_** <https://doi.org/10.1093/pcp/pcae092>
 1. **Sato Y\*.** (2018) Associational effects and the maintenance of polymorphism in plant defense against herbivores: review and evidence. **_Plant Species Biology_** 33(2):91-108. <https://doi.org/10.1111/1442-1984.12201>
 1. Sakata Y\*, **Sato Y.** (2017) Evolutionary ecology of plant defense: integrating different spatial scales within and among species (in Japanese). **_Japanese Journal of Ecology_** 67(3):287-306. <https://doi.org/10.18960/seitai.67.3_287>
 
