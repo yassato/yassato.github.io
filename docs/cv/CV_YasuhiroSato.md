@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Last update on 4 August 2025"
+date: "Last update on 8 August 2025"
 output:
   pdf_document: default
   html_document: default
@@ -203,4 +203,5 @@ Personal website: https://yassato.github.io/
 
 1. Akram I, Rohr L, Shimizu KK, Shimizu-Inatsugi R, **Sato Y**\*. (2025) Spatial heterogeneity of disease infection attributable to neighbor genotypic identity in barley cultivars. **_bioRxiv_** <https://doi.org/10.1101/2025.04.22.650038>  
 
-
+## Others
+1. Tsuchimatsu T\*, Sasaki E, **Sato, Y**, Castric V. (2025) Ecology and evolution: genetic and molecular dynamics of plants in nature. **_Plant and Cell Physiology_** 66(4):427–430. <https://doi.org/10.1093/pcp/pcaf035> [Editorial preface for the special issue 'Ecology and Evolution']  

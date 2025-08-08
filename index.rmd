@@ -31,7 +31,7 @@ Faculty of Environmental Earth Science, Hokkaido University
 N10W5 Kita-ku, Sapporo 060-0810, Hokkaido, Japan  
 Office: B-802 (Group of Ecological Genetics)  
 Phone: +81 (0)11 706 4860  
-E-mail: yassato"at"ees.hokudai.ac.jp; yassato36c"at"outlook.com  
+E-mail: yassato"at"ees.hokudai.ac.jp  
 
 
 ![From GoogleMap: We are located in the building of Graduate School of Environmental Science.](./images/EES_googlemap.png){width="50%"}
