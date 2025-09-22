@@ -12,7 +12,7 @@ navbar:
       href: team.html
   right:
     - text: "日本語(Japanese)"
-      href: japanese.html
+      href: index_jp.html
 output:
   html_document:
     theme: cerulean
