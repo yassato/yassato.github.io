@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Last update on 8 August 2025"
+date: "Last update on 26 December 2025"
 output:
   pdf_document: default
   html_document: default
@@ -129,6 +129,7 @@ Personal website: https://yassato.github.io/
 *^†^Equal contribution; \*Correspondence*  
 
 ## Peer-reviewed articles
+1. Akram I, Rohr L, Shimizu KK, Shimizu-Inatsugi R, **Sato Y**\*. (2025) Spatial heterogeneity of disease infection attributable to neighbor genotypic identity in barley cultivars. **_in silico Plants_** <https://doi.org/10.1093/insilicoplants/diaf023>
 1. **Sato Y**\*, Shimizu-Inatsugi R, Takeda K, Schmid B, Nagano AJ\*, Shimizu KK\*. (2024) Reducing herbivory in mixed planting by genomic prediction of neighbor effects in the field. **_Nature Communications_** 15:8467. <https://doi.org/10.1038/s41467-024-52374-7>
 1. Stockenhuber R, Akiyama R, Tissot N, Milosavljevic S, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Widmer A, Ulm R\*, Shimizu KK\*. (2024) UV RESISTANCE LOCUS 8-mediated UV-B response is required alongside CRYPTOCHROME 1 for plant survival in sunlight under field conditions. **_Plant and Cell Physiology_** 65:35-48. <https://doi.org/10.1093/pcp/pcad113>
 1. The Herbivory Variability Network. (2023) Plant size, latitude, and phylogeny explain variability in herbivory. **_Science_** 382:679-683. <https://doi.org/10.1126/science.adh8830> [a consortium paper including Y. Sato as one of 191 co-authors]
@@ -200,8 +201,6 @@ Personal website: https://yassato.github.io/
 ## Preprint
 
 1. **Sato Y**\*. (2025) Negative frequency-dependent selection underlies overyielding through neighbor genotypic effects in _Arabidopsis thaliana_. **_bioRxiv_** <https://doi.org/10.1101/2025.05.14.654149>  
-
-1. Akram I, Rohr L, Shimizu KK, Shimizu-Inatsugi R, **Sato Y**\*. (2025) Spatial heterogeneity of disease infection attributable to neighbor genotypic identity in barley cultivars. **_bioRxiv_** <https://doi.org/10.1101/2025.04.22.650038>  
 
 ## Others
 1. Tsuchimatsu T\*, Sasaki E, **Sato, Y**, Castric V. (2025) Ecology and evolution: genetic and molecular dynamics of plants in nature. **_Plant and Cell Physiology_** 66(4):427–430. <https://doi.org/10.1093/pcp/pcaf035> [Editorial preface for the special issue 'Ecology and Evolution']  
