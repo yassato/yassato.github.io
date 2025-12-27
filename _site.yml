@@ -8,8 +8,8 @@ navbar:
       href: research.html
     - text: "Publication"
       href: publication.html
-    - text: "Team"
-      href: team.html
+    - text: "Member"
+      href: member.html
   right:
     - text: "日本語(Japanese)"
       href: index_jp.html
