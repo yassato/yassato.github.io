@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Last update on 21 January 2026"
+date: "Last update on 13 March 2026"
 output:
   pdf_document: default
   html_document: default
@@ -126,15 +126,15 @@ Personal website: https://yassato.github.io/
 
 # Achievements
 
-*^†^Equal contribution; \*Correspondence*  
+*^†^Equal contribution; \*Correspondence; ^#^Mentee*  
 
 ## Peer-reviewed articles
-1. Akram I, Rohr L, Shimizu KK, Shimizu-Inatsugi R, **Sato Y**\*. (2026) Spatial heterogeneity of disease infection attributable to neighbor genotypic identity in barley cultivars. **_in silico Plants_** 8:diaf023. <https://doi.org/10.1093/insilicoplants/diaf023>
+1. Akram I^#^, Rohr L^#^, Shimizu KK, Shimizu-Inatsugi R, **Sato Y**\*. (2026) Spatial heterogeneity of disease infection attributable to neighbor genotypic identity in barley cultivars. **_in silico Plants_** 8:diaf023. <https://doi.org/10.1093/insilicoplants/diaf023>
 1. **Sato Y**\*, Shimizu-Inatsugi R, Takeda K, Schmid B, Nagano AJ\*, Shimizu KK\*. (2024) Reducing herbivory in mixed planting by genomic prediction of neighbor effects in the field. **_Nature Communications_** 15:8467. <https://doi.org/10.1038/s41467-024-52374-7>
 1. Stockenhuber R, Akiyama R, Tissot N, Milosavljevic S, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Widmer A, Ulm R\*, Shimizu KK\*. (2024) UV RESISTANCE LOCUS 8-mediated UV-B response is required alongside CRYPTOCHROME 1 for plant survival in sunlight under field conditions. **_Plant and Cell Physiology_** 65:35-48. <https://doi.org/10.1093/pcp/pcad113>
 1. The Herbivory Variability Network. (2023) Plant size, latitude, and phylogeny explain variability in herbivory. **_Science_** 382:679-683. <https://doi.org/10.1126/science.adh8830> [a consortium paper including Y. Sato as one of 191 co-authors]
-1. Xu C^†^, **Sato Y**^†^\*, Yamazaki M, Brasser M, Barbour MA, Bascompte J, Shimizu KK\*. (2023) Genome-wide association study of aphid abundance highlights a locus affecting plant growth and flowering in *Arabidopsis thaliana*. **_Royal Society Open Science_** 10:230399. <https://doi.org/10.1098/rsos.230399>
-1. **Sato Y**\*, Takahashi Y, Xu C, Shimizu KK\*. (2023) Detecting frequency-dependent selection through the effects of genotype similarity on fitness components. **_Evolution_** 77:1145–1157. <https://doi.org/10.1093/evolut/qpad028>
+1. Xu C^†#^, **Sato Y**^†^\*, Yamazaki M, Brasser M, Barbour MA, Bascompte J, Shimizu KK\*. (2023) Genome-wide association study of aphid abundance highlights a locus affecting plant growth and flowering in *Arabidopsis thaliana*. **_Royal Society Open Science_** 10:230399. <https://doi.org/10.1098/rsos.230399>
+1. **Sato Y**\*, Takahashi Y, Xu C^#^, Shimizu KK\*. (2023) Detecting frequency-dependent selection through the effects of genotype similarity on fitness components. **_Evolution_** 77:1145–1157. <https://doi.org/10.1093/evolut/qpad028>
 1. Shimizu-Inatsugi R\*, Morishima A, Mourato B, Shimizu KK, **Sato Y**. (2023) Phenotypic variation of a new synthetic allotetraploid _Arabidopsis kamchatica_ enhanced in natural environment. **_Frontiers in Plant Science_** 13:1058522 <https://doi.org/10.3389/fpls.2022.1058522>
 1. Takimoto H^†^\*, **Sato Y**^†^, Nagano AJ, Shimizu KK, Kanagawa A. (2021) Using a two-stage convolutional neural network to rapidly identify tiny herbivorous beetles in the field. **_Ecological Informatics_** 66:101466 <https://doi.org/10.1016/j.ecoinf.2021.101466>
 1. **Sato Y**, Yamamoto E, Shimizu KK\*, Nagano AJ\*. (2021) Neighbor GWAS: incorporating neighbor genotypic identity into genome-wide association studies of field herbivory. **_Heredity_** 126(4):597–614. <https://doi.org/10.1038/s41437-020-00401-w>
@@ -164,6 +164,7 @@ Personal website: https://yassato.github.io/
 1.	Kuzuhara H, Takimoto H, **Sato Y**, Kanagawa A. (2020) Insect pest detection and identification method based on deep learning for realizing a pest control system. **_Proceedings of the Society of Instrument and Control Engineers (SICE) 2020 Annual Conference 2020_**. pp. 709–714. <https://doi.org/10.23919/SICE48898.2020.9240458> 
 
 ## Contributions to books
+1. **Sato Y**, Akram I^#^. (2026). Extending genomic prediction from individuals to a population and community. In: **_Advances in Ecological Research_** <https://doi.org/10.1016/bs.aecr.2026.02.001>
 1. **Sato Y**. (2024) Chapter 7: The maintenance of trichome dimorphism through associational effects: a case study of *Arabidopsis halleri* and a leaf beetle (in Japanese). In: Ecology of Plant Defense Against Herbivores (Y. Sakata and T. Tsunoda eds), **_Species Biology Series_**, Bun-ichi Sogo Shuppan, Tokyo, Japan. ISBN:978-4-8299-6211-4.
 1. **Sato Y**, Muranaka T. (eds). (2023) Trans-Scale Biology of Plants: Integrating genomics, phenomics, and ecology to unveil biodiversity (in Japanese). **_Species Biology Series_**, Bun-ichi Sogo Shuppan, Tokyo, Japan. ISBN:978-4-8299-6210-7.  
 
@@ -200,7 +201,9 @@ Personal website: https://yassato.github.io/
 
 ## Preprint
 
-1. **Sato Y**\*. (2025) Negative frequency-dependent selection underlies overyielding through neighbor genotypic effects in _Arabidopsis thaliana_. **_bioRxiv_** <https://doi.org/10.1101/2025.05.14.654149>  
+1. **Sato Y**\*. (2025) Negative frequency-dependent selection underlies overyielding through neighbor genotypic effects in _Arabidopsis thaliana_. **_bioRxiv_** <https://doi.org/10.1101/2025.05.14.654149>
+1. Tomita A, Maeda T, Mori-Moriyama N, Nomura Y, Kurita Y, Kashima M, Betsuyaku S, **Sato Y**\*, Nagano AJ\*. (2026). Transcriptomic biomarkers reveal jasmonic and salicylic acid state under field herbivory. **_bioRxiv_** <https://doi.org/10.1101/2025.05.29.656841>
+
 
 ## Others
 1. Tsuchimatsu T\*, Sasaki E, **Sato Y**, Castric V. (2025) Ecology and evolution: genetic and molecular dynamics of plants in nature. **_Plant and Cell Physiology_** 66(4):427–430. <https://doi.org/10.1093/pcp/pcaf035> [Editorial preface for the special issue 'Ecology and Evolution']  

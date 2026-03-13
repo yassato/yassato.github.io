@@ -11,6 +11,8 @@ title: Publication
 
 1. **Sato Y**\*. (2025) Negative frequency-dependent selection underlies overyielding through neighbor genotypic effects in _Arabidopsis thaliana_. **_bioRxiv_** <https://doi.org/10.1101/2025.05.14.654149>  
 
+1. Tomita A, Maeda T, Mori-Moriyama N, Nomura Y, Kurita Y, Kashima M, Betsuyaku S, **Sato Y**\*, Nagano AJ\*. (2026). Transcriptomic biomarkers reveal jasmonic and salicylic acid state under field herbivory. **_bioRxiv_** <https://doi.org/10.1101/2025.05.29.656841>
+
 <br>
 
 ## Peer-reviewed articles
@@ -80,6 +82,8 @@ title: Publication
 <br>
   
 ## Books/Book chapters
+1. **Sato Y**, Akram, I. (2026). Extending genomic prediction from individuals to a population and community. In: **_Advances in Ecological Research_** <https://doi.org/10.1016/bs.aecr.2026.02.001>  
+
 1. **Sato Y**. (2024) Chapter 7: The maintenance of trichome dimorphism through associational effects: a case study of *Arabidopsis halleri* and a leaf beetle (in Japanese). In: Ecology of Plant Defense Against Herbivores (Y. Sakata and T. Tsunoda eds), **_Species Biology Series_**, Bun-ichi Sogo Shuppan, Tokyo, Japan. ISBN: 978-4-8299-6211-4.  
 
 1. **Sato Y**, Muranaka T. (eds). (2023) Trans-Scale Biology of Plants: Integrating genomics, phenomics, and ecology to unveil biodiversity (in Japanese). **_Species Biology Series_**, Bun-ichi Sogo Shuppan, Tokyo, Japan. ISBN: 978-4-8299-6210-7.
