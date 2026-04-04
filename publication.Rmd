@@ -9,9 +9,11 @@ title: Publication
 
 ## Preprint
 
-1. **Sato Y**\*. (2025) Negative frequency-dependent selection underlies overyielding through neighbor genotypic effects in _Arabidopsis thaliana_. **_bioRxiv_** <https://doi.org/10.1101/2025.05.14.654149>  
+1. **Sato Y**\*. (in press) Negative frequency-dependent selection underlies overyielding through neighbor genotypic effects in _Arabidopsis thaliana_. **_bioRxiv_** <https://doi.org/10.1101/2025.05.14.654149>  
 
 1. Tomita A, Maeda T, Mori-Moriyama N, Nomura Y, Kurita Y, Kashima M, Betsuyaku S, **Sato Y**\*, Nagano AJ\*. (2026). Transcriptomic biomarkers reveal jasmonic and salicylic acid state under field herbivory. **_bioRxiv_** <https://doi.org/10.1101/2025.05.29.656841>
+
+1. **Sato Y**\*, Hamazaki K\*. (2026) Dissecting oligogenic and polygenic indirect genetic effects through the lens of neighbor genotypic identity. **_bioRxiv_** <https://doi.org/10.64898/2026.03.31.715746>
 
 <br>
 
