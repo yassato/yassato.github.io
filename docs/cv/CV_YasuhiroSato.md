@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Last update on 4 April 2026"
+date: "Last update on 1 July 2026"
 output:
   pdf_document: default
   html_document: default
@@ -96,6 +96,7 @@ Personal website: https://yassato.github.io/
 1. March 2015. Sakata Y and **Sato Y**. Overview of evolutionary ecology of plant-herbivore interactions (in Japanese). Workshop 12: The 62nd Annual Meeting of the Ecological Society of Japan, Kagoshima, Japan
  
 ## Prizes and awards
+1. 8 April 2026. The Young Scientists’ Award, The Commendation for Science and Technology, Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan
 1. 2 February 2018. Inoue Research Award for Early-career Scientists, Inoue Foundation for Science, Japan
 1. 3 December 2016. Kataoka Award for Early-career Researchers, The Society for the Study of Species Biology, Japan
 1. 2 March 2016. Ikushi Prize for Outstanding PhD Students, Japan Society for the Promotion of Science (JSPS), Japan <https://www.jsps.go.jp/english/e-ikushi-prize/awards_fy2015_01.html>
@@ -129,6 +130,8 @@ Personal website: https://yassato.github.io/
 *^†^Equal contribution; \*Correspondence; ^#^Mentee*  
 
 ## Peer-reviewed articles
+1. **Sato Y**\*, Nishida T. (2026) Recurrent visitation by lycaenid butterflies and honeybees to the same individuals of _Achyranthes bidentata_ (Amaranthaceae). **_Plant Species Biology_** <https://doi.org/10.1111/1442-1984.70064>
+1. **Sato Y**\*. (2026) Negative frequency-dependent selection underlies overyielding through neighbour genotypic effects in _Arabidopsis thaliana_. **_Philosophical Transactions of the Royal Society B_** 381:20250179. <https://doi.org/10.1098/rstb.2025.0179>
 1. Akram I^#^, Rohr L^#^, Shimizu KK, Shimizu-Inatsugi R, **Sato Y**\*. (2026) Spatial heterogeneity of disease infection attributable to neighbor genotypic identity in barley cultivars. **_in silico Plants_** 8:diaf023. <https://doi.org/10.1093/insilicoplants/diaf023>
 1. **Sato Y**\*, Shimizu-Inatsugi R, Takeda K, Schmid B, Nagano AJ\*, Shimizu KK\*. (2024) Reducing herbivory in mixed planting by genomic prediction of neighbor effects in the field. **_Nature Communications_** 15:8467. <https://doi.org/10.1038/s41467-024-52374-7>
 1. Stockenhuber R, Akiyama R, Tissot N, Milosavljevic S, Yamazaki M, Wyler M, Arongaus AB, Podolec R, **Sato Y**, Widmer A, Ulm R\*, Shimizu KK\*. (2024) UV RESISTANCE LOCUS 8-mediated UV-B response is required alongside CRYPTOCHROME 1 for plant survival in sunlight under field conditions. **_Plant and Cell Physiology_** 65:35-48. <https://doi.org/10.1093/pcp/pcad113>
@@ -164,7 +167,7 @@ Personal website: https://yassato.github.io/
 1.	Kuzuhara H, Takimoto H, **Sato Y**, Kanagawa A. (2020) Insect pest detection and identification method based on deep learning for realizing a pest control system. **_Proceedings of the Society of Instrument and Control Engineers (SICE) 2020 Annual Conference 2020_**. pp. 709–714. <https://doi.org/10.23919/SICE48898.2020.9240458> 
 
 ## Contributions to books
-1. **Sato Y**, Akram I^#^. (2026). Extending genomic prediction from individuals to a population and community. In: **_Advances in Ecological Research_** <https://doi.org/10.1016/bs.aecr.2026.02.001>
+1. **Sato Y**, Akram I^#^. (2026). Chapter six - Extending genomic prediction from individuals to a population and community. In: **_Advances in Ecological Research_** vol. 74, pp. 153–189. <https://doi.org/10.1016/bs.aecr.2026.02.001>
 1. **Sato Y**. (2024) Chapter 7: The maintenance of trichome dimorphism through associational effects: a case study of *Arabidopsis halleri* and a leaf beetle (in Japanese). In: Ecology of Plant Defense Against Herbivores (Y. Sakata and T. Tsunoda eds), **_Species Biology Series_**, Bun-ichi Sogo Shuppan, Tokyo, Japan. ISBN:978-4-8299-6211-4.
 1. **Sato Y**, Muranaka T. (eds). (2023) Trans-Scale Biology of Plants: Integrating genomics, phenomics, and ecology to unveil biodiversity (in Japanese). **_Species Biology Series_**, Bun-ichi Sogo Shuppan, Tokyo, Japan. ISBN:978-4-8299-6210-7.  
 
@@ -201,9 +204,8 @@ Personal website: https://yassato.github.io/
 
 ## Preprint
 
-1. **Sato Y**\*. (in press) Negative frequency-dependent selection underlies overyielding through neighbor genotypic effects in _Arabidopsis thaliana_. **_bioRxiv_** <https://doi.org/10.1101/2025.05.14.654149>
 1. Tomita A, Maeda T, Mori-Moriyama N, Nomura Y, Kurita Y, Kashima M, Betsuyaku S, **Sato Y**\*, Nagano AJ\*. (2026). Transcriptomic biomarkers reveal jasmonic and salicylic acid state under field herbivory. **_bioRxiv_** <https://doi.org/10.1101/2025.05.29.656841>
-1. **Sato Y**\*, Hamazaki K\*. (2026) Dissecting oligogenic and polygenic indirect genetic effects through the lens of neighbor genotypic identity. **_bioRxiv_** <https://doi.org/10.64898/2026.03.31.715746>
+1. **Sato Y**\*, Hamazaki K\*. (2026) Dissecting oligogenic and polygenic indirect genetic effects through the lens of neighbor genotypic identity. **_eLife_** <https://doi.org/10.7554/eLife.111650> [version 1]
 
 
 ## Others
