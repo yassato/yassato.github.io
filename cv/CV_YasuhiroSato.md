@@ -1,6 +1,6 @@
 ---
 title: "Yasuhiro Sato, Ph.D."
-date: "Last update on 1 July 2026"
+date: "Last update on 19 September 2026"
 output:
   pdf_document: default
   html_document: default
@@ -130,7 +130,7 @@ Personal website: https://yassato.github.io/
 *^†^Equal contribution; \*Correspondence; ^#^Mentee*  
 
 ## Peer-reviewed articles
-1. **Sato Y**\*, Nishida T. (2026) Recurrent visitation by lycaenid butterflies and honeybees to the same individuals of _Achyranthes bidentata_ (Amaranthaceae). **_Plant Species Biology_** <https://doi.org/10.1111/1442-1984.70064>
+1. **Sato Y**\*, Nishida T. (2026) Recurrent visitation by lycaenid butterflies and honeybees to the same individuals of _Achyranthes bidentata_ (Amaranthaceae). **_Plant Species Biology_** 41:e70064. <https://doi.org/10.1111/1442-1984.70064>
 1. **Sato Y**\*. (2026) Negative frequency-dependent selection underlies overyielding through neighbour genotypic effects in _Arabidopsis thaliana_. **_Philosophical Transactions of the Royal Society B_** 381:20250179. <https://doi.org/10.1098/rstb.2025.0179>
 1. Akram I^#^, Rohr L^#^, Shimizu KK, Shimizu-Inatsugi R, **Sato Y**\*. (2026) Spatial heterogeneity of disease infection attributable to neighbor genotypic identity in barley cultivars. **_in silico Plants_** 8:diaf023. <https://doi.org/10.1093/insilicoplants/diaf023>
 1. **Sato Y**\*, Shimizu-Inatsugi R, Takeda K, Schmid B, Nagano AJ\*, Shimizu KK\*. (2024) Reducing herbivory in mixed planting by genomic prediction of neighbor effects in the field. **_Nature Communications_** 15:8467. <https://doi.org/10.1038/s41467-024-52374-7>
@@ -204,6 +204,7 @@ Personal website: https://yassato.github.io/
 
 ## Preprint
 
+1. Pérez-López CB, White F, Abonnenc N, L'Anglais-Landry S, Milot É, MacDonald AM, Jacques PÉ, **Sato Y**, Barbour MA\*. (2026). Epistasis and an oligogenic architecture underlie the strength of a plant-herbivore interaction. **_bioRxiv_** <https://doi.org/10.64898/2026.09.14.751214>
 1. Tomita A, Maeda T, Mori-Moriyama N, Nomura Y, Kurita Y, Kashima M, Betsuyaku S, **Sato Y**\*, Nagano AJ\*. (2026). Transcriptomic biomarkers reveal jasmonic and salicylic acid state under field herbivory. **_bioRxiv_** <https://doi.org/10.1101/2025.05.29.656841>
 1. **Sato Y**\*, Hamazaki K\*. (2026) Dissecting oligogenic and polygenic indirect genetic effects through the lens of neighbor genotypic identity. **_eLife_** <https://doi.org/10.7554/eLife.111650> [version 1]
 
