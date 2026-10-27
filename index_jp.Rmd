@@ -85,16 +85,14 @@ title: 定量生態遺伝学研究室
 
 ＊業績一覧は[researchmap](https://researchmap.jp/yassatojpn/?lang=japanese)で更新しています。以下は研究内容に関連した主な論文です。  
 
-1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Schmid B, Nagano AJ, Shimizu KK. (2024) Reducing herbivory in mixed planting by genomic prediction of neighbor effects in the field. **_Nature Communications_** 15:8467. <https://doi.org/10.1038/s41467-024-52374-7> 
+1. **Sato Y**. (2026) Negative frequency-dependent selection underlies overyielding through neighbour genotypic effects in _Arabidopsis thaliana_. **_Philosophical Transactions of the Royal Society B_** 381:20250179. <https://doi.org/10.1098/rstb.2025.0179>  
 
-1. **Sato Y**, Takahashi Y, Xu C, Shimizu KK. (2023) Detecting frequency-dependent selection through the effects of genotype similarity on fitness components. **_Evolution_** 77:1145–1157. <https://doi.org/10.1093/evolut/qpad028> 
+1. **Sato Y**, Shimizu-Inatsugi R, Takeda K, Schmid B, Nagano AJ, Shimizu KK. (2024) Reducing herbivory in mixed planting by genomic prediction of neighbor effects in the field. **_Nature Communications_** 15:8467. <https://doi.org/10.1038/s41467-024-52374-7>  
+
+1. **Sato Y**, Takahashi Y, Xu C, Shimizu KK. (2023) Detecting frequency-dependent selection through the effects of genotype similarity on fitness components. **_Evolution_** 77:1145–1157. <https://doi.org/10.1093/evolut/qpad028>  
 
 1. **Sato Y**, Yamamoto E, Shimizu KK, Nagano AJ. (2021) Neighbor GWAS: incorporating neighbor genotypic identity into genome-wide association studies of field herbivory. **_Heredity_** 126(4):597–614. <https://doi.org/10.1038/s41437-020-00401-w>   
 
-1. **Sato Y**, Ito K, Kudoh H. (2017) Optimal foraging by herbivores maintains polymorphism in defence in a natural plant population. **_Functional Ecology_** 31(12):2233-2243. <https://doi.org/10.1111/1365-2435.12937>  
-
-1. **Sato Y**, Kudoh H. (2017) Herbivore-mediated interaction promotes the maintenance of trichome dimorphism through negative frequency-dependent selection. **_The American Naturalist_** 190(3):E67-E77. <https://doi.org/10.1086/692603>  
-  
 <br>
 
 
